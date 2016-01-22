@@ -1,0 +1,2398 @@
+{
+ "episodes": [
+  {
+   "total_time": 2037, 
+   "subtitle": "Last week Charles moved his blog from his company site to a new domain in order to separate his blog posts aimed at other developers from the messages he's trying to communicate to his professional customers.", 
+   "description": "Last week Charles moved his blog from his company site to a new domain in order to separate his blog posts aimed at other developers from the messages he's trying to communicate to his professional customers. Today we use that as a jumping off point to discuss blogs, communicating with your target audience, and different strategies we have used over the years to share our message with the world. Save the Date! If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-29, 2016. That's when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year's conference, you can view them on our website: http://releasenotes.tv/conference Mailing List Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you'd like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at http://releasenotes.tv/mailinglist. Show Notes and Links DazeEnd.org \u2013 The new home of Charles' blog joec.design \u2013 Joe's blog", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/140-like-watching-paint-dry/", 
+   "guid": "http://releasenotes.tv/?p=1364", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_140.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16363321
+    }
+   ], 
+   "description_html": "<p>Last week Charles moved his blog from his company site to a new domain in order to separate his blog posts aimed at other developers from the messages he&#8217;s trying to communicate to his professional customers. Today we use that as a jumping off point to discuss blogs, communicating with your target audience, and different strategies we have used over the years to share our message with the world.<br />\n<span id=\"more-1364\"></span></p>\n<h2>Save the Date!</h2>\n<p>If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-29, 2016. That&#8217;s when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year&#8217;s conference, you can view them on our website: <a href=\"http://releasenotes.tv/conference\">http://releasenotes.tv/conference</a></p>\n<h2>Mailing List</h2>\n<p>Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you&#8217;d like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at <a href=\"http://releasenotes.tv/mailinglist\">http://releasenotes.tv/mailinglist</a>.</p>\n<h2>Show Notes and Links</h2>\n<ul>\n<li><a href=\"http://dazeend.org\">DazeEnd.org</a> &ndash; The new home of Charles&#8217; blog</li>\n<li><a href=\"http://www.joecieplinski.com/blog/\">joec.design</a> &ndash; Joe&#8217;s blog</li>\n</ul>\n<p></p>", 
+   "title": "#140: Like Watching Paint Dry", 
+   "published": 1453129922
+  }, 
+  {
+   "total_time": 1886, 
+   "subtitle": "Today we continue reflecting back on 2015 and looking forward to 2016. Joe talks about his music, we share some financial figures, we look at how we did on our goals from 2015, and share what we'd like to get done in the new year. Save the Date!", 
+   "description": "Today we continue reflecting back on 2015 and looking forward to 2016. Joe talks about his music, we share some financial figures, we look at how we did on our goals from 2015, and share what we'd like to get done in the new year. Save the Date! If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-29, 2016. That's when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year's conference, you can view them on our website: http://releasenotes.tv/conference Mailing List Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you'd like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at http://releasenotes.tv/mailinglist.", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/139-looking-back-and-ahead-part-2/", 
+   "guid": "http://releasenotes.tv/?p=1360", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_139.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15152500
+    }
+   ], 
+   "description_html": "<p>Today we continue reflecting back on 2015 and looking forward to 2016. Joe talks about his music, we share some financial figures, we look at how we did on our goals from 2015, and share what we&#8217;d like to get done in the new year.<br />\n<span id=\"more-1360\"></span></p>\n<h2>Save the Date!</h2>\n<p>If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-29, 2016. That&#8217;s when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year&#8217;s conference, you can view them on our website: <a href=\"http://releasenotes.tv/conference\">http://releasenotes.tv/conference</a></p>\n<h2>Mailing List</h2>\n<p>Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you&#8217;d like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at <a href=\"http://releasenotes.tv/mailinglist\">http://releasenotes.tv/mailinglist</a>.</p>\n<p></p>", 
+   "title": "#139: Looking Back and Ahead (part 2)", 
+   "published": 1452526826
+  }, 
+  {
+   "total_time": 1779, 
+   "subtitle": "Today we're taking a look back at 2015 and forward to 2016. We talk about products we shipped, conferences we attended, and the pleasure of catching our breath after an iOS 9 release with few major changes. Save the Date!", 
+   "description": "Today we're taking a look back at 2015 and forward to 2016. We talk about products we shipped, conferences we attended, and the pleasure of catching our breath after an iOS 9 release with few major changes. Save the Date! If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-29, 2016. That's when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year's conference, you can view them on our website: http://releasenotes.tv/conference Mailing List Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you'd like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at http://releasenotes.tv/mailinglist. Show Notes and Links Peers Conference \u2013 a conference about the business of Web", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/138-looking-back-and-ahead/", 
+   "guid": "http://releasenotes.tv/?p=1355", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_138.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 14293594
+    }
+   ], 
+   "description_html": "<p>Today we&#8217;re taking a look back at 2015 and forward to 2016. We talk about products we shipped, conferences we attended, and the pleasure of catching our breath after an iOS 9 release with few major changes.<br />\n<span id=\"more-1355\"></span></p>\n<h2>Save the Date!</h2>\n<p>If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-29, 2016. That&#8217;s when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year&#8217;s conference, you can view them on our website: <a href=\"http://releasenotes.tv/conference\">http://releasenotes.tv/conference</a></p>\n<h2>Mailing List</h2>\n<p>Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you&#8217;d like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at <a href=\"http://releasenotes.tv/mailinglist\">http://releasenotes.tv/mailinglist</a>.</p>\n<h2>Show Notes and Links</h2>\n<ul>\n<li><a href=\"http://peersconf.com/\">Peers Conference</a> &ndash; a conference about the business of Web</li>\n</ul>\n<p></p>", 
+   "title": "#138: Looking Back and Ahead", 
+   "published": 1451917468
+  }, 
+  {
+   "total_time": 2071, 
+   "subtitle": "Today we talk about grabbing fortune by the horns and taking advantage of opportunities that present themselves: Unexpected App Store features, new hardware, and holiday publicity. Save the Date! If you enjoyed Release Notes this year (or just wi...", 
+   "description": "Today we talk about grabbing fortune by the horns and taking advantage of opportunities that present themselves: Unexpected App Store features, new hardware, and holiday publicity. Save the Date! If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-29, 2016. That's when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year's conference, you can view them on our website: http://releasenotes.tv/conference Mailing List Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you'd like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at http://releasenotes.tv/mailinglist. Show Notes and Links Obscura \u2013 a camera app by Ben McCarthy That's Not How the App Store Works! \u2013 Ben explains his reasoning behind changing his price during an App Store feature App Santa", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/137-9000-fireplace-apps/", 
+   "guid": "http://releasenotes.tv/?p=1348", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_137.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16629558
+    }
+   ], 
+   "description_html": "<p>Today we talk about grabbing fortune by the horns and taking advantage of opportunities that present themselves: Unexpected App Store features, new hardware, and holiday publicity.<br />\n<span id=\"more-1348\"></span></p>\n<h2>Save the Date!</h2>\n<p>If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-29, 2016. That&#8217;s when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year&#8217;s conference, you can view them on our website: <a href=\"http://releasenotes.tv/conference\">http://releasenotes.tv/conference</a></p>\n<h2>Mailing List</h2>\n<p>Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you&#8217;d like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at <a href=\"http://releasenotes.tv/mailinglist\">http://releasenotes.tv/mailinglist</a>.</p>\n<h2>Show Notes and Links</h2>\n<ul>\n<li><a href=\"https://itunes.apple.com/us/app/obscura-camera/id915939220?mt=8\">Obscura</a> &ndash; a camera app by Ben McCarthy</li>\n<li><a href=\"https://medium.com/@benricem/that-s-not-how-the-app-store-works-9337a2f25d27#.7nnxiz8ao\">That&#8217;s Not How the App Store Works!</a> &ndash; Ben explains his reasoning behind changing his price during an App Store feature</li>\n<li><a href=\"http://appsanta.co/\">App Santa</a></li>\n</ul>\n<p></p>", 
+   "title": "#137: 9,000 Fireplace Apps", 
+   "published": 1451313408
+  }, 
+  {
+   "total_time": 2025, 
+   "subtitle": "Today we discuss attention, motivation, distraction, and other mental obstacles to getting work done. Along the way we talk about Star Wars, Twitter, strategies for staying productive, and how we maintain balance. Save the Date!", 
+   "description": "Today we discuss attention, motivation, distraction, and other mental obstacles to getting work done. Along the way we talk about Star Wars, Twitter, strategies for staying productive, and how we maintain balance. Save the Date! If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-29, 2016. That's when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year's conference, you can view them on our website: http://releasenotes.tv/conference Mailing List Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you'd like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at http://releasenotes.tv/mailinglist.", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/136-more-lists/", 
+   "guid": "http://releasenotes.tv/?p=1345", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_136.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16262789
+    }
+   ], 
+   "description_html": "<p>Today we discuss attention, motivation, distraction, and other mental obstacles to getting work done. Along the way we talk about Star Wars, Twitter, strategies for staying productive, and how we maintain balance.<br />\n<span id=\"more-1345\"></span></p>\n<h2>Save the Date!</h2>\n<p>If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-29, 2016. That&#8217;s when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year&#8217;s conference, you can view them on our website: <a href=\"http://releasenotes.tv/conference\">http://releasenotes.tv/conference</a></p>\n<h2>Mailing List</h2>\n<p>Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you&#8217;d like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at <a href=\"http://releasenotes.tv/mailinglist\">http://releasenotes.tv/mailinglist</a>.</p>\n<p></p>", 
+   "title": "#136: More Lists", 
+   "published": 1450712116
+  }, 
+  {
+   "total_time": 2142, 
+   "subtitle": "Today we talk about advertising apps to potential customers and some of the recent advertising efforts that Charles has performed in support of his new app MetaTax. We discuss email advertising, Facebook advertisements,", 
+   "description": "Today we talk about advertising apps to potential customers and some of the recent advertising efforts that Charles has performed in support of his new app MetaTax. We discuss email advertising, Facebook advertisements, targeting advertisements to particular demographics, the cost of customer acquisition, and more. Save the Date! If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-29, 2016. That's when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year's conference, you can view them on our website: http://releasenotes.tv/conference Mailing List Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you'd like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at http://releasenotes.tv/mailinglist.", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/135-sorta-cool-sorta-creepy/", 
+   "guid": "http://releasenotes.tv/?p=1341", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_135.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17202584
+    }
+   ], 
+   "description_html": "<p>Today we talk about advertising apps to potential customers and some of the recent advertising efforts that Charles has performed in support of his new app MetaTax. We discuss email advertising, Facebook advertisements, targeting advertisements to particular demographics, the cost of customer acquisition, and more.<br />\n<span id=\"more-1341\"></span></p>\n<h2>Save the Date!</h2>\n<p>If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-29, 2016. That&#8217;s when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year&#8217;s conference, you can view them on our website: <a href=\"http://releasenotes.tv/conference\">http://releasenotes.tv/conference</a></p>\n<h2>Mailing List</h2>\n<p>Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you&#8217;d like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at <a href=\"http://releasenotes.tv/mailinglist\">http://releasenotes.tv/mailinglist</a>.</p>\n<p></p>", 
+   "title": "#135: Sorta Cool, Sorta Creepy", 
+   "published": 1450105089
+  }, 
+  {
+   "total_time": 2537, 
+   "subtitle": "Today we discuss the Mac App Store and Bohemian Coding's recent announcement that they are removing their hit app Sketch from the Mac App Store. We talk about what it means for customers, what it means for developers, and what it means for Apple.", 
+   "description": "Today we discuss the Mac App Store and Bohemian Coding's recent announcement that they are removing their hit app Sketch from the Mac App Store. We talk about what it means for customers, what it means for developers, and what it means for Apple. Save the Date! If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-29, 2016. That's when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year's conference, you can see them on our website: http://releasenotes.tv/conference Mailing List Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you'd like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at http://releasenotes.tv/mailinglist. Show Notes and Links Bohemian Coding's announcement Sketch Leaving the Mac App Store \u2013 Michael Tsai's compilation of reactions to Bohemian Coding's announcement Not on the Mac App Store \u2013 Dan Counsell's list of premier Mac software that cannot be found on the Mac App Store", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/134-you-have-to-fluff-your-chest-hair/", 
+   "guid": "http://releasenotes.tv/?p=1334", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_134.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 20357558
+    }
+   ], 
+   "description_html": "<p>Today we discuss the Mac App Store and Bohemian Coding&#8217;s recent announcement that they are removing their hit app Sketch from the Mac App Store. We talk about what it means for customers, what it means for developers, and what it means for Apple.<br />\n<span id=\"more-1334\"></span></p>\n<h2>Save the Date!</h2>\n<p>If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-29, 2016. That&#8217;s when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year&#8217;s conference, you can see them on our website: <a href=\"http://releasenotes.tv/conference\">http://releasenotes.tv/conference</a></p>\n<h2>Mailing List</h2>\n<p>Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you&#8217;d like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at <a href=\"http://releasenotes.tv/mailinglist\">http://releasenotes.tv/mailinglist</a>.</p>\n<h2>Show Notes and Links</h2>\n<ul>\n<li><a href=\"http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store\">Bohemian Coding&#8217;s announcement</a></li>\n<li><a href=\"http://mjtsai.com/blog/2015/12/01/sketch-leaving-the-mac-app-store/\">Sketch Leaving the Mac App Store</a> &ndash; Michael Tsai&#8217;s compilation of reactions to Bohemian Coding&#8217;s announcement</li>\n<li><a href=\"https://dancounsell.com/articles/not-on-the-mac-app-store\">Not on the Mac App Store</a> &ndash; Dan Counsell&#8217;s list of premier Mac software that cannot be found on the Mac App Store</li>\n<p></p>", 
+   "title": "#134: You Have to Fluff Your Chest Hair", 
+   "published": 1449503132
+  }, 
+  {
+   "total_time": 2053, 
+   "subtitle": "This week we talk about how we back up our business data. Joe relates his story of keychain woe, Charles shares his multi-tiered backup strategy, and then we discuss the important difference between backing up and syncing and International Verify Your ...", 
+   "description": "This week we talk about how we back up our business data. Joe relates his story of keychain woe, Charles shares his multi-tiered backup strategy, and then we discuss the important difference between backing up and syncing and International Verify Your Backups Day. Save the Date! If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-29, 2016. That's when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year's conference, you can see them on our website: http://releasenotes.tv/conference Mailing List Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you'd like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at http://releasenotes.tv/mailinglist. Show Notes and Links Carbon Copy Cloner \u2013 The Mac app Charles uses to clone his laptop over the network CrashPlan \u2013 The service Charles uses to backup to the cloud and to a friend's house Backblaze \u2013 The service Joe uses to backup to the cloud International Verify Your Backups Day", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/133-its-still-not-right/", 
+   "guid": "http://releasenotes.tv/?p=1330", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_133.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16485573
+    }
+   ], 
+   "description_html": "<p>This week we talk about how we back up our business data. Joe relates his story of keychain woe, Charles shares his multi-tiered backup strategy, and then we discuss the important difference between backing up and syncing and International Verify Your Backups Day.<br />\n<span id=\"more-1330\"></span></p>\n<h2>Save the Date!</h2>\n<p>If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-29, 2016. That&#8217;s when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year&#8217;s conference, you can see them on our website: http://releasenotes.tv/conference</p>\n<h2>Mailing List</h2>\n<p>Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you&#8217;d like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at <a href=\"http://releasenotes.tv/mailinglist\">http://releasenotes.tv/mailinglist</a>.</p>\n<h2>Show Notes and Links</h2>\n<ul>\n<li><a href=\"http://bombich.com/\">Carbon Copy Cloner</a> &ndash; The Mac app Charles uses to clone his laptop over the network</li>\n<li><a href=\"http://www.code42.com/crashplan/\">CrashPlan</a> &ndash; The service Charles uses to backup to the cloud and to a friend&#8217;s house</li>\n<li><a href=\"https://www.backblaze.com/\">Backblaze</a> &ndash; The service Joe uses to backup to the cloud</li>\n<li><a href=\"http://tidbits.com/article/10071\">International Verify Your Backups Day</a>\n</ul>\n<p></p>", 
+   "title": "#133: It\u2019s Still Not Right", 
+   "published": 1448896091
+  }, 
+  {
+   "total_time": 1921, 
+   "subtitle": "Today we continue our conversation with David Barnard of Contrast. We talk about target demographics, the role that search plays in an app's success, and lessons learned with App Store preview videos. Save the Date!", 
+   "description": "Today we continue our conversation with David Barnard of Contrast. We talk about target demographics, the role that search plays in an app's success, and lessons learned with App Store preview videos. Save the Date! If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-19, 2016. That's when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year's conference, you can see them on our website: http://releasenotes.tv/conference Mailing List Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you'd like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at http://releasenotes.tv/mailinglist. Show Notes and Links David Barnard on Twitter Contrast \u2013 David's software company", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/132-david-barnard-part-2/", 
+   "guid": "http://releasenotes.tv/?p=1327", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_132.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15431480
+    }
+   ], 
+   "description_html": "<p>Today we continue our conversation with David Barnard of Contrast. We talk about target demographics, the role that search plays in an app&#8217;s success, and lessons learned with App Store preview videos.<br />\n<span id=\"more-1327\"></span></p>\n<h2>Save the Date!</h2>\n<p>If you enjoyed Release Notes this year (or just wish you had been able to attend), be sure to put these dates in your calendar: September 27-19, 2016. That&#8217;s when Release Notes will return with more speakers on more topics that are critical to the success of your Mac or iOS development business. If you would like to see pictures from this year&#8217;s conference, you can see them on our website: http://releasenotes.tv/conference</p>\n<h2>Mailing List</h2>\n<p>Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you&#8217;d like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at <a href=\"http://releasenotes.tv/mailinglist\">http://releasenotes.tv/mailinglist</a>.</p>\n<h2>Show Notes and Links</h2>\n<ul>\n<li><a href=\"https://twitter.com/drbarnard\">David Barnard on Twitter</a></li>\n<li><a href=\"http://contrast.co/\">Contrast</a> &ndash; David&#8217;s software company</li>\n</ul>\n<p></p>", 
+   "title": "#132: David Barnard (part 2)", 
+   "published": 1448291730
+  }, 
+  {
+   "total_time": 2003, 
+   "subtitle": "We're joined today by David Barnard of Contrast. David shares with us the story of how he got into app development, what he's learned as a successful indie who doesn't program, and his strategy for developing financially successful apps.", 
+   "description": "We're joined today by David Barnard of Contrast. David shares with us the story of how he got into app development, what he's learned as a successful indie who doesn't program, and his strategy for developing financially successful apps. Mailing List Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you'd like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at http://releasenotes.tv/mailinglist. Show Notes and Links David Barnard on Twitter Contrast \u2013 David's software company", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/131-david-barnard-part-1/", 
+   "guid": "http://releasenotes.tv/?p=1311", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_131.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16085584
+    }
+   ], 
+   "description_html": "<p>We&#8217;re joined today by David Barnard of Contrast. David shares with us the story of how he got into app development, what he&#8217;s learned as a successful indie who doesn&#8217;t program, and his strategy for developing financially successful apps.<br />\n<span id=\"more-1311\"></span></p>\n<h2>Mailing List</h2>\n<p>Every month there are more great articles and content about the business of Mac and iOS development than we have time to discuss on the show. If you&#8217;d like to receive our monthly newsletter with the best of these links, be sure to sign up for our mailing list at <a href=\"http://releasenotes.tv/mailinglist\">http://releasenotes.tv/mailinglist</a>.</p>\n<h2>Show Notes and Links</h2>\n<ul>\n<li><a href=\"https://twitter.com/drbarnard\">David Barnard on Twitter</a></li>\n<li><a href=\"http://contrast.co/\">Contrast</a> &ndash; David&#8217;s software company</li>\n</ul>\n<p></p>", 
+   "title": "#131: David Barnard (part 1)", 
+   "published": 1447684479
+  }, 
+  {
+   "total_time": 2189, 
+   "subtitle": "Today we're talking about the Apple TV and the new App Store that's available for it. We discuss the current state of sales, setting developer expectations, App Store search, and app discoverability. Mailing List", 
+   "description": "Today we\u2019re talking about the Apple TV and the new App Store that\u2019s available for it. We discuss the current state of sales, setting developer expectations, App Store search, and app discoverability. Mailing List Every month there are more great articles and content about the business of Mac and iOS development than we have time [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/130-its-a-giant-distraction-box/", 
+   "guid": "http://releasenotes.tv/?p=1308", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_130.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17575619
+    }
+   ], 
+   "title": "#130: It\u2019s a Giant Distraction Box", 
+   "published": 1447081126
+  }, 
+  {
+   "total_time": 2062, 
+   "subtitle": "Today we're talking about the postmortem that we recently completed on our just-finished conference, and the importance of reflecting on progress and performance both during and after a project ends. We talk about what went well, our awesome staff,", 
+   "description": "Today we\u2019re talking about the postmortem that we recently completed on our just-finished conference, and the importance of reflecting on progress and performance both during and after a project ends. We talk about what went well, our awesome staff, and the role that evaluation plays in ensuring a successful product. Mailing List Every month there [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/129-postmortem/", 
+   "guid": "http://releasenotes.tv/?p=1306", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_129.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16561421
+    }
+   ], 
+   "title": "#129: Postmortem", 
+   "published": 1446476257
+  }, 
+  {
+   "total_time": 1681, 
+   "subtitle": "Today we continue our conversation with Jeremy Olson of Tapity, makers of fine apps like Hours and Grades. Jeremy talks more today about Tapity's private crowdfunding campaign, the dynamics of business-to-business software sales,", 
+   "description": "Today we continue our conversation with Jeremy Olson of Tapity, makers of fine apps like Hours and Grades. Jeremy talks more today about Tapity\u2019s private crowdfunding campaign, the dynamics of business-to-business software sales, and the Slack channel he set up for customers to get feedback on Tapity\u2019s products. Mailing List Every month there are more [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/128-jeremy-olson-part-2/", 
+   "guid": "http://releasenotes.tv/?p=1265", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_128.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 13514299
+    }
+   ], 
+   "title": "#128: Jeremy Olson (part 2)", 
+   "published": 1445868043
+  }, 
+  {
+   "total_time": 2118, 
+   "subtitle": "Today we're joined by Jeremy Olson of Tapity, makers of fine apps like Hours and Grades. Jeremy talks to us today about some of his history in launching Tapity, Tapity's journey to self-sufficiency, and their recent experiment with a private crowdfundi...", 
+   "description": "Today we\u2019re joined by Jeremy Olson of Tapity, makers of fine apps like Hours and Grades. Jeremy talks to us today about some of his history in launching Tapity, Tapity\u2019s journey to self-sufficiency, and their recent experiment with a private crowdfunding campaign. Conference We\u2019re planning a conference! Release Notes will be held October 21-23, 2015 [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/127-jeremy-olson-part-1/", 
+   "guid": "http://releasenotes.tv/?p=1261", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_127.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17011573
+    }
+   ], 
+   "title": "#127: Jeremy Olson (part 1)", 
+   "published": 1445263230
+  }, 
+  {
+   "total_time": 1969, 
+   "subtitle": "While Charles' new app, MetaTax, isn't yet on the App Store (darn you App Store Review!), he is ready to start talking about it. So in this episode, we talk about MetaTax, why Charles chose this app instead of many others, pricing,", 
+   "description": "While Charles\u2019 new app, MetaTax, isn\u2019t yet on the App Store (darn you App Store Review!), he is ready to start talking about it. So in this episode, we talk about MetaTax, why Charles chose this app instead of many others, pricing, and why he decided to give MetaTax away for free for a few [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/126-thats-my-starting-price/", 
+   "guid": "http://releasenotes.tv/?p=1257", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_126.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15817467
+    }
+   ], 
+   "title": "#126: That\u2019s My Starting Price", 
+   "published": 1444653153
+  }, 
+  {
+   "total_time": 2078, 
+   "subtitle": "Today we're talking about launching new apps. How important is launch day? Under what circumstances is it not so critical? How has our approach to launches changed as the App Store has matured? We talk about all this and more in today's Release Notes.", 
+   "description": "Today we\u2019re talking about launching new apps. How important is launch day? Under what circumstances is it not so critical? How has our approach to launches changed as the App Store has matured? We talk about all this and more in today\u2019s Release Notes. Conference We\u2019re planning a conference about the business of iOS and [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/125-the-slow-build/", 
+   "guid": "http://releasenotes.tv/?p=1254", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_125.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16691619
+    }
+   ], 
+   "title": "#125: The Slow Build", 
+   "published": 1444052023
+  }, 
+  {
+   "total_time": 2405, 
+   "subtitle": "Today we tackle the difficult topic of motivation. In the short-term, how do we remain motivated to continue making progress on our apps? In the long-term, how do we avoid discouragement in the face of difficult odds and continue to pursue the dream of...", 
+   "description": "Today we tackle the difficult topic of motivation. In the short-term, how do we remain motivated to continue making progress on our apps? In the long-term, how do we avoid discouragement in the face of difficult odds and continue to pursue the dream of going indie? Conference We\u2019re planning a conference about the business of [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/124-happiness-is-my-default-position/", 
+   "guid": "http://releasenotes.tv/?p=1251", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_124.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 19307436
+    }
+   ], 
+   "title": "#124: Happiness is my Default Position", 
+   "published": 1443448170
+  }, 
+  {
+   "total_time": 2169, 
+   "subtitle": "In this episode we're joined by Georgia Dow, who shares her background in technology, and her experience starting her small business. Georgia also tells us a little about the psychology of pleasing your customers and the talk she'll be giving at Releas...", 
+   "description": "In this episode we\u2019re joined by Georgia Dow, who shares her background in technology, and her experience starting her small business. Georgia also tells us a little about the psychology of pleasing your customers and the talk she\u2019ll be giving at Release Notes on that topic. Conference We\u2019re planning a conference about the business of [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/123-georgia-dow/", 
+   "guid": "http://releasenotes.tv/?p=1244", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_123.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17417611
+    }
+   ], 
+   "title": "#123: Georgia Dow", 
+   "published": 1442841065
+  }, 
+  {
+   "total_time": 2511, 
+   "subtitle": "In this episode we discuss the business implications of the recent Apple Event and announce a partnership between our conference and App Camp for Girls. Conference We're planning a conference! Release Notes will be held October 21-23,", 
+   "description": "In this episode we discuss the business implications of the recent Apple Event and announce a partnership between our conference and App Camp for Girls. Conference We\u2019re planning a conference! Release Notes will be held October 21-23, 2015 in Indianapolis, Indiana, USA. If you would like to learn more about our conference on the business [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/122-way-too-intuitive/", 
+   "guid": "http://releasenotes.tv/?p=1238", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_122.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 20151488
+    }
+   ], 
+   "title": "#122: Way Too Intuitive", 
+   "published": 1442236425
+  }, 
+  {
+   "total_time": 2351, 
+   "subtitle": "Today we are excited to announce the topics that each of our eleven amazing speakers will be addressing on stage at Release Notes in October. We chose these speakers for Release Notes because of their background and experience in building successful so...", 
+   "description": "Today we are excited to announce the topics that each of our eleven amazing speakers will be addressing on stage at Release Notes in October. We chose these speakers for Release Notes because of their background and experience in building successful software businesses, and we think that anyone in the business of Mac or iOS [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/121-eleven-topics/", 
+   "guid": "http://releasenotes.tv/?p=1226", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_121.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18870857
+    }
+   ], 
+   "title": "#121: Eleven Topics", 
+   "published": 1441634335
+  }, 
+  {
+   "total_time": 2416, 
+   "subtitle": "Today we talk about our recent trip to 360|iDev where we both presented. We talk about some of our favorite talks that we witnessed, give overviews of our own talks, and share some of the lessons we learned during our time there. Conference", 
+   "description": "Today we talk about our recent trip to 360|iDev where we both presented. We talk about some of our favorite talks that we witnessed, give overviews of our own talks, and share some of the lessons we learned during our time there. Conference We\u2019re planning a conference! Release Notes will be held October 21-23, 2015 [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/120-go-down-to-costa-rica/", 
+   "guid": "http://releasenotes.tv/?p=1180", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_120.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 19390597
+    }
+   ], 
+   "title": "#120: Go Down to Costa Rica", 
+   "published": 1441029006
+  }, 
+  {
+   "total_time": 2333, 
+   "subtitle": "Today we're joined by John Saddington, who will be speaking at Release Notes this October. John is the creator of the app Desk, which helps its customers publish to their blogs. John speaks to us today about his background in entrepreneurship,", 
+   "description": "Today we\u2019re joined by John Saddington, who will be speaking at Release Notes this October. John is the creator of the app Desk, which helps its customers publish to their blogs. John speaks to us today about his background in entrepreneurship, getting along with competitors, the importance of marketing, and his experiment in advertising on [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/119-john-saddington/", 
+   "guid": "http://releasenotes.tv/?p=1175", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_119.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18726663
+    }
+   ], 
+   "title": "#119: John Saddington", 
+   "published": 1440424697
+  }, 
+  {
+   "total_time": 2268, 
+   "subtitle": "Got an idea for an app? When you look in the App Store, chances are you'll find someone already beat you to it. But that doesn't necessarily mean that you shouldn't pursue your idea. Today we discuss under what circumstances it's wise to take on establ...", 
+   "description": "Got an idea for an app? When you look in the App Store, chances are you\u2019ll find someone already beat you to it. But that doesn\u2019t necessarily mean that you shouldn\u2019t pursue your idea. Today we discuss under what circumstances it\u2019s wise to take on established competition. What does it take to find success when [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/118-an-overbloated-monster/", 
+   "guid": "http://releasenotes.tv/?p=1148", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_118.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18212580
+    }
+   ], 
+   "title": "#118: An Overbloated Monster", 
+   "published": 1439819899
+  }, 
+  {
+   "total_time": 2535, 
+   "subtitle": "This week we continue our discussion with Chris Liscio about the lessons he's learned in his ten years as an indie selling products like Capo and FuzzMeasure. We discuss pricing, the Mac App Store, selling to businesses, marketing, and more.", 
+   "description": "This week we continue our discussion with Chris Liscio about the lessons he\u2019s learned in his ten years as an indie selling products like Capo and FuzzMeasure. We discuss pricing, the Mac App Store, selling to businesses, marketing, and more. Hear more of Chris\u2019 thoughts about the software business on stage at the Release Notes [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/117-chris-liscio-part-2/", 
+   "guid": "http://releasenotes.tv/?p=1142", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_117.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 20345005
+    }
+   ], 
+   "title": "#117: Chris Liscio (part 2)", 
+   "published": 1439215378
+  }, 
+  {
+   "total_time": 2038, 
+   "subtitle": "Chris Liscio is a long-time indie with award winning apps like Capo, Capo touch, and Fuzz Measure, and this October he'll be joining us on stage at Release Notes. Today Chris joins us on the podcast to talk about his background as an indie,", 
+   "description": "Chris Liscio is a long-time indie with award winning apps like Capo, Capo touch, and Fuzz Measure, and this October he\u2019ll be joining us on stage at Release Notes. Today Chris joins us on the podcast to talk about his background as an indie, the niche he\u2019s carved out in audio signal processing, and his [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/116-chris-liscio-part-1/", 
+   "guid": "http://releasenotes.tv/?p=1139", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_116.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16369586
+    }
+   ], 
+   "title": "#116: Chris Liscio (part 1)", 
+   "published": 1438611406
+  }, 
+  {
+   "total_time": 2368, 
+   "subtitle": "Today we follow up on last week's discussion about trials in the App Store, before shifting gears to discuss marketing. What's ethical? What's tasteful? Does it matter? How far dare we push our marketing message before we actually start driving custome...", 
+   "description": "Today we follow up on last week\u2019s discussion about trials in the App Store, before shifting gears to discuss marketing. What\u2019s ethical? What\u2019s tasteful? Does it matter? How far dare we push our marketing message before we actually start driving customers away? Conference We\u2019re planning a conference! Release Notes will be held October 21-23, 2015 [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/115-the-special-sauce-is-applied-with-tweezers/", 
+   "guid": "http://releasenotes.tv/?p=1136", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_115.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 19011947
+    }
+   ], 
+   "title": "#115: The Special Sauce is Applied with Tweezers", 
+   "published": 1438005573
+  }, 
+  {
+   "total_time": 2185, 
+   "subtitle": "Apple doesn't make it easy to do free trials of App Store apps, and in at least some cases forbids them by policy. Today we look at free trials, how Joe's team has implemented them in their new app, what others have done,", 
+   "description": "Apple doesn\u2019t make it easy to do free trials of App Store apps, and in at least some cases forbids them by policy. Today we look at free trials, how Joe\u2019s team has implemented them in their new app, what others have done, and how we can stay on the good side of the App [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/114-handing-out-flyers-in-dirty-nightclubs/", 
+   "guid": "http://releasenotes.tv/?p=1132", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_114.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17548459
+    }
+   ], 
+   "title": "#114: Handing Out Flyers in Dirty Nightclubs", 
+   "published": 1437400791
+  }, 
+  {
+   "total_time": 2795, 
+   "subtitle": "A lot of indies work alone, but what happens when you have someone to help share the load? To explore the dynamics of partnerships, we're joined today by Tim Cochrane and Gene Whitaker, Joe's business partners in Bombing Brain Interactive.", 
+   "description": "A lot of indies work alone, but what happens when you have someone to help share the load? To explore the dynamics of partnerships, we\u2019re joined today by Tim Cochrane and Gene Whitaker, Joe\u2019s business partners in Bombing Brain Interactive. We talk about balancing personal and professional relationships, fairly dividing effort and reward, and managing [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/113-the-brains-behind-bombing-brain/", 
+   "guid": "http://releasenotes.tv/?p=1120", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_113.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 22426454
+    }
+   ], 
+   "title": "#113: The Brains Behind Bombing Brain", 
+   "published": 1436795805
+  }, 
+  {
+   "total_time": 2407, 
+   "subtitle": "There's been a lot of talk this week about the App Store and its role in the success (and failure) of indie app developers. Today we add our two cents to the conversation and share our view of today's App Store.", 
+   "description": "There\u2019s been a lot of talk this week about the App Store and its role in the success (and failure) of indie app developers. Today we add our two cents to the conversation and share our view of today\u2019s App Store. We reflect on how the App Store has changed the software business in Apple\u2019s [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/112-flippin-burgers-for-the-man/", 
+   "guid": "http://releasenotes.tv/?p=1116", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_112.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 19323522
+    }
+   ], 
+   "title": "#112: Flippin\u2019 Burgers for the Man", 
+   "published": 1436191608
+  }, 
+  {
+   "total_time": 2707, 
+   "subtitle": "During our recent trip to WWDC we had the chance to meet lots of new friends and again see lots old ones, so in this episode we're chatting about mingling and professional networking. We talk about why you should try to meet new people,", 
+   "description": "During our recent trip to WWDC we had the chance to meet lots of new friends and again see lots old ones, so in this episode we\u2019re chatting about mingling and professional networking. We talk about why you should try to meet new people, concrete suggestions for those who are uncomfortable walking up to strangers, [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/111-someone-less-comfortable-than-you/", 
+   "guid": "http://releasenotes.tv/?p=1103", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_111.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 21724493
+    }
+   ], 
+   "title": "#111: Someone Less Comfortable Than You", 
+   "published": 1435586172
+  }, 
+  {
+   "total_time": 2176, 
+   "subtitle": "When life gives you lemons, make lemonade. Or so the old saying goes. Today we're talking about how we deal, and how we've dealt, with unexpected setbacks in our business and in our plans. We talk about the viewing party that we unexpectedly threw at W...", 
+   "description": "When life gives you lemons, make lemonade. Or so the old saying goes. Today we\u2019re talking about how we deal, and how we\u2019ve dealt, with unexpected setbacks in our business and in our plans. We talk about the viewing party that we unexpectedly threw at WWDC, role that contingency planning plays in limiting business risk, [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/110-anything-that-can-go-wrong/", 
+   "guid": "http://releasenotes.tv/?p=1072", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_110.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17476558
+    }
+   ], 
+   "title": "#110: Anything That Can Go Wrong", 
+   "published": 1434981642
+  }, 
+  {
+   "total_time": 2089, 
+   "subtitle": "Live from WWDC (sort of), we present our first impressions of the changes that were recently announced and how we think they will affect our plans and our business. Conference We're planning a conference! Release Notes will be held October 21-23,", 
+   "description": "Live from WWDC (sort of), we present our first impressions of the changes that were recently announced and how we think they will affect our plans and our business. Conference We\u2019re planning a conference! Release Notes will be held October 21-23, 2015 in Indianapolis, Indiana, USA. If you would like to learn more about our [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/109-a-monetizational-way/", 
+   "guid": "http://releasenotes.tv/?p=1076", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_109.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16777515
+    }
+   ], 
+   "title": "#109: A Monetizational Way", 
+   "published": 1434376859
+  }, 
+  {
+   "total_time": 2118, 
+   "subtitle": "Today we're talking about cross-platform development. What other platforms are worth considering? Android? PC? Does Microsoft's introduction of a \"Universal Windows Platform Bridge\" that allows developers to compile iOS apps into Windows apps change th...", 
+   "description": "Today we\u2019re talking about cross-platform development. What other platforms are worth considering? Android? PC? Does Microsoft\u2019s introduction of a \u201cUniversal Windows Platform Bridge\u201d that allows developers to compile iOS apps into Windows apps change the calculus involved? We talk about all this, and Charles surprises Joe with a plan to test the waters. Conference We\u2019re [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/108-it-did-pique-my-interest/", 
+   "guid": "http://releasenotes.tv/?p=1069", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_108.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17009487
+    }
+   ], 
+   "title": "#108: It Did Pique My Interest", 
+   "published": 1433772001
+  }, 
+  {
+   "total_time": 2097, 
+   "subtitle": "A few weeks ago, Apple (finally!) released the app analytics in iTunesConnect that they promised at WWDC last year. Today, Charles and Joe jump in and take a look at what we got \u2013 the good, the bad, and the ugly. We talk about what it does well,", 
+   "description": "A few weeks ago, Apple (finally!) released the app analytics in iTunesConnect that they promised at WWDC last year. Today, Charles and Joe jump in and take a look at what we got \u2013 the good, the bad, and the ugly. We talk about what it does well, what\u2019s lacking, and what we\u2019d like to [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/107-i-cant-really-infer-what-that-means/", 
+   "guid": "http://releasenotes.tv/?p=1052", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_107.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16841479
+    }
+   ], 
+   "title": "#107: I Can\u2019t Really Infer What That Means", 
+   "published": 1433168751
+  }, 
+  {
+   "total_time": 2607, 
+   "subtitle": "Today we continue our conversation with Michael Simmons of Flexibits, maker of Fantastical. Michael discusses the reasons he sells Fantastical for Mac through his website as well as through the App Store, and the pointlessness of obsessing over App Sto...", 
+   "description": "Today we continue our conversation with Michael Simmons of Flexibits, maker of Fantastical. Michael discusses the reasons he sells Fantastical for Mac through his website as well as through the App Store, and the pointlessness of obsessing over App Store chart position. He goes on to share why he increased the price of Fantastical, the [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/106-michael-simmons-part-2/", 
+   "guid": "http://releasenotes.tv/?p=1045", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_106.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 20924091
+    }
+   ], 
+   "title": "#106: Michael Simmons (part 2)", 
+   "published": 1432562407
+  }, 
+  {
+   "total_time": 2177, 
+   "subtitle": "This is our annual WWDC Tips & Tricks show, in which we share our favorite things to do in San Francisco while at (or at least near) WWDC. We talk about WWDC, Layers, AltConf, and we share details of The Viewing Room that Release Notes will be running ...", 
+   "description": "This is our annual WWDC Tips & Tricks show, in which we share our favorite things to do in San Francisco while at (or at least near) WWDC. We talk about WWDC, Layers, AltConf, and we share details of The Viewing Room that Release Notes will be running inside AltConf. We discuss some of our [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/105-our-annual-wwdc-tips/", 
+   "guid": "http://releasenotes.tv/?p=1039", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_105.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17479478
+    }
+   ], 
+   "title": "#105: Our Annual WWDC Tips", 
+   "published": 1431957619
+  }, 
+  {
+   "total_time": 2368, 
+   "subtitle": "We're joined today by Michael Simmons of Flexibits, maker of Fantastical. Michael talks to us about how he got into Mac and iOS development, the origins of Fantastical, and why Flexibits decided to take on Apple in the calendaring space.", 
+   "description": "We\u2019re joined today by Michael Simmons of Flexibits, maker of Fantastical. Michael talks to us about how he got into Mac and iOS development, the origins of Fantastical, and why Flexibits decided to take on Apple in the calendaring space. He also shares why Fantastical wasn\u2019t available on Apple Watch on day one, the evolution [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/104-michael-simmons-part-1/", 
+   "guid": "http://releasenotes.tv/?p=1033", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_104.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 19011718
+    }
+   ], 
+   "title": "#104: Michael Simmons (part 1)", 
+   "published": 1431354781
+  }, 
+  {
+   "total_time": 2869, 
+   "subtitle": "It may not seem like it to you, but it's been a while since we recorded an episode, so we took this opportunity to catch up a little bit and talk about what's been going on: our travels, our impressions of \u00dall and NSNorth which both Charles and Joe rec...", 
+   "description": "It may not seem like it to you, but it\u2019s been a while since we recorded an episode, so we took this opportunity to catch up a little bit and talk about what\u2019s been going on: our travels, our impressions of \u00dall and NSNorth which both Charles and Joe recently attended, and the recent launch [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/103-catching-up/", 
+   "guid": "http://releasenotes.tv/?p=1029", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_103.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 23013875
+    }
+   ], 
+   "title": "#103: Catching Up", 
+   "published": 1430749377
+  }, 
+  {
+   "total_time": 2045, 
+   "subtitle": "We're joined today by Greg Pierce of Agile Tortoise, the maker of fine apps like Drafts and Tally. It's no secret that Charles and Joe have been lukewarm on the idea of Apple Watch development, so today we decided to bring in an outside voice to get a ...", 
+   "description": "We\u2019re joined today by Greg Pierce of Agile Tortoise, the maker of fine apps like Drafts and Tally. It\u2019s no secret that Charles and Joe have been lukewarm on the idea of Apple Watch development, so today we decided to bring in an outside voice to get a difference perspective. We talk about what sort [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/102-greg-pierce/", 
+   "guid": "http://releasenotes.tv/?p=965", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_102.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16425585
+    }
+   ], 
+   "title": "#102: Greg Pierce", 
+   "published": 1430143230
+  }, 
+  {
+   "total_time": 1892, 
+   "subtitle": "Today we talk about secrecy. We talk about whether it's a good practice share new products and features before they are ready, and if so, how widely they should be shared. We talk about the motivations behind secrecy, when it's actually useful,", 
+   "description": "Today we talk about secrecy. We talk about whether it\u2019s a good practice share new products and features before they are ready, and if so, how widely they should be shared. We talk about the motivations behind secrecy, when it\u2019s actually useful, and why we might want to let it go. Conference We\u2019re planning a [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/101-it-turned-out-to-be-the-segway/", 
+   "guid": "http://releasenotes.tv/?p=963", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_101.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15197431
+    }
+   ], 
+   "title": "#101: It Turned Out To Be The Segway", 
+   "published": 1429538427
+  }, 
+  {
+   "total_time": 1822, 
+   "subtitle": "We're joined today by Jean MacDonald, founder of App Camp for Girls, and a speaker at Release Notes. Jean shares some of what she learned about marketing and public relations during her time as a partner at Smile Software,", 
+   "description": "We\u2019re joined today by Jean MacDonald, founder of App Camp for Girls, and a speaker at Release Notes. Jean shares some of what she learned about marketing and public relations during her time as a partner at Smile Software, her experience in founding App Camp for Girls, and her thoughts on running a not-for-profit on [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/100-jean-macdonald/", 
+   "guid": "http://releasenotes.tv/?p=960", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_100.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 14641529
+    }
+   ], 
+   "title": "#100: Jean MacDonald", 
+   "published": 1428933600
+  }, 
+  {
+   "total_time": 2203, 
+   "subtitle": "Today we continue the discussion of app pricing that we began in episode 95. We talk about premium pricing, the importance of differentiating your product from the competition, and using a \"freemium\" strategy to provide free trials to customers.", 
+   "description": "Today we continue the discussion of app pricing that we began in episode 95. We talk about premium pricing, the importance of differentiating your product from the competition, and using a \u201cfreemium\u201d strategy to provide free trials to customers. Then we look at what it takes to change the pricing model of an existing app, [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/99-learning-to-play-poker/", 
+   "guid": "http://releasenotes.tv/?p=956", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_99.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17685532
+    }
+   ], 
+   "title": "#99: Learning to Play Poker", 
+   "published": 1428328837
+  }, 
+  {
+   "total_time": 2823, 
+   "subtitle": "Today we're joined by Ben Scheirman, who recently left his day job to go indie with his company NSScreencast. We talk about his background in programming, the start and growth of NSScreencast, how he planned his transition to his new indie career,", 
+   "description": "Today we\u2019re joined by Ben Scheirman, who recently left his day job to go indie with his company NSScreencast. We talk about his background in programming, the start and growth of NSScreencast, how he planned his transition to his new indie career, and more. Conference We\u2019re planning a conference! Release Notes will be held October [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/98-ben-scheirman/", 
+   "guid": "http://releasenotes.tv/?p=950", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_98.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 22645862
+    }
+   ], 
+   "title": "#98: Ben Scheirman", 
+   "published": 1427724037
+  }, 
+  {
+   "total_time": 1395, 
+   "subtitle": "Today we're finally able to share the exceptional group of indie developers, journalists, entrepreneurs, and leaders from the iOS and Mac development community that will be speaking at Release Notes this October. We're really proud of this lineup,", 
+   "description": "Today we\u2019re finally able to share the exceptional group of indie developers, journalists, entrepreneurs, and leaders from the iOS and Mac development community that will be speaking at Release Notes this October. We\u2019re really proud of this lineup, and we hope that you will join us in Indianapolis to explore together how we can build [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/97-eleven-amazing-speakers/", 
+   "guid": "http://releasenotes.tv/?p=939", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_97.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 11228481
+    }
+   ], 
+   "title": "#97: Eleven Amazing Speakers", 
+   "published": 1427119255
+  }, 
+  {
+   "total_time": 1947, 
+   "subtitle": "Today we look at the recent Apple event and reflect on what lessons from the newly rolled out Apple Watch can be applied to our own products. We talk about why Joe is excited about getting an Apple Watch and Charles is holding off for now.", 
+   "description": "Today we look at the recent Apple event and reflect on what lessons from the newly rolled out Apple Watch can be applied to our own products. We talk about why Joe is excited about getting an Apple Watch and Charles is holding off for now. We also look at how price tiers affect what [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/96-unadulterated-good-news/", 
+   "guid": "http://releasenotes.tv/?p=890", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_96.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15642548
+    }
+   ], 
+   "title": "#96: Unadulterated Good News", 
+   "published": 1426531207
+  }, 
+  {
+   "total_time": 2089, 
+   "subtitle": "\"Sustainable pricing\" is a phrase that's tossed around a lot in indie circles, and it has recently bubbled to the top of many developers' minds, so today we take a look at what exactly we mean by \"sustainable pricing\" and how we can apply that concept ...", 
+   "description": "\u201cSustainable pricing\u201d is a phrase that\u2019s tossed around a lot in indie circles, and it has recently bubbled to the top of many developers\u2019 minds, so today we take a look at what exactly we mean by \u201csustainable pricing\u201d and how we can apply that concept when pricing our own apps in the App Store. [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/95-22-96/", 
+   "guid": "http://releasenotes.tv/?p=685", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_95.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16777499
+    }
+   ], 
+   "title": "#95: $22.96", 
+   "published": 1425909640
+  }, 
+  {
+   "total_time": 2169, 
+   "subtitle": "Today we discuss the the book Turning Pro by Steven Pressfield which deals with the development of a \"pro mentality\" among artists, authors, makers, and entrepreneurs. We talk about what separates pros from amateurs, dealing with fear,", 
+   "description": "Today we discuss the the book Turning Pro by Steven Pressfield which deals with the development of a \u201cpro mentality\u201d among artists, authors, makers, and entrepreneurs. We talk about what separates pros from amateurs, dealing with fear, the concept of \u201cshadow careers,\u201d and the qualities that mark a professional mindset. Conference We\u2019re planning a conference! [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/94-turning-pro/", 
+   "guid": "http://releasenotes.tv/?p=665", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_94.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17351242
+    }
+   ], 
+   "title": "#94: Turning Pro", 
+   "published": 1425308418
+  }, 
+  {
+   "total_time": 2152, 
+   "subtitle": "Today we're joined by Alex Solonsky and Vadim Shpakovski, the team behind the personal finance app Saver 2. Alex and Vadim recently released Saver 2 as a separate SKU from Saver 1, with the intention of moving their side business from a \"hobby\" to thei...", 
+   "description": "Today we\u2019re joined by Alex Solonsky and Vadim Shpakovski, the team behind the personal finance app Saver 2. Alex and Vadim recently released Saver 2 as a separate SKU from Saver 1, with the intention of moving their side business from a \u201chobby\u201d to their full-time job. So today we talk to them about their [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/93-alex-solonsky-and-vadim-shpakovski/", 
+   "guid": "http://releasenotes.tv/?p=662", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_93.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17279078
+    }
+   ], 
+   "title": "#93: Alex Solonsky and Vadim Shpakovski", 
+   "published": 1424704067
+  }, 
+  {
+   "total_time": 2277, 
+   "subtitle": "We've all heard the time honored advice that you shouldn't \"put all your eggs in one basket,\" but that's exactly what many independent developers do. They have their entire business riding on the success (or failure) of one app,", 
+   "description": "We\u2019ve all heard the time honored advice that you shouldn\u2019t \u201cput all your eggs in one basket,\u201d but that\u2019s exactly what many independent developers do. They have their entire business riding on the success (or failure) of one app, or maybe just a couple apps. Today we look at this phenomenon and consider the risk [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/92-especially-since-i-cant-juggle/", 
+   "guid": "http://releasenotes.tv/?p=659", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_92.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18277582
+    }
+   ], 
+   "title": "#92: Especially Since I Can\u2019t Juggle", 
+   "published": 1424098835
+  }, 
+  {
+   "total_time": 2071, 
+   "subtitle": "Today we take a moment to talk about all the cool things there are to do in Indianapolis when you visit for the conference this October, then we dive into our main topic: communicating with customers, and some of the problems we have in that regard.", 
+   "description": "Today we take a moment to talk about all the cool things there are to do in Indianapolis when you visit for the conference this October, then we dive into our main topic: communicating with customers, and some of the problems we have in that regard. We discuss customers who don\u2019t read App Store descriptions, [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/91-the-height-of-gauging/", 
+   "guid": "http://releasenotes.tv/?p=653", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_91.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16634572
+    }
+   ], 
+   "title": "#91: The Height of Gauging", 
+   "published": 1423494007
+  }, 
+  {
+   "total_time": 2289, 
+   "subtitle": "Today we continue our discussion of Charles' analysis of the distribution of App Store revenue, and the implications that it holds for indie developers. We talk about making a living, setting expectations, and achieving goals.", 
+   "description": "Today we continue our discussion of Charles\u2019 analysis of the distribution of App Store revenue, and the implications that it holds for indie developers. We talk about making a living, setting expectations, and achieving goals. We also consider what advice we\u2019d give to people wanting to go indie, and take a close look at what [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/90-the-acute-elbow-part-2/", 
+   "guid": "http://releasenotes.tv/?p=621", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_90.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18377463
+    }
+   ], 
+   "title": "#90: The Acute Elbow (part 2)", 
+   "published": 1422889239
+  }, 
+  {
+   "total_time": 2276, 
+   "subtitle": "It's been widely known for some time that very few top apps take home most of the revenue in the App Store. There's been some uncertainty, though, about exactly how few apps are involved. Today we talk about an analysis of the distribution of App Store...", 
+   "description": "It\u2019s been widely known for some time that very few top apps take home most of the revenue in the App Store. There\u2019s been some uncertainty, though, about exactly how few apps are involved. Today we talk about an analysis of the distribution of App Store revenue that Charles put together and the interesting response [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/89-the-acute-elbow/", 
+   "guid": "http://releasenotes.tv/?p=618", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_89.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18270466
+    }
+   ], 
+   "title": "#89: The Acute Elbow", 
+   "published": 1422284411
+  }, 
+  {
+   "total_time": 2527, 
+   "subtitle": "If you've been a developer on the App Store for any length of time, you've probably faced the difficult decision of killing an app. Maybe it's just not making as much money as you'd hoped. Maybe its codebase has, through neglect,", 
+   "description": "If you\u2019ve been a developer on the App Store for any length of time, you\u2019ve probably faced the difficult decision of killing an app. Maybe it\u2019s just not making as much money as you\u2019d hoped. Maybe its codebase has, through neglect, gotten too old to bother updating. Whatever the reason, choosing to end-of-life an app [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/88-theyre-still-your-babies/", 
+   "guid": "http://releasenotes.tv/?p=599", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_88.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 20284616
+    }
+   ], 
+   "title": "#88: They\u2019re Still Your Babies", 
+   "published": 1421682691
+  }, 
+  {
+   "total_time": 1850, 
+   "subtitle": "Today we continue our look back at 2014 and discuss our hopes for 2015. In this episode, we discuss professional accomplishments for the year, our companies' financial results, and goals for 2015. Conference We're planning a conference!", 
+   "description": "Today we continue our look back at 2014 and discuss our hopes for 2015. In this episode, we discuss professional accomplishments for the year, our companies\u2019 financial results, and goals for 2015. Conference We\u2019re planning a conference! Release Notes will be held October 21-23, 2015 in Indianapolis, Indiana, USA. If you would like to learn [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/87-2-hr-discussion-of-coat-racks/", 
+   "guid": "http://releasenotes.tv/?p=595", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_87.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 14861808
+    }
+   ], 
+   "title": "#87: 2-hr. Discussion of Coat Racks", 
+   "published": 1421074855
+  }, 
+  {
+   "total_time": 1612, 
+   "subtitle": "It's a new year, so we take a moment to pause and evaluate how things are going. We both reflect on our respective businesses, and review what when well, what could have gone better, and plans for the future. We also take a look at financials,", 
+   "description": "It\u2019s a new year, so we take a moment to pause and evaluate how things are going. We both reflect on our respective businesses, and review what when well, what could have gone better, and plans for the future. We also take a look at financials, and consider how we can keep our businesses growing [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/86-surprised-how-smoothly-it-went/", 
+   "guid": "http://releasenotes.tv/?p=592", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_86.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 12960929
+    }
+   ], 
+   "title": "#86: Surprised How Smoothly It Went", 
+   "published": 1420470052
+  }, 
+  {
+   "total_time": 1792, 
+   "subtitle": "We continue our discussion with Rob Rhyne, concentrating this week on building apps for professionals. Rob shares his thoughts on pricing models, maximizing revenue, and selling to fewer higher-quality customers. Along the way,", 
+   "description": "We continue our discussion with Rob Rhyne, concentrating this week on building apps for professionals. Rob shares his thoughts on pricing models, maximizing revenue, and selling to fewer higher-quality customers. Along the way, we compare the iOS and Mac markets, look at paths to becoming part of the \u201cApp Store middle class,\u201d and the importance [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/85-rob-rhyne-part-2/", 
+   "guid": "http://releasenotes.tv/?p=589", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_85.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 14400785
+    }
+   ], 
+   "title": "#85: Rob Rhyne (part 2)", 
+   "published": 1419863294
+  }, 
+  {
+   "total_time": 2490, 
+   "subtitle": "The Apple Watch is coming, and independent developers need to decide how to prepare for it. We already gave our opinions on developing for the Apple Watch, but we wanted to get a slightly different perspective, so we brought in Rob Rhyne,", 
+   "description": "The Apple Watch is coming, and independent developers need to decide how to prepare for it. We already gave our opinions on developing for the Apple Watch, but we wanted to get a slightly different perspective, so we brought in Rob Rhyne, managing partner with MartianCraft, to give us his thoughts. Rob shares what he [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/84-rob-rhyne-part-1/", 
+   "guid": "http://releasenotes.tv/?p=583", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_84.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 19987018
+    }
+   ], 
+   "title": "#84: Rob Rhyne (part 1)", 
+   "published": 1419260199
+  }, 
+  {
+   "total_time": 2078, 
+   "subtitle": "App Store development is full of risks, and one risk that eventually bites every developer is an App Store rejection. Today we talk about some recent high profile app rejections that have become public and consider how we should react when we (inevitab...", 
+   "description": "App Store development is full of risks, and one risk that eventually bites every developer is an App Store rejection. Today we talk about some recent high profile app rejections that have become public and consider how we should react when we (inevitably) face our own App Store rejection. Should we go public? Should we [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/83-they-really-kinda-dont/", 
+   "guid": "http://releasenotes.tv/?p=576", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_83.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16687655
+    }
+   ], 
+   "title": "#83: They Really Kinda Don\u2019t", 
+   "published": 1418659718
+  }, 
+  {
+   "total_time": 2238, 
+   "subtitle": "WatchKit was recently announced to permit apps to be developed for the Apple Watch, so today we discuss what we got and what business opportunities might now be available to us. We discuss why Joe's excited for the Apple Watch and Charles isn't,", 
+   "description": "WatchKit was recently announced to permit apps to be developed for the Apple Watch, so today we discuss what we got and what business opportunities might now be available to us. We discuss why Joe\u2019s excited for the Apple Watch and Charles isn\u2019t, business models for WatchKit apps, the difference between a hobbyist and business [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/82-how-many-legs-are-we-up-to/", 
+   "guid": "http://releasenotes.tv/?p=562", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_82.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17968495
+    }
+   ], 
+   "title": "#82: How Many Legs Are We Up To?", 
+   "published": 1418050800
+  }, 
+  {
+   "total_time": 2330, 
+   "subtitle": "Today we finally get to announce Release Notes, a conference about the business of iOS and Mac development. Release Notes will be held in Indianapolis, Indiana, USA on October 21-23, 2015, and we hope that you'll plan to join us.", 
+   "description": "Today we finally get to announce Release Notes, a conference about the business of iOS and Mac development. Release Notes will be held in Indianapolis, Indiana, USA on October 21-23, 2015, and we hope that you\u2019ll plan to join us. In this week\u2019s episode we talk about our motivation for hosting a conference, what Release [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/81-were-doing-a-conference/", 
+   "guid": "http://releasenotes.tv/?p=511", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_81.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18711758
+    }
+   ], 
+   "title": "#81: We\u2019re Doing a Conference", 
+   "published": 1417446328
+  }, 
+  {
+   "total_time": 2161, 
+   "subtitle": "Today we take a look at Merchant Consumer Exchange (MCX) and CurrentC, the contactless payment system that is positioned as a competitor to Apple Pay. We use MCX and CurrentC as a lens to examine our own behavior and customer hostile behavior.", 
+   "description": "Today we take a look at Merchant Consumer Exchange (MCX) and CurrentC, the contactless payment system that is positioned as a competitor to Apple Pay. We use MCX and CurrentC as a lens to examine our own behavior and customer hostile behavior. What responsibility does an independent software developer have to make design choices that [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/80-ive-got-some-powerpoints-to-sell/", 
+   "guid": "http://releasenotes.tv/?p=492", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_80.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17562472
+    }
+   ], 
+   "title": "#80: I\u2019ve Got Some PowerPoints to Sell", 
+   "published": 1416841218
+  }, 
+  {
+   "total_time": 2167, 
+   "subtitle": "We're joined again this week by Justin Williams to continue our postmortem of Glassboard, the messaging service that he recently shut down. This week we talk about the importance of solving customer problems with your product,", 
+   "description": "We\u2019re joined again this week by Justin Williams to continue our postmortem of Glassboard, the messaging service that he recently shut down. This week we talk about the importance of solving customer problems with your product, paying attention to business operations, the moment when he knew that Glassboard had to be shut down, and things [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/79-justin-williams-part-2/", 
+   "guid": "http://releasenotes.tv/?p=489", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_79.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17609444
+    }
+   ], 
+   "title": "#79: Justin Williams (part 2)", 
+   "published": 1416236424
+  }, 
+  {
+   "total_time": 2309, 
+   "subtitle": "Understanding why products fail is often just as valuable as knowing why they succeed. To help us with that, we're joined today by Justin Williams who recently shut down the Glassboard service which he owned.", 
+   "description": "Understanding why products fail is often just as valuable as knowing why they succeed. To help us with that, we\u2019re joined today by Justin Williams who recently shut down the Glassboard service which he owned. We conduct a postmortem on Glassboard and try to figure out what went wrong, why it went wrong, and what [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/78-justin-williams/", 
+   "guid": "http://releasenotes.tv/?p=484", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_78.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18747547
+    }
+   ], 
+   "title": "#78: Justin Williams", 
+   "published": 1415631624
+  }, 
+  {
+   "total_time": 1822, 
+   "subtitle": "Joe recently returned from speaking at the inaugural CocoaLove, held in his old stomping grounds of Philly. Sadly, Charles wasn't able to attend, so we use this opportunity to let Joe share his experience at the conference.", 
+   "description": "Joe recently returned from speaking at the inaugural CocoaLove, held in his old stomping grounds of Philly. Sadly, Charles wasn\u2019t able to attend, so we use this opportunity to let Joe share his experience at the conference. We discuss the conference itself, but Joe also shares the summary version of his talk in which he [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/77-so-was-the-cube/", 
+   "guid": "http://releasenotes.tv/?p=461", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_77.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 14852561
+    }
+   ], 
+   "title": "#77: So Was the Cube", 
+   "published": 1415026820
+  }, 
+  {
+   "total_time": 2378, 
+   "subtitle": "James Dempsey of James Dempsey and the Breakpoints joins us today to talk about his history working at Apple, his transition to life as an indie contractor and trainer and, oh yeah, his new hit album Backtrace.", 
+   "description": "James Dempsey of James Dempsey and the Breakpoints joins us today to talk about his history working at Apple, his transition to life as an indie contractor and trainer and, oh yeah, his new hit album Backtrace. Backtrace is the #1 comedy album on iTunes and just hit #5 on the Billboard comedy charts, and [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/76-james-dempsey/", 
+   "guid": "http://releasenotes.tv/?p=449", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_76.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 19298391
+    }
+   ], 
+   "title": "#76: James Dempsey", 
+   "published": 1414421469
+  }, 
+  {
+   "total_time": 2080, 
+   "subtitle": "With stories of declining iPad sales in the headlines, Apple last week announced its refreshed iPad line-up as well as some other new hardware. Today we discuss this event, the absence of a coherent iPad use story from Apple,", 
+   "description": "With stories of declining iPad sales in the headlines, Apple last week announced its refreshed iPad line-up as well as some other new hardware. Today we discuss this event, the absence of a coherent iPad use story from Apple, and the future of iPad software. Mailing List Every month there are more great articles and [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/75-figure-out-what-the-ipad-is-then-tell-us/", 
+   "guid": "http://releasenotes.tv/?p=445", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_75.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16916344
+    }
+   ], 
+   "title": "#75: Figure Out What the iPad Is\u2026 Then Tell Us", 
+   "published": 1413813390
+  }, 
+  {
+   "total_time": 1898, 
+   "subtitle": "Every year, just like clockwork, Apple releases new features for iOS. And every year, just like clockwork, developers have their apps rejected from the App Store for using these new features in ways that Apple didn't anticipate. So today,", 
+   "description": "Every year, just like clockwork, Apple releases new features for iOS. And every year, just like clockwork, developers have their apps rejected from the App Store for using these new features in ways that Apple didn\u2019t anticipate. So today, we discuss the trouble that developers can run into when their creativity gets ahead of Apple\u2019s [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/74-safe-and-boring-money/", 
+   "guid": "http://releasenotes.tv/?p=441", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_74.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15458400
+    }
+   ], 
+   "title": "#74: Safe and Boring Money", 
+   "published": 1413208817
+  }, 
+  {
+   "total_time": 1997, 
+   "subtitle": "Today we look at the new iPhones, our reaction to them now that we've actually held them, and how we think the new display sizes will affect what and how we develop. We consider the nature of the iPhone 6 Plus,", 
+   "description": "Today we look at the new iPhones, our reaction to them now that we\u2019ve actually held them, and how we think the new display sizes will affect what and how we develop. We consider the nature of the iPhone 6 Plus, our predicted demise of separate iPhone and iPad versions of apps, our frustration with [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/73-convince-all-my-friends-to-buy-one/", 
+   "guid": "http://releasenotes.tv/?p=436", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_73.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16247401
+    }
+   ], 
+   "title": "#73: Convince All My Friends to Buy One", 
+   "published": 1412604044
+  }, 
+  {
+   "total_time": 1627, 
+   "subtitle": "Today we talk to Matthew Bischoff about his iOS studio, Lickability, and its founders' goal of building Lickability into a full-time job. Along the way, Matthew shares the story of Lickability's start on Broadway,", 
+   "description": "Today we talk to Matthew Bischoff about his iOS studio, Lickability, and its founders\u2019 goal of building Lickability into a full-time job. Along the way, Matthew shares the story of Lickability\u2019s start on Broadway, reflects on balancing client work with product work, and considers the importance of having the right mix of talents in a [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/72-matthew-bischoff/", 
+   "guid": "http://releasenotes.tv/?p=432", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_72.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 13289181
+    }
+   ], 
+   "title": "#72: Matthew Bischoff", 
+   "published": 1411999206
+  }, 
+  {
+   "total_time": 2108, 
+   "subtitle": "Today we discuss the trials and tribulations of supporting new features and new operating systems. We start by recapping the recent problems with the roll out of iOS 8, particularly those surrounding iCloud Drive and the code signing of iOS 8 extensions.", 
+   "description": "Today we discuss the trials and tribulations of supporting new features and new operating systems. We start by recapping the recent problems with the roll out of iOS 8, particularly those surrounding iCloud Drive and the code signing of iOS 8 extensions. We look at the relative advantages and disadvantages of living on the bleeding [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/71-a-belt-and-suspenders-kinda-guy/", 
+   "guid": "http://releasenotes.tv/?p=429", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_71.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17137973
+    }
+   ], 
+   "title": "#71: A Belt and Suspenders Kinda Guy", 
+   "published": 1411394454
+  }, 
+  {
+   "total_time": 2125, 
+   "subtitle": "Today we discuss the recent Apple event in which we learned about Apple's new products and got a free lesson in spoken Chinese. We start by talking about the new iPhone 6 and iPhone 6 Plus and Joe's disdain for the larger form factors,", 
+   "description": "Today we discuss the recent Apple event in which we learned about Apple\u2019s new products and got a free lesson in spoken Chinese. We start by talking about the new iPhone 6 and iPhone 6 Plus and Joe\u2019s disdain for the larger form factors, as well as how the new screen sizes will affect design [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/70-is-it-350-easier/", 
+   "guid": "http://releasenotes.tv/?p=423", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_70.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17270463
+    }
+   ], 
+   "title": "#70: Is it $350 Easier?", 
+   "published": 1410792807
+  }, 
+  {
+   "total_time": 1856, 
+   "subtitle": "Today we talk about Joe's recent trip to 360|iDev and the talk he gave about the video app previews that are coming soon to the App Store. Joe tells us what he's learned about app previews, their format, what's allowed, and what's not.", 
+   "description": "Today we talk about Joe\u2019s recent trip to 360|iDev and the talk he gave about the video app previews that are coming soon to the App Store. Joe tells us what he\u2019s learned about app previews, their format, what\u2019s allowed, and what\u2019s not. Then we talk about what goes into a good marketing video, and [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/69-all-the-hipster-banjo-music-you-want/", 
+   "guid": "http://releasenotes.tv/?p=419", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_69.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15118283
+    }
+   ], 
+   "title": "#69: All the Hipster Banjo Music You Want", 
+   "published": 1410184829
+  }, 
+  {
+   "total_time": 1828, 
+   "subtitle": "Today we continue the market research discussion that began last week, and explore a few tangents along the way. We talk about reusing code in new apps, researching competitors, and being a student of apps.", 
+   "description": "Today we continue the market research discussion that began last week, and explore a few tangents along the way. We talk about reusing code in new apps, researching competitors, and being a student of apps. We consider possible responses to new competition, and the risks and benefits of entering a market with existing competition. We [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/68-what-i-do-and-what-i-should-do/", 
+   "guid": "http://releasenotes.tv/?p=417", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_68.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 14898550
+    }
+   ], 
+   "title": "#68: What I Do, and What I Should Do", 
+   "published": 1409580028
+  }, 
+  {
+   "total_time": 2131, 
+   "subtitle": "Today we take a look at market research and \"market driven development\" as a means of increasing an independent developer's chances of success in the App Store. We discuss strategies for choosing a group of people to target with a new app,", 
+   "description": "Today we take a look at market research and \u201cmarket driven development\u201d as a means of increasing an independent developer\u2019s chances of success in the App Store. We discuss strategies for choosing a group of people to target with a new app, picking profitable app ideas that solve a target group\u2019s problems, and the extent [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/67-i-dont-know-what-an-mba-would-call-it/", 
+   "guid": "http://releasenotes.tv/?p=413", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_67.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17320419
+    }
+   ], 
+   "title": "#67: I Don\u2019t Know What An MBA Would Call It", 
+   "published": 1408979050
+  }, 
+  {
+   "total_time": 2496, 
+   "subtitle": "Today we discuss the upcoming changes to the iOS 8 App Store and how we'll be affected by them. We consider the new Explore tab and how it will affect app discoverability, app bundles and what you can and can't do with them,", 
+   "description": "Today we discuss the upcoming changes to the iOS 8 App Store and how we\u2019ll be affected by them. We consider the new Explore tab and how it will affect app discoverability, app bundles and what you can and can\u2019t do with them, video previews and their effect on the purchase process, as well as [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/66-the-tab-thats-never-been-good/", 
+   "guid": "http://releasenotes.tv/?p=409", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_66.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 20244874
+    }
+   ], 
+   "title": "#66: The Tab That\u2019s Never Been Good", 
+   "published": 1408369692
+  }, 
+  {
+   "total_time": 2142, 
+   "subtitle": "Today we reflect on the state of being indie, particularly in light of the discussion that we had last week with Jared Sinclair. We start, as every good argument should, by defining our terms and taking a look at what exactly we mean when we call someo...", 
+   "description": "Today we reflect on the state of being indie, particularly in light of the discussion that we had last week with Jared Sinclair. We start, as every good argument should, by defining our terms and taking a look at what exactly we mean when we call someone \u201cindie.\u201d The conversation then turns to setting reasonable [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/65-an-indie-state-of-mind/", 
+   "guid": "http://releasenotes.tv/?p=400", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_65.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17410474
+    }
+   ], 
+   "title": "#65: An Indie State of Mind", 
+   "published": 1407765700
+  }, 
+  {
+   "total_time": 2698, 
+   "subtitle": "You probably know Jared Sinclair from his app Unread and his recent tell-all financial post that's been making waves in the iOS development community this past week. Today Jared joins us to explain why exactly he shared Unread's financial results,", 
+   "description": "You probably know Jared Sinclair from his app Unread and his recent tell-all financial post that\u2019s been making waves in the iOS development community this past week. Today Jared joins us to explain why exactly he shared Unread\u2019s financial results, his reaction to the feedback he\u2019s received since sharing his sales figures, his thoughts on [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/64-jared-sinclair/", 
+   "guid": "http://releasenotes.tv/?p=395", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_64.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 21854417
+    }
+   ], 
+   "title": "#64 Jared Sinclair", 
+   "published": 1407160367
+  }, 
+  {
+   "total_time": 1852, 
+   "subtitle": "Today we look at the partnership that was recently announced between Apple and IBM. We discuss what it means for the iPhone and iPad, what it means for Apple, and what it means for independent software developers.", 
+   "description": "Today we look at the partnership that was recently announced between Apple and IBM. We discuss what it means for the iPhone and iPad, what it means for Apple, and what it means for independent software developers. We talk about why enterprise is such a hard business for indies to break into, and how the [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/63-competing-with-kim-kardashian/", 
+   "guid": "http://releasenotes.tv/?p=391", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_63.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15086418
+    }
+   ], 
+   "title": "#63: Competing with Kim Kardashian", 
+   "published": 1406554270
+  }, 
+  {
+   "total_time": 2390, 
+   "subtitle": "Today we take a look at the 2014 Apple Design Award winners, and discuss what lessons we can draw from the winners to apply to our own apps. We consider the importance of polish, creating atmosphere, and delivering \"surprise & delight.", 
+   "description": "Today we take a look at the 2014 Apple Design Award winners, and discuss what lessons we can draw from the winners to apply to our own apps. We consider the importance of polish, creating atmosphere, and delivering \u201csurprise & delight.\u201d We talk about business models, building apps that are resistant to cloning, and how [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/62-makes-it-more-huggable/", 
+   "guid": "http://releasenotes.tv/?p=381", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_62.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 19397243
+    }
+   ], 
+   "title": "#62: Makes it More Huggable", 
+   "published": 1405949326
+  }, 
+  {
+   "total_time": 2055, 
+   "subtitle": "Today we take a look at the new iOS 8 size classes that were introduced to the world at WWDC, and what they might mean for the future. All indications are that larger iPhones are coming this fall, and there are other rumors of a split-screen iPad.", 
+   "description": "Today we take a look at the new iOS 8 size classes that were introduced to the world at WWDC, and what they might mean for the future. All indications are that larger iPhones are coming this fall, and there are other rumors of a split-screen iPad. If iPhone windows get bigger, and iPad windows [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/61-apple-kremlinology/", 
+   "guid": "http://releasenotes.tv/?p=375", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_61.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16710181
+    }
+   ], 
+   "title": "#61: Apple Kremlinology", 
+   "published": 1405352023
+  }, 
+  {
+   "total_time": 2134, 
+   "subtitle": "Today we're talking about iCloud Drive and the advent of a filesystem on iOS. We discuss whether the benefits of introducing a filesystem to iOS users is worth the complications that it brings, compare notes on our plans for supporting iCloud Drive,", 
+   "description": "Today we\u2019re talking about iCloud Drive and the advent of a filesystem on iOS. We discuss whether the benefits of introducing a filesystem to iOS users is worth the complications that it brings, compare notes on our plans for supporting iCloud Drive, and express a healthy dose of skepticism about Apple\u2019s ability to flawlessly launch [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/60-difficult-for-whom/", 
+   "guid": "http://releasenotes.tv/?p=368", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_60.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17070847
+    }
+   ], 
+   "title": "#60: Difficult for Whom?", 
+   "published": 1404741621
+  }, 
+  {
+   "total_time": 2309, 
+   "subtitle": "The universal experience of all independent developers is that there's never enough time. Today we take a look at how we plan to use our limited time between now and when iOS 8 is released to the general public.", 
+   "description": "The universal experience of all independent developers is that there\u2019s never enough time. Today we take a look at how we plan to use our limited time between now and when iOS 8 is released to the general public. What iOS 8 technologies are absolutely critical to implement immediately? Which ones can wait? How do [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/59-solve-the-problem-with-math/", 
+   "guid": "http://releasenotes.tv/?p=365", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_59.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18743143
+    }
+   ], 
+   "title": "#59: Solve the Problem with Math", 
+   "published": 1404136855
+  }, 
+  {
+   "total_time": 1689, 
+   "subtitle": "Today we're continuing our conversation with David Smith. We start by discussing David's recent talk at the NSNorth conference in which he encouraged the audience to engage with our community of developers.", 
+   "description": "Today we\u2019re continuing our conversation with David Smith. We start by discussing David\u2019s recent talk at the NSNorth conference in which he encouraged the audience to engage with our community of developers. David then turns the tables by asking us a question. Specifically, he wants to know how we handle the risk and uncertainty of [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/58-david-smith-part-2/", 
+   "guid": "http://releasenotes.tv/?p=356", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_58.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 13783422
+    }
+   ], 
+   "title": "#58: David Smith (part 2)", 
+   "published": 1403532053
+  }, 
+  {
+   "total_time": 1859, 
+   "subtitle": "We asked David Smith to join us today because he's found a different path to success in the App Store. Instead of concentrating his efforts on one or two apps as Charles and Joe have done, David has a diverse portfolio of over 70 apps that support him ...", 
+   "description": "We asked David Smith to join us today because he\u2019s found a different path to success in the App Store. Instead of concentrating his efforts on one or two apps as Charles and Joe have done, David has a diverse portfolio of over 70 apps that support him in aggregate. In our conversation, we talk [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/57-david-smith-part-1/", 
+   "guid": "http://releasenotes.tv/?p=352", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_57.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15142416
+    }
+   ], 
+   "title": "#57: David Smith (part 1)", 
+   "published": 1402927231
+  }, 
+  {
+   "total_time": 1934, 
+   "subtitle": "We're back from WWDC and today we take a look at the enormous number of changes that were announced during the conference and how we think that those changes will affect our businesses. We start with our general impressions of the WWDC,", 
+   "description": "We\u2019re back from WWDC and today we take a look at the enormous number of changes that were announced during the conference and how we think that those changes will affect our businesses. We start with our general impressions of the WWDC, then quickly move to our thoughts on what qualifies as the most significant [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/56-felt-like-an-episode-of-oprah/", 
+   "guid": "http://releasenotes.tv/?p=343", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_56.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15746362
+    }
+   ], 
+   "title": "#56: Felt Like an Episode of Oprah", 
+   "published": 1402324434
+  }, 
+  {
+   "total_time": 1864, 
+   "subtitle": "We're joined today by Brit Young, now of New Relic, who shares her story of going indie. Brit's story is particularly interesting because in the midst of running a successful consulting business, she and her partner had the realization that a consultin...", 
+   "description": "We\u2019re joined today by Brit Young, now of New Relic, who shares her story of going indie. Brit\u2019s story is particularly interesting because in the midst of running a successful consulting business, she and her partner had the realization that a consulting business wasn\u2019t what they really wanted. So they closed their startup, took a [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/55-brit-young/", 
+   "guid": "http://releasenotes.tv/?p=335", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_55.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15182532
+    }
+   ], 
+   "title": "#55: Brit Young", 
+   "published": 1401717641
+  }, 
+  {
+   "total_time": 1969, 
+   "subtitle": "We start today by raving about our recent trip to the NSNorth conference, which was held in Ottawa, Canada. Then we change gears and jump into our main topic: WWDC. We don't cover all the hints and tips we gave in our WWDC episode from last year,", 
+   "description": "We start today by raving about our recent trip to the NSNorth conference, which was held in Ottawa, Canada. Then we change gears and jump into our main topic: WWDC. We don\u2019t cover all the hints and tips we gave in our WWDC episode from last year, but Charles does explain the strategy he used [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/54-youd-better-start-in-october/", 
+   "guid": "http://releasenotes.tv/?p=330", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_54.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16022508
+    }
+   ], 
+   "title": "#54: You\u2019d Better Start in October", 
+   "published": 1401115744
+  }, 
+  {
+   "total_time": 2129, 
+   "subtitle": "Today, Charles and Joe discuss the recent version 3.0 releases of their respective apps. Charles discusses his transition of backend providers and some of the problems and unexpected benefits that came up during the process.", 
+   "description": "Today, Charles and Joe discuss the recent version 3.0 releases of their respective apps. Charles discusses his transition of backend providers and some of the problems and unexpected benefits that came up during the process. He also describes some of the challenges he faced in communicating these changes to his customers. Next, Joe catches us [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/53-no-major-hiccups/", 
+   "guid": "http://releasenotes.tv/?p=325", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_53.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17308507
+    }
+   ], 
+   "title": "#53: No Major Hiccups", 
+   "published": 1400508676
+  }, 
+  {
+   "total_time": 1708, 
+   "subtitle": "We continue last week's discussion of changes that we'd like to see in iOS 8 from our perspective as developers and business owners. We look at what we'd like to see change with App Store ratings and search results,", 
+   "description": "We continue last week\u2019s discussion of changes that we\u2019d like to see in iOS 8 from our perspective as developers and business owners. We look at what we\u2019d like to see change with App Store ratings and search results, discuss a possible way that developers could be allowed to respond to reviews, and consider the [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/52-a-bizarre-omission/", 
+   "guid": "http://releasenotes.tv/?p=320", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_52.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 13938504
+    }
+   ], 
+   "title": "#52: A Bizarre Omission", 
+   "published": 1399903218
+  }, 
+  {
+   "total_time": 2252, 
+   "subtitle": "In this episode, we begin making a wish list for iOS 8. First up: Problems that we experience as users. We share tales of woe connected to the keyboard, autocorrect, music player, and Siri. Then we take a broad look at some rough edges that were never ...", 
+   "description": "In this episode, we begin making a wish list for iOS 8. First up: Problems that we experience as users. We share tales of woe connected to the keyboard, autocorrect, music player, and Siri. Then we take a broad look at some rough edges that were never rounded over in iOS 7 on the iPad, [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/51-buttons-with-borders/", 
+   "guid": "http://releasenotes.tv/?p=318", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_51.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18292386
+    }
+   ], 
+   "title": "#51: Buttons with Borders", 
+   "published": 1399298448
+  }, 
+  {
+   "total_time": 1975, 
+   "subtitle": "Today we're talking about beta testing. We start with the beta strategy that Bombing Brain Interactive is using for their upcoming release of Teleprompt+ 3.0, and discuss the merits of giving a testing checklist to members of your beta pool.", 
+   "description": "Today we\u2019re talking about beta testing. We start with the beta strategy that Bombing Brain Interactive is using for their upcoming release of Teleprompt+ 3.0, and discuss the merits of giving a testing checklist to members of your beta pool. We consider what kind of feedback we solicit from our beta testers, and what kind [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/50-any-monkey-can-crash-an-app/", 
+   "guid": "http://releasenotes.tv/?p=312", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_50.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16074493
+    }
+   ], 
+   "title": "#50: Any Monkey Can Crash an App", 
+   "published": 1398693631
+  }, 
+  {
+   "total_time": 1670, 
+   "subtitle": "We continue our conversation on discretionary spending by taking a closer look at conferences and other sorts of social events. We calculate the real cost of attending WWDC, and look at a few conferences that we recommend if you can't bankroll a trip t...", 
+   "description": "We continue our conversation on discretionary spending by taking a closer look at conferences and other sorts of social events. We calculate the real cost of attending WWDC, and look at a few conferences that we recommend if you can\u2019t bankroll a trip to San Francisco in June. We make a business case for spending [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/49-rubber-duck-expense-reporting-part-2/", 
+   "guid": "http://releasenotes.tv/?p=309", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_49.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 13630486
+    }
+   ], 
+   "title": "#49: Rubber Duck Expense Reporting (part 2)", 
+   "published": 1398092295
+  }, 
+  {
+   "total_time": 1711, 
+   "subtitle": "Today we begin a conversation about expenses, particularly discretionary expenses, and how we justify them. We start by discussing the value of travel and socializing, and the sometimes intangible benefits that we derive from them.", 
+   "description": "Today we begin a conversation about expenses, particularly discretionary expenses, and how we justify them. We start by discussing the value of travel and socializing, and the sometimes intangible benefits that we derive from them. We take a look at hardware purchases and consider how important it is to have the latest and greatest gizmos [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/48-rubber-duck-expense-reporting-part-1/", 
+   "guid": "http://releasenotes.tv/?p=305", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_48.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 13965689
+    }
+   ], 
+   "title": "#48: Rubber Duck Expense Reporting (part 1)", 
+   "published": 1397483447
+  }, 
+  {
+   "total_time": 2205, 
+   "subtitle": "Today we look at the controversy surrounding the game Threes! and the many inferior clones of that game that have appeared in the App Store. We start with a brief recap of the Threes! saga to bring those listeners who may not be familiar with the contr...", 
+   "description": "Today we look at the controversy surrounding the game Threes! and the many inferior clones of that game that have appeared in the App Store. We start with a brief recap of the Threes! saga to bring those listeners who may not be familiar with the controversy up to date, then we discuss what the [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/47-icky-is-a-good-way-to-describe-it/", 
+   "guid": "http://releasenotes.tv/?p=303", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_47.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17915400
+    }
+   ], 
+   "title": "#47: Icky Is a Good Way to Describe It", 
+   "published": 1396882179
+  }, 
+  {
+   "total_time": 2173, 
+   "subtitle": "Today we have a wide ranging discussion about collecting customer data. We talk about privacy policies, whether anyone actually reads them, and Apple's sensitivity to privacy issues. Then the conversation turns to a discussion of what kind of informati...", 
+   "description": "Today we have a wide ranging discussion about collecting customer data. We talk about privacy policies, whether anyone actually reads them, and Apple\u2019s sensitivity to privacy issues. Then the conversation turns to a discussion of what kind of information is acceptable for a developer to collect, what information should be out of bounds, and some [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/46-a-good-reason-from-their-perspective/", 
+   "guid": "http://releasenotes.tv/?p=299", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_46.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17658567
+    }
+   ], 
+   "title": "#46: A Good Reason From Their Perspective", 
+   "published": 1396276258
+  }, 
+  {
+   "total_time": 1886, 
+   "subtitle": "We're joined again by special guest Justin Williams of Second Gear Software for the conclusion of our conversation about his acquisition of Glassboard and his experience as an indie software developer. We talk about making data-driven decisions and his...", 
+   "description": "We\u2019re joined again by special guest Justin Williams of Second Gear Software for the conclusion of our conversation about his acquisition of Glassboard and his experience as an indie software developer. We talk about making data-driven decisions and his choice to drop support for some underperforming platforms. We discuss his aversion to venture capital, the [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/45-justin-williams-part-2/", 
+   "guid": "http://releasenotes.tv/?p=296", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_45.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15358505
+    }
+   ], 
+   "title": "#45: Justin Williams (part 2)", 
+   "published": 1395669985
+  }, 
+  {
+   "total_time": 2059, 
+   "subtitle": "This week we're joined by special guest Justin Williams of Second Gear Software, purveyor of fine software products like Glassboard and Elements. We cover a lot of topics this week, starting with Justin's experience with selling entire software product...", 
+   "description": "This week we\u2019re joined by special guest Justin Williams of Second Gear Software, purveyor of fine software products like Glassboard and Elements. We cover a lot of topics this week, starting with Justin\u2019s experience with selling entire software products to other developers when he no longer has the time or interest to properly maintain them. [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/44-justin-williams-part-1/", 
+   "guid": "http://releasenotes.tv/?p=282", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_44.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16742368
+    }
+   ], 
+   "title": "#44: Justin Williams (part 1)", 
+   "published": 1395060557
+  }, 
+  {
+   "total_time": 1962, 
+   "subtitle": "Today we explore in a little more depth the dangers of relying on third party dependencies. Specifically, we discuss the problems that Charles has been dealing with as he prepares for the shutdown of his backend provider, StackMob.", 
+   "description": "Today we explore in a little more depth the dangers of relying on third party dependencies. Specifically, we discuss the problems that Charles has been dealing with as he prepares for the shutdown of his backend provider, StackMob. We discuss the reason for the shutdown, the problems that this has caused for Charles, and his [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/43-too-many-tendrils/", 
+   "guid": "http://releasenotes.tv/?p=276", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_43.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15970392
+    }
+   ], 
+   "title": "#43: Too Many Tendrils", 
+   "published": 1394462658
+  }, 
+  {
+   "total_time": 2520, 
+   "subtitle": "Today we talk about gaming the App Store, and where exactly the fine line is that separates ethical from unethical behavior. Should developers feel uncomfortable in steering only their happy customers towards leaving a review?", 
+   "description": "Today we talk about gaming the App Store, and where exactly the fine line is that separates ethical from unethical behavior. Should developers feel uncomfortable in steering only their happy customers towards leaving a review? Is it unethical to incentivize customers to download a free app in the hopes of it climbing the charts? Listen [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/42-which-makes-me-sort-of-worried-about-me/", 
+   "guid": "http://releasenotes.tv/?p=270", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_42.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 20434505
+    }
+   ], 
+   "title": "#42: Which Makes Me Sort of Worried About\u2026Me", 
+   "published": 1393858813
+  }, 
+  {
+   "total_time": 2048, 
+   "subtitle": "Today we're joined by Manton Reece of Riverfold Software who speaks with us about his experience as an independent iOS and Mac developer. We talk about creating products vs. services, changing products from free to paid,", 
+   "description": "Today we\u2019re joined by Manton Reece of Riverfold Software who speaks with us about his experience as an independent iOS and Mac developer. We talk about creating products vs. services, changing products from free to paid, and the advantages and challenges of subscription pricing. Manton also shares his experience in creating apps like Sunlit that [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/41-manton-reece/", 
+   "guid": "http://releasenotes.tv/?p=266", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_41.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16658367
+    }
+   ], 
+   "title": "#41: Manton Reece", 
+   "published": 1393253635
+  }, 
+  {
+   "total_time": 2276, 
+   "subtitle": "Today we use the recent Flappy Bird saga as a jumping off point for discussing criticism and how we as developers can deal with it. We talk about the dangers of taking negative comments too personally, extracting a little bit of good from even the nega...", 
+   "description": "Today we use the recent Flappy Bird saga as a jumping off point for discussing criticism and how we as developers can deal with it. We talk about the dangers of taking negative comments too personally, extracting a little bit of good from even the negative reviews, and keeping a healthy sense of perspective when [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/40-the-pain-threshold/", 
+   "guid": "http://releasenotes.tv/?p=262", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_40.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18478376
+    }
+   ], 
+   "title": "#40: The Pain Threshold", 
+   "published": 1392648417
+  }, 
+  {
+   "total_time": 2290, 
+   "subtitle": "In this episode we discuss taxes. We start by reflecting on our individual workflows for tracking expenses and receipts, and Joe's inexplicable love of spreadsheets. Then we turn our attention to income tracking and some of the difficulties that it can...", 
+   "description": "In this episode we discuss taxes. We start by reflecting on our individual workflows for tracking expenses and receipts, and Joe\u2019s inexplicable love of spreadsheets. Then we turn our attention to income tracking and some of the difficulties that it can present. We next talk in depth about the 1099-K tax forms that Apple has [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/39-the-tax-man-cometh/", 
+   "guid": "http://releasenotes.tv/?p=257", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_39.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18593523
+    }
+   ], 
+   "title": "#39: The Tax Man Cometh", 
+   "published": 1392048169
+  }, 
+  {
+   "total_time": 2333, 
+   "subtitle": "Today we take some time to geek out over equipment. Specifically, we talk this week about the equipment we use every day to stay productive and healthy. Desktop or laptop? Seated or standing desk? Dual monitor or single?", 
+   "description": "Today we take some time to geek out over equipment. Specifically, we talk this week about the equipment we use every day to stay productive and healthy. Desktop or laptop? Seated or standing desk? Dual monitor or single? How can I avoid a repetitive stress injury? These are the questions that keep us up at [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/38-a-mac-of-some-sort-on-my-person/", 
+   "guid": "http://releasenotes.tv/?p=254", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_38.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18941539
+    }
+   ], 
+   "title": "#38: A Mac of Some Sort\u2026 On My Person", 
+   "published": 1391439543
+  }, 
+  {
+   "total_time": 2119, 
+   "subtitle": "Today we're talking about trademarks \u2013 what they are and why they're important. We start with a general discussion of what trademarks are and how to get them, as well as a discussion of the differences between common law trademarks and registered trade...", 
+   "description": "Today we\u2019re talking about trademarks \u2013 what they are and why they\u2019re important. We start with a general discussion of what trademarks are and how to get them, as well as a discussion of the differences between common law trademarks and registered trademarks. Then Charles shares his recent experience with a trademark dispute, and the [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/37-you-cant-xerox-a-xerox/", 
+   "guid": "http://releasenotes.tv/?p=249", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_37.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17226385
+    }
+   ], 
+   "title": "#37: You Can\u2019t Xerox a Xerox", 
+   "published": 1390837844
+  }, 
+  {
+   "total_time": 1697, 
+   "subtitle": "Today we've got part two of our conversation with Jim Dalrymple of The Loop Magazine. In today's conversation, we talk about whether, given the chance to do it over again, Jim would make The Loop Magazine a Newsstand app or just a regular Springboard a...", 
+   "description": "Today we\u2019ve got part two of our conversation with Jim Dalrymple of The Loop Magazine. In today\u2019s conversation, we talk about whether, given the chance to do it over again, Jim would make The Loop Magazine a Newsstand app or just a regular Springboard app. Jim also shares with us why he doesn\u2019t want his [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/36-jim-dalrymple-part-2/", 
+   "guid": "http://releasenotes.tv/?p=245", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_36.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 13850525
+    }
+   ], 
+   "title": "#36: Jim Dalrymple (part 2)", 
+   "published": 1390233102
+  }, 
+  {
+   "total_time": 1777, 
+   "subtitle": "Today we're joined by special guest Jim Dalrymple who shares with us his experience developing The Loop Magazine which appears in the iOS Newsstand. We talk about why he wanted to build an app, the difference between the content that appears in The Loo...", 
+   "description": "Today we\u2019re joined by special guest Jim Dalrymple who shares with us his experience developing The Loop Magazine which appears in the iOS Newsstand. We talk about why he wanted to build an app, the difference between the content that appears in The Loop website and The Loop Magazine, and Jim\u2019s love for Scottish accents. [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/35-jim-dalrymple-part-1/", 
+   "guid": "http://releasenotes.tv/?p=237", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_35.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15994904
+    }
+   ], 
+   "title": "#35: Jim Dalrymple (part 1)", 
+   "published": 1389626394
+  }, 
+  {
+   "total_time": 2010, 
+   "subtitle": "Today we take a look at App Store Optimization or \"ASO.\" We consider the sorry state of App Store search that makes many developers feel that some sort of ASO is necessary, and discuss the fine line between effective and unethical uses of ASO.", 
+   "description": "Today we take a look at App Store Optimization or \u201cASO.\u201d We consider the sorry state of App Store search that makes many developers feel that some sort of ASO is necessary, and discuss the fine line between effective and unethical uses of ASO. Then we dive deep into a great article on ASO from [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/34-feels-slimy-doesnt-it/", 
+   "guid": "http://releasenotes.tv/?p=234", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_34.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16350596
+    }
+   ], 
+   "title": "#34: Feels Slimy, Doesn\u2019t It?", 
+   "published": 1389022057
+  }, 
+  {
+   "total_time": 2088, 
+   "subtitle": "Today we explore the the phenomenon of holiday sales on the App Store. We start by looking at the lessons that can be learned from sales on physical goods in brick and mortar stores, and consider the value of sales in today's Apps Store.", 
+   "description": "Today we explore the the phenomenon of holiday sales on the App Store. We start by looking at the lessons that can be learned from sales on physical goods in brick and mortar stores, and consider the value of sales in today\u2019s Apps Store. We talk about ways of gaining attention for our apps through [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/33-its-on-sale/", 
+   "guid": "http://releasenotes.tv/?p=227", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_33.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16978772
+    }
+   ], 
+   "title": "#33: It\u2019s on Sale!", 
+   "published": 1388417907
+  }, 
+  {
+   "total_time": 2365, 
+   "subtitle": "Today we're talking all about feature requests. We start by discussing how to handle feedback that we receive from customers and how that fits into the idea of building \"opinionated software.\" Next we turn to our methods of tracking and responding to f...", 
+   "description": "Today we\u2019re talking all about feature requests. We start by discussing how to handle feedback that we receive from customers and how that fits into the idea of building \u201copinionated software.\u201d Next we turn to our methods of tracking and responding to feature requests, and consider what to do when there is overwhelming demand for [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/32-they-had-money-and-i-wanted-it/", 
+   "guid": "http://releasenotes.tv/?p=223", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_32.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 19195607
+    }
+   ], 
+   "title": "#32: They Had Money, and I Wanted It", 
+   "published": 1387810818
+  }, 
+  {
+   "total_time": 2182, 
+   "subtitle": "Today we address the kerfuffle surrounding apps prompting for App Store reviews, and the campaign to rate these apps with only one star. We catch up on the backstory surrounding the controversy, share our opinions on the campaign,", 
+   "description": "Today we address the kerfuffle surrounding apps prompting for App Store reviews, and the campaign to rate these apps with only one star. We catch up on the backstory surrounding the controversy, share our opinions on the campaign, and consider whether it\u2019s ever appropriate to prompt users for ratings. Charles shares a case study from [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/31-youre-basically-giving-it-a-d-or-a-c/", 
+   "guid": "http://releasenotes.tv/?p=217", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_31.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17732966
+    }
+   ], 
+   "title": "#31: You\u2019re Basically Giving it a D or a C-", 
+   "published": 1387208249
+  }, 
+  {
+   "total_time": 2181, 
+   "subtitle": "Today we're sharing all the best Christmas gift ideas we have for geeks like ourselves. So whether you're buying for the geek in your life, or you're just wanting to drop some hints for yourself, this is the episode for you! Show Notes & Links -", 
+   "description": "Today we\u2019re sharing all the best Christmas gift ideas we have for geeks like ourselves. So whether you\u2019re buying for the geek in your life, or you\u2019re just wanting to drop some hints for yourself, this is the episode for you! Show Notes & Links Book Arc for iPad from Twelve South Plug Bug from [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/30-im-suggesting-things-that-i-want/", 
+   "guid": "http://releasenotes.tv/?p=212", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_30.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17718750
+    }
+   ], 
+   "title": "#30: I\u2019m Suggesting Things That I Want", 
+   "published": 1386601212
+  }, 
+  {
+   "total_time": 2310, 
+   "subtitle": "Today we talk to Luc Vandal of Edovia Software about his experience developing for iOS. Luc shares the story of how a feature from Apple helped launch his first app, what he's learned by killing off underperforming products,", 
+   "description": "Today we talk to Luc Vandal of Edovia Software about his experience developing for iOS. Luc shares the story of how a feature from Apple helped launch his first app, what he\u2019s learned by killing off underperforming products, and his success in convincing customers to pay for his iOS 7 updates. Next we turn to [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/29-luc-vandal/", 
+   "guid": "http://releasenotes.tv/?p=209", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_29.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18757356
+    }
+   ], 
+   "title": "#29: Luc Vandal", 
+   "published": 1385998020
+  }, 
+  {
+   "total_time": 2164, 
+   "subtitle": "Charles and Joe catch up after a few weeks off. Joe talks about his trip to the Devoxx conference in Belgium and the presentation that he gave while there. Charles talks about his legal troubles, trademark disputes, changing his company's name,", 
+   "description": "Charles and Joe catch up after a few weeks off. Joe talks about his trip to the Devoxx conference in Belgium and the presentation that he gave while there. Charles talks about his legal troubles, trademark disputes, changing his company\u2019s name, dealing with domain squatters, and his wonderful experience with Apple Developer Program Support. Show [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/28-whats-in-a-name/", 
+   "guid": "http://releasenotes.tv/?p=201", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_28.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17589167
+    }
+   ], 
+   "title": "#28: What\u2019s in a Name?", 
+   "published": 1385398814
+  }, 
+  {
+   "total_time": 2234, 
+   "subtitle": "Today we're talking about inspiration and how we conceive of and evaluate app ideas. We start by discussing how we each get ideas for new apps, the value of intentionally seeking out new ideas, and the role of a product roadmap in determining which ide...", 
+   "description": "Today we\u2019re talking about inspiration and how we conceive of and evaluate app ideas. We start by discussing how we each get ideas for new apps, the value of intentionally seeking out new ideas, and the role of a product roadmap in determining which ideas are feasible. Then we turn our attention to evaluating those [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/27-going-off-into-a-meadow-somewhere/", 
+   "guid": "http://releasenotes.tv/?p=195", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_27.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18145278
+    }
+   ], 
+   "title": "#27: Going Off Into A Meadow Somewhere", 
+   "published": 1384786847
+  }, 
+  {
+   "total_time": 2256, 
+   "subtitle": "Today we're joined by Jonathan Rhyne, a lawyer who specializes in representing independent mobile software developers. We talk to Jonathan about all things related to law, but especially about a lawyer's role in helping an indie build his software busi...", 
+   "description": "Today we\u2019re joined by Jonathan Rhyne, a lawyer who specializes in representing independent mobile software developers. We talk to Jonathan about all things related to law, but especially about a lawyer\u2019s role in helping an indie build his software business. Jonathan shares with us when we should seek legal advice, and what attributes to look [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/26-jonathan-rhyne/", 
+   "guid": "http://releasenotes.tv/?p=190", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_26.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18322474
+    }
+   ], 
+   "title": "#26: Jonathan Rhyne", 
+   "published": 1384182101
+  }, 
+  {
+   "total_time": 2116, 
+   "subtitle": "Today we're talking about Joe's new app, Fin, and the challenges he faced as a fairly new developer. Joe shares his experience implementing VoiceOver for the first time, as well as some of the difficulties he had to overcome in making the gesture-based...", 
+   "description": "Today we\u2019re talking about Joe\u2019s new app, Fin, and the challenges he faced as a fairly new developer. Joe shares his experience implementing VoiceOver for the first time, as well as some of the difficulties he had to overcome in making the gesture-based interface of Fin work well with VoiceOver gestures. We discuss the importance [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/25-put-it-in-a-sentence/", 
+   "guid": "http://releasenotes.tv/?p=186", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_25.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17204439
+    }
+   ], 
+   "title": "#25: Put It in a Sentence", 
+   "published": 1383578637
+  }, 
+  {
+   "total_time": 2177, 
+   "subtitle": "In today's episode, we discuss how the location we live affects our businesses. We compare our experiences on the coasts with those in the Midwest of the U.S. and consider the different cultures and resources that those locations can offer an indie bus...", 
+   "description": "In today\u2019s episode, we discuss how the location we live affects our businesses. We compare our experiences on the coasts with those in the Midwest of the U.S. and consider the different cultures and resources that those locations can offer an indie business or a startup. We consider the importance of a local tech scene [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/24-location-location-location/", 
+   "guid": "http://releasenotes.tv/?p=182", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_24.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17689279
+    }
+   ], 
+   "title": "#24: Location, Location, Location", 
+   "published": 1382968842
+  }, 
+  {
+   "total_time": 2188, 
+   "subtitle": "Today we're joined by Jiva DeVoe of Random Ideas Software, who shares his thoughts on running and building an App Store business. Jiva shares his thoughts on returning to business fundamentals and why today's indies could learn a thing or two from Mac ...", 
+   "description": "Today we\u2019re joined by Jiva DeVoe of Random Ideas Software, who shares his thoughts on running and building an App Store business. Jiva shares his thoughts on returning to business fundamentals and why today\u2019s indies could learn a thing or two from Mac indies of the pre-App Store era. He also explains why there\u2019s never [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/23-jiva-devoe/", 
+   "guid": "http://releasenotes.tv/?p=179", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_23.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17780585
+    }
+   ], 
+   "title": "#23: Jiva DeVoe", 
+   "published": 1382364010
+  }, 
+  {
+   "total_time": 1892, 
+   "subtitle": "Today we conclude our discussion on app pricing that began in the last episode. We discuss charging for app updates, and try to learn from the experience of companies like Realmac Software (maker of Clear) and The Omni Group (maker of OmniFocus) who ha...", 
+   "description": "Today we conclude our discussion on app pricing that began in the last episode. We discuss charging for app updates, and try to learn from the experience of companies like Realmac Software (maker of Clear) and The Omni Group (maker of OmniFocus) who have tried to charge customers for their iOS 7 updates. Then we [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/22-ill-gladly-pay-you-tuesday-part-2/", 
+   "guid": "http://releasenotes.tv/?p=173", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_22.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15412561
+    }
+   ], 
+   "title": "#22: I\u2019ll Gladly Pay You Tuesday (part 2)", 
+   "published": 1381759202
+  }, 
+  {
+   "total_time": 1921, 
+   "subtitle": "In this episode, we add our two cents to the ongoing conversation about app pricing. We start by asking if paid apps are really dead, or if there's still a place for paid apps in the App Store. Next, we discuss the future of premium priced apps,", 
+   "description": "In this episode, we add our two cents to the ongoing conversation about app pricing. We start by asking if paid apps are really dead, or if there\u2019s still a place for paid apps in the App Store. Next, we discuss the future of premium priced apps, and consider the uncomfortable question of whether these [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/21-ill-gladly-pay-you-tuesday-part-1/", 
+   "guid": "http://releasenotes.tv/?p=163", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_21.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 31008290
+    }
+   ], 
+   "title": "#21: I\u2019ll Gladly Pay You Tuesday (part 1)", 
+   "published": 1381151662
+  }, 
+  {
+   "total_time": 2066, 
+   "subtitle": "Today we're joined by Greg Pierce of Agile Tortoise who makes such fine apps as Drafts and Terminology. Greg shares with us his experience in the App Store, what he was thinking about as he updated Drafts for iOS 7,", 
+   "description": "Today we\u2019re joined by Greg Pierce of Agile Tortoise who makes such fine apps as Drafts and Terminology. Greg shares with us his experience in the App Store, what he was thinking about as he updated Drafts for iOS 7, and some of the history behind the x-callback-url system of inter-app communication which he developed. [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/20-greg-pierce/", 
+   "guid": "http://releasenotes.tv/?p=159", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_20.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 33322399
+    }
+   ], 
+   "title": "#20: Greg Pierce", 
+   "published": 1380549620
+  }, 
+  {
+   "total_time": 1854, 
+   "subtitle": "Today we chat about our experience at the recently held 360iDev conference, and some of the best presentations we saw while we were there. Then we dive into the topic of Joe's 360iDev presentation: customer service.", 
+   "description": "Today we chat about our experience at the recently held 360iDev conference, and some of the best presentations we saw while we were there. Then we dive into the topic of Joe\u2019s 360iDev presentation: customer service. Joe makes the case that excellent customer service is the distinguishing factor that separates successful long-term software businesses from [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/19-in-service-of-customers/", 
+   "guid": "http://releasenotes.tv/?p=157", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_19.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15107540
+    }
+   ], 
+   "title": "#19: In Service of Customers", 
+   "published": 1379944785
+  }, 
+  {
+   "total_time": 2367, 
+   "subtitle": "Today we conclude our conversation about websites for products and businesses. We start with a discussion of features that every website should have, and which of those features are most often overlooked. Then we consider how prominently to feature you...", 
+   "description": "Today we conclude our conversation about websites for products and businesses. We start with a discussion of features that every website should have, and which of those features are most often overlooked. Then we consider how prominently to feature your social media presence, the benefits and risks of promoting other products, and the dubious benefits [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/18-product-websites-part-2/", 
+   "guid": "http://releasenotes.tv/?p=154", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_18.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 19209386
+    }
+   ], 
+   "title": "#18: Product Websites (part 2)", 
+   "published": 1379345779
+  }, 
+  {
+   "total_time": 1809, 
+   "subtitle": "In this episode we begin a conversation about the websites that we use to promote our products. We discuss the role of the website when all purchases have to happen in the App Store and the all-important first impression that your website makes.", 
+   "description": "In this episode we begin a conversation about the websites that we use to promote our products. We discuss the role of the website when all purchases have to happen in the App Store and the all-important first impression that your website makes. We talk about the different pre- and post-sale roles that a product [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/17-product-websites-part-1/", 
+   "guid": "http://releasenotes.tv/?p=152", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_17.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 14748507
+    }
+   ], 
+   "title": "#17: Product Websites (part 1)", 
+   "published": 1378828666
+  }, 
+  {
+   "total_time": 1802, 
+   "subtitle": "Today we talk to Shane Crawford of Blue Lightning Labs about his experience as an indie in the App Store. We talk about the secret to his success, the first-mover advantage, the importance of creating a portfolio of apps,", 
+   "description": "Today we talk to Shane Crawford of Blue Lightning Labs about his experience as an indie in the App Store. We talk about the secret to his success, the first-mover advantage, the importance of creating a portfolio of apps, and building a brand for your company. Then Shane shares his thoughts on the new Kids [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/16-shane-crawford/", 
+   "guid": "http://releasenotes.tv/?p=145", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_16.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 14687273
+    }
+   ], 
+   "title": "#16: Shane Crawford", 
+   "published": 1378133646
+  }, 
+  {
+   "total_time": 2297, 
+   "subtitle": "Today we take a look at design trends in iOS and how developers and designers should react to them. We consider trends in iOS 7 like flat design and deference to content, and discuss how they will affect our upcoming app re-designs.", 
+   "description": "Today we take a look at design trends in iOS and how developers and designers should react to them. We consider trends in iOS 7 like flat design and deference to content, and discuss how they will affect our upcoming app re-designs. We also talk about where to draw design inspiration and showing restraint when [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/15-trend-follower/", 
+   "guid": "http://releasenotes.tv/?p=140", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_15.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18649336
+    }
+   ], 
+   "title": "#15: Trend Follower", 
+   "published": 1377525631
+  }, 
+  {
+   "total_time": 2176, 
+   "subtitle": "Lots of indie developers depend on revenue from multiple apps to keep their ship afloat. But when you have several apps, all in need of your attention, how do you decide what to do next? How do you keep all the balls in the air?", 
+   "description": "Lots of indie developers depend on revenue from multiple apps to keep their ship afloat. But when you have several apps, all in need of your attention, how do you decide what to do next? How do you keep all the balls in the air? In this episode we compare notes on preparing (or not) [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/14-chief-cook-and-bottle-washer/", 
+   "guid": "http://releasenotes.tv/?p=134", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_14.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17682408
+    }
+   ], 
+   "title": "#14: Chief Cook and Bottle Washer", 
+   "published": 1376920818
+  }, 
+  {
+   "total_time": 2010, 
+   "subtitle": "This week we discuss accessible apps and technologies like VoiceOver. We start by first considering what exactly it means for an app to be \"accessible\" and why we as business owners should care about it. Then we dive into Apple's VoiceOver technology,", 
+   "description": "This week we discuss accessible apps and technologies like VoiceOver. We start by first considering what exactly it means for an app to be \u201caccessible\u201d and why we as business owners should care about it. Then we dive into Apple\u2019s VoiceOver technology, discussing what it is, how hard (or easy) it is to implement, and [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/13-accessibility/", 
+   "guid": "http://releasenotes.tv/?p=128", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_13.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16082703
+    }
+   ], 
+   "title": "#13: Accessibility", 
+   "published": 1376316005
+  }, 
+  {
+   "total_time": 2292, 
+   "subtitle": "Working from home is an experience that most indies have enjoyed\u2026 or suffered through. In this episode, we talk about the ups and downs of working from home and explore some of the workspace options that exist for independent developers. Along the way,", 
+   "description": "Working from home is an experience that most indies have enjoyed\u2026 or suffered through. In this episode, we talk about the ups and downs of working from home and explore some of the workspace options that exist for independent developers. Along the way, we discuss time management, the importance of routine, keeping motivated, and strategies [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/12-homeward-unbound/", 
+   "guid": "http://releasenotes.tv/?p=119", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_12.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18607839
+    }
+   ], 
+   "title": "#12: Homeward Unbound", 
+   "published": 1375711251
+  }, 
+  {
+   "total_time": 2049, 
+   "subtitle": "This week we talk about the extended downtime that the iOS and Mac developer portals have experienced. We discuss the security breach that caused it, Apple's response, and whether it was sufficient. Then we use Apple's woes as an excuse to reflect on o...", 
+   "description": "This week we talk about the extended downtime that the iOS and Mac developer portals have experienced. We discuss the security breach that caused it, Apple\u2019s response, and whether it was sufficient. Then we use Apple\u2019s woes as an excuse to reflect on our own security, including backup schemes, passwords, and two-factor authentication. Show Notes [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/11-hackintosh/", 
+   "guid": "http://releasenotes.tv/?p=116", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_11.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16664113
+    }
+   ], 
+   "title": "#11: Hackintosh", 
+   "published": 1375106457
+  }, 
+  {
+   "total_time": 1785, 
+   "subtitle": "In this episode we talk about the advantages and disadvantages of integrating third party services and code into your app. We consider why you might want to rely on others, the risks in doing so, and our experiences integrating third party services int...", 
+   "description": "In this episode we talk about the advantages and disadvantages of integrating third party services and code into your app. We consider why you might want to rely on others, the risks in doing so, and our experiences integrating third party services into our software. We close with a discussion of open source software, and [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/10-third-party/", 
+   "guid": "http://releasenotes.tv/?p=111", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_10.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 14554465
+    }
+   ], 
+   "title": "#10: Third Party", 
+   "published": 1374501630
+  }, 
+  {
+   "total_time": 1652, 
+   "subtitle": "Developers and Designers need each other, but how do you find a good partner to work with? In this episode we look at how indies can find a good designer, how they can recognize a good one when they find one,", 
+   "description": "Developers and Designers need each other, but how do you find a good partner to work with? In this episode we look at how indies can find a good designer, how they can recognize a good one when they find one, and what each side should expect from the relationship. Joe (a designer) and Charles [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/9-developers-and-designers/", 
+   "guid": "http://releasenotes.tv/?p=107", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_9.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 13490328
+    }
+   ], 
+   "title": "#9: Developers and Designers", 
+   "published": 1373896821
+  }, 
+  {
+   "total_time": 1936, 
+   "subtitle": "On this, the fifth anniversary of Apple's launch of the App Store, we consider the the current state of affairs for businesses that rely on it for distribution. We react to recent reports of downsizing, look at what monetization strategies are working ...", 
+   "description": "On this, the fifth anniversary of Apple\u2019s launch of the App Store, we consider the the current state of affairs for businesses that rely on it for distribution. We react to recent reports of downsizing, look at what monetization strategies are working and which aren\u2019t, and consider how Apple\u2019s App Store policies have shaped the [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/8-catch-22/", 
+   "guid": "http://releasenotes.tv/?p=102", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_8.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15762354
+    }
+   ], 
+   "title": "#8: Catch-22", 
+   "published": 1373332902
+  }, 
+  {
+   "total_time": 2242, 
+   "subtitle": "This week we're talking about product launches and how to get the most attention possible for your new apps. We start off with a discussion about generating pre-launch buzz around your app, and making effective use of your mailing list.", 
+   "description": "This week we\u2019re talking about product launches and how to get the most attention possible for your new apps. We start off with a discussion about generating pre-launch buzz around your app, and making effective use of your mailing list. Then we talk about gaining the media\u2019s attention, and what sorts of information should be [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/7-launch/", 
+   "guid": "http://releasenotes.tv/?p=97", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_7.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18211685
+    }
+   ], 
+   "title": "#7: Launch", 
+   "published": 1372687230
+  }, 
+  {
+   "total_time": 1890, 
+   "subtitle": "Charles and Joe return from WWDC to discuss the iOS 7 announcement and its impact on your app business. We talk timeframes, prioritizing your work in the lead-up to release, and the importance of having your apps ready for iOS 7 on day one.", 
+   "description": "Charles and Joe return from WWDC to discuss the iOS 7 announcement and its impact on your app business. We talk timeframes, prioritizing your work in the lead-up to release, and the importance of having your apps ready for iOS 7 on day one. Then discussion turns to designing for iOS 7 and making your [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/6-sisyphus/", 
+   "guid": "http://releasenotes.tv/?p=90", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_6.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15390998
+    }
+   ], 
+   "title": "#6: Sisyphus", 
+   "published": 1372085235
+  }, 
+  {
+   "total_time": 2043, 
+   "subtitle": "This week, a reader question prompts us to talk about whether or not \u201cbranching out\u201d into new fields, new talents, is worthwhile for indie developers. Can you afford to spend time working on new skills when you barely have enough time to finish your cu...", 
+   "description": "This week, a reader question prompts us to talk about whether or not \u201cbranching out\u201d into new fields, new talents, is worthwhile for indie developers. Can you afford to spend time working on new skills when you barely have enough time to finish your current tasks? Can you afford to stand still as technologies change? [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/5-branching-out/", 
+   "guid": "http://releasenotes.tv/?p=86", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_5.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16617499
+    }
+   ], 
+   "title": "#5: Branching Out", 
+   "published": 1371477637
+  }, 
+  {
+   "total_time": 1760, 
+   "subtitle": "In this episode we discuss ways to foster communications with customers -- both current and potential. We talk about social media, message boards, mailing lists and why it's important to be conspicuously active on these channels.", 
+   "description": "In this episode we discuss ways to foster communications with customers \u2014 both current and potential. We talk about social media, message boards, mailing lists and why it\u2019s important to be conspicuously active on these channels. We consider ways to approach new customers, and Joe explains why you need to be your own best product [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/4-i-cant-buy-something-ive-never-heard-of/", 
+   "guid": "http://releasenotes.tv/?p=79", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_4.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 14350849
+    }
+   ], 
+   "title": "#4: I Can\u2019t Buy Something I\u2019ve Never Heard Of", 
+   "published": 1370872820
+  }, 
+  {
+   "total_time": 1910, 
+   "subtitle": "With so many people attending WWDC for the first time this year, we thought it might be fun to share our version of a \"WWDC First-timer's Guide.\" In this episode, Joe shares his local knowledge of San Francisco and particularly the area surrounding the...", 
+   "description": "With so many people attending WWDC for the first time this year, we thought it might be fun to share our version of a \u201cWWDC First-timer\u2019s Guide.\u201d In this episode, Joe shares his local knowledge of San Francisco and particularly the area surrounding the Moscone Center. We tell you what to wear, where to go, [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/3-wwdc-101/", 
+   "guid": "http://releasenotes.tv/?p=73", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_3.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15556429
+    }
+   ], 
+   "title": "#3: WWDC 101", 
+   "published": 1370268011
+  }, 
+  {
+   "total_time": 2256, 
+   "subtitle": "In this episode, we share our own stories of going indie and consider whether it's better to gradually transition to indie development or to just jump in head first. We talk about the importance of saving money while you can, developing a business plan,", 
+   "description": "In this episode, we share our own stories of going indie and consider whether it\u2019s better to gradually transition to indie development or to just jump in head first. We talk about the importance of saving money while you can, developing a business plan, choosing a pricing model, and the \u201cmagazine rule\u201d for properly sizing [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/2-going-indie/", 
+   "guid": "http://releasenotes.tv/?p=61", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_2.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18323736
+    }
+   ], 
+   "title": "#2: Going Indie", 
+   "published": 1369663236
+  }, 
+  {
+   "total_time": 2009, 
+   "subtitle": "In this, our pilot episode, Charles and Joe discuss the importance of conferences to your business and to the Apple developer community in general. We answer the question of whether you should attend a conference (spoiler: Yes, you should!),", 
+   "description": "In this, our pilot episode, Charles and Joe discuss the importance of conferences to your business and to the Apple developer community in general. We answer the question of whether you should attend a conference (spoiler: Yes, you should!), the role of conferences in building community, and how to justify the expense in time and [\u2026]", 
+   "payment_url": null, 
+   "link": "http://releasenotes.tv/1-conference-junkies/", 
+   "guid": "http://releasenotes.tv/?p=45", 
+   "enclosures": [
+    {
+     "url": "http://traffic.libsyn.com/releasenotes/release_notes_1.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 16075676
+    }
+   ], 
+   "title": "#1: Conference Junkies", 
+   "published": 1368750089
+  }
+ ], 
+ "link": "http://releasenotes.tv", 
+ "description": "The Business of iOS and Mac Development", 
+ "cover_url": "http://releasenotes.tv/wp-content/uploads/cover-art/releasenotes_v2_1400.jpg", 
+ "title": "Release Notes"
+}

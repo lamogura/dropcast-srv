@@ -1,0 +1,822 @@
+{
+ "episodes": [
+  {
+   "total_time": 1768, 
+   "subtitle": "BuzzFeed\u2019s Executive Editor of News Shani Hilton talks with Peter Kafka about how she rose to a leadership role within one of the world's most talked-about new media companies. She discusses how the site's strategies have changed as she manages a staff o", 
+   "description": "BuzzFeed\u2019s Executive Editor of News Shani Hilton talks with Peter Kafka about how she rose to a leadership role within one of the world's most talked-about new media companies. She discusses how the site's strategies have changed as she manages a staff of more than 100 people. Plus: Why millennials don't need special news.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "gid://art19-episode-locator/V0/ghNHuIUx-eyfyI8f0w4Lh9FW8rr1S-7hfRfuJoXIN1Y", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/6bb75310-7732-4232-82d7-10a5b4567bcf.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 28324675
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/6bb75310-7732-4232-82d7-10a5b4567bcf.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 28324675
+    }
+   ], 
+   "title": "Shani Hilton, BuzzFeed Executive Editor of News", 
+   "published": 1453353131
+  }, 
+  {
+   "total_time": 2535, 
+   "subtitle": "Affirm CEO and PayPal co-founder Max Levchin talks with Kara Swisher about being a serial entrepreneur and discovering more about himself in the process. He also discusses why startup founders and investors are increasingly flocking to finance, the probl", 
+   "description": "Affirm CEO and PayPal co-founder Max Levchin talks with Kara Swisher about being a serial entrepreneur and discovering more about himself in the process. He also discusses why startup founders and investors are increasingly flocking to finance, the problems with banking that tech can solve and what Marissa Mayer is doing right at Yahoo.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2659001/2659001_2016-01-16-194401.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/311c6a72-376f-455e-9f38-ef4378cbb925.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 40575895
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/311c6a72-376f-455e-9f38-ef4378cbb925.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 40575895
+    }
+   ], 
+   "title": "Max Levchin, Affirm CEO", 
+   "published": 1452990960
+  }, 
+  {
+   "total_time": 1681, 
+   "subtitle": "Mic CEO Chris Altchek talks with Peter Kafka about building a news site for millennials and why such a thing should exist in the first place. He explores the differences among newsreading generations and explains what Mic has learned from four years of s", 
+   "description": "Mic CEO Chris Altchek talks with Peter Kafka about building a news site for millennials and why such a thing should exist in the first place. He explores the differences among newsreading generations and explains what Mic has learned from four years of scaling from a few hundred viewers to tens of millions. Plus: Why there's no silver bullet for social media success.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2657026/2657026_2016-01-13-150826.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/e3888bd6-31fd-49bf-9099-a084ac2ca288.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 26901106
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/e3888bd6-31fd-49bf-9099-a084ac2ca288.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 26901106
+    }
+   ], 
+   "title": "Chris Altchek, Mic CEO", 
+   "published": 1452765600
+  }, 
+  {
+   "total_time": 2585, 
+   "subtitle": "Former Kleiner Perkins Caufield & Byers partner Trae Vassallo and former Yahoo exec Michele Madansky sit down with Kara Swisher to talk about \"The Elephant in the Valley,\" their new report on gender bias and harassment in tech. The report examines the di", 
+   "description": "Former Kleiner Perkins Caufield & Byers partner Trae Vassallo and former Yahoo exec Michele Madansky sit down with Kara Swisher to talk about \"The Elephant in the Valley,\" their new report on gender bias and harassment in tech. The report examines the different facets of sexism through both data and anecdotes from hundreds of women. Later on: Lauren Goode and Kara Swisher are launching a new podcast!", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2654195/2654195_2016-01-08-195235.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/e8ab323a-8439-4163-9901-bd9405b82f30.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 41372525
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/e8ab323a-8439-4163-9901-bd9405b82f30.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 41372525
+    }
+   ], 
+   "title": "Trae Vassallo and Michele Madansky, Co-Authors, \"The Elephant in the Valley\"", 
+   "published": 1452506400
+  }, 
+  {
+   "total_time": 2149, 
+   "subtitle": "Union Square Ventures partner Albert Wenger talks with Peter Kafka about being an investor at a time of bubble anxiety and political debate about the trade-off between privacy and security. He argues that tech companies and the government should work tog", 
+   "description": "Union Square Ventures partner Albert Wenger talks with Peter Kafka about being an investor at a time of bubble anxiety and political debate about the trade-off between privacy and security. He argues that tech companies and the government should work together, and also discusses the growing class of mission-driven \"benefit corporations.\"", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2652805/decode_kafka_wenger_2016-01-06-232705.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/acfbb4f8-06a2-4a3c-bbf9-3f9c402acdc6.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 34385084
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/acfbb4f8-06a2-4a3c-bbf9-3f9c402acdc6.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 34385084
+    }
+   ], 
+   "title": "Albert Wenger, Union Square Ventures Partner", 
+   "published": 1452160800
+  }, 
+  {
+   "total_time": 3043, 
+   "subtitle": "It's an all-star lineup of reporters from Re/code and The Verge in this special episode, featuring Kara Swisher, Lauren Goode, Casey Newton and Noah Kulwin. The team discusses the top tech stories of 2015, including online harassment, Google's restructur", 
+   "description": "It's an all-star lineup of reporters from Re/code and The Verge in this special episode, featuring Kara Swisher, Lauren Goode, Casey Newton and Noah Kulwin. The team discusses the top tech stories of 2015, including online harassment, Google's restructuring and the wearable revolution that wasn't. Then, they preview CES 2016 and reflect on whether the annual trade show is still relevant.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2649863/2649863_2016-01-01-100503.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/6884372e-4048-46e8-b086-84464f94a9af.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 48697260
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/6884372e-4048-46e8-b086-84464f94a9af.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 48697260
+    }
+   ], 
+   "title": "Happy Re/New Year 2016; CES Preview", 
+   "published": 1451901600
+  }, 
+  {
+   "total_time": 1248, 
+   "subtitle": "Heleo CEO Rufus Griscom talks with Peter Kafka about trying to build a \"BuzzFeed for brains\" that can distribute Big Ideas to the broader Internet. He also discusses the founding of his two previous startups, Nerve.com (which sold to IAC) and Babble (whi", 
+   "description": "Heleo CEO Rufus Griscom talks with Peter Kafka about trying to build a \"BuzzFeed for brains\" that can distribute Big Ideas to the broader Internet. He also discusses the founding of his two previous startups, Nerve.com (which sold to IAC) and Babble (which sold to Disney), and why big media companies may be losing interest in star writers.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2649012/2649012_2015-12-30-152712.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/b5e39b1b-9d54-49e3-889c-6e0597ea789d.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 19983464
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/b5e39b1b-9d54-49e3-889c-6e0597ea789d.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 19983464
+    }
+   ], 
+   "title": "Rufus Griscom, Heleo CEO", 
+   "published": 1451556000
+  }, 
+  {
+   "total_time": 3032, 
+   "subtitle": "Glu Mobile CEO Niccolo de Masi talks with Kara Swisher about Glu's hit games like Kim Kardashian: Hollywood and Katy Perry Pop, and what makes them different from earlier video games based on licensed intellectual property. He also handicaps the future o", 
+   "description": "Glu Mobile CEO Niccolo de Masi talks with Kara Swisher about Glu's hit games like Kim Kardashian: Hollywood and Katy Perry Pop, and what makes them different from earlier video games based on licensed intellectual property. He also handicaps the future of the gaming business, and discusses what will separate the winners from the losers. Later on: Kara Swisher and Lauren Goode review the top gadgets of 2015.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2646780/2646780_2015-12-25-124920.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/0d663509-979a-4259-a4d3-8879bcde68cd.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 48524643
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/0d663509-979a-4259-a4d3-8879bcde68cd.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 48524643
+    }
+   ], 
+   "title": "Niccolo de Masi, Glu CEO; Top Gadgets of 2015", 
+   "published": 1451296800
+  }, 
+  {
+   "total_time": 1954, 
+   "subtitle": "Medium CEO Ev Williams talks with Peter Kafka about founding his third company that makes it easier to \"write on the Interwebs,\" and what makes Medium different from Blogger and Twitter. He also discusses why publishing on anything other than a platform", 
+   "description": "Medium CEO Ev Williams talks with Peter Kafka about founding his third company that makes it easier to \"write on the Interwebs,\" and what makes Medium different from Blogger and Twitter. He also discusses why publishing on anything other than a platform doesn't make sense any more, and offers some insight into why Twitter's board seemingly changed its mind about Jack Dorsey's eligibility to be CEO again..", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2645871/2645871_2015-12-23-134611.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/e1e6efc0-c702-4200-bfc2-d4ca9f9893b9.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 31270870
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/e1e6efc0-c702-4200-bfc2-d4ca9f9893b9.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 31270870
+    }
+   ], 
+   "title": "Ev Williams, Medium CEO", 
+   "published": 1450951200
+  }, 
+  {
+   "total_time": 3229, 
+   "subtitle": "Yelp CEO Jeremy Stoppelman talks with Kara Swisher about spending a decade at the helm of the local-recommendations site, and the new challenges posed by private companies that can out-raise the public Yelp. He also explains why he thinks quasi-competito", 
+   "description": "Yelp CEO Jeremy Stoppelman talks with Kara Swisher about spending a decade at the helm of the local-recommendations site, and the new challenges posed by private companies that can out-raise the public Yelp. He also explains why he thinks quasi-competitor Google has ?lost its mind.? Later on: Kara Swisher and Lauren Goode don virtual reality headsets that are powered by smartphones and talk about the inevitable dystopian future.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2631277/2631277_2015-12-11-181817.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/6cf2b946-ff94-4aac-9e37-2b8bb5fe177a.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 51679817
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/6cf2b946-ff94-4aac-9e37-2b8bb5fe177a.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 51679817
+    }
+   ], 
+   "title": "Jeremy Stoppelman, Yelp CEO; Virtual Reality Shenanigans", 
+   "published": 1450692000
+  }, 
+  {
+   "total_time": 1407, 
+   "subtitle": "Katie Nolan talks with Peter Kafka about how she went from Tumblr to YouTube to television, specifically Fox Sports 1, where she hosts \"Garbage Time with Katie Nolan.\" They also discuss online harassment and why Nolan thinks the only logical response to", 
+   "description": "Katie Nolan talks with Peter Kafka about how she went from Tumblr to YouTube to television, specifically Fox Sports 1, where she hosts \"Garbage Time with Katie Nolan.\" They also discuss online harassment and why Nolan thinks the only logical response to trolls is fighting back.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2631634/2631634_2015-12-12-194434.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/4c65edeb-a0c4-4a78-8287-aa85a3efc4d6.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 22522566
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/4c65edeb-a0c4-4a78-8287-aa85a3efc4d6.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 22522566
+    }
+   ], 
+   "title": "Katie Nolan, Fox Sports TV Host", 
+   "published": 1450339200
+  }, 
+  {
+   "total_time": 2740, 
+   "subtitle": "Jet.com CEO Marc Lore talks with Re/code's Senior Commerce Editor Jason Del Rey about trying to build a new e-commerce giant when rival Amazon has a 20-year lead. Also: Why is Jet.com raising so much money? Later on: Kara Swisher, Lauren Goode and specia", 
+   "description": "Jet.com CEO Marc Lore talks with Re/code's Senior Commerce Editor Jason Del Rey about trying to build a new e-commerce giant when rival Amazon has a 20-year lead. Also: Why is Jet.com raising so much money? Later on: Kara Swisher, Lauren Goode and special guest Ina Fried discuss \"The Hunchback of Cupertino,\" Apple's new iPhone battery case.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2631299/2631299_2015-12-11-185439.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/41567674-d6c7-4fb8-a6c1-50fec1fba8ff.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 43851441
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/41567674-d6c7-4fb8-a6c1-50fec1fba8ff.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 43851441
+    }
+   ], 
+   "title": "Marc Lore, Jet.com CEO; Apple's Ugly Battery Case", 
+   "published": 1450069200
+  }, 
+  {
+   "total_time": 2032, 
+   "subtitle": "The NFL's media czar Brian Rolapp talks with Peter Kafka about why Internet companies might (or might not) get the rights to a soon-to-be-auctioned set of games. They also discuss what makes live sports different from other forms of TV and the impact of", 
+   "description": "The NFL's media czar Brian Rolapp talks with Peter Kafka about why Internet companies might (or might not) get the rights to a soon-to-be-auctioned set of games. They also discuss what makes live sports different from other forms of TV and the impact of fantasy sports on the game.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2629761/2629761_2015-12-09-173101.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/9528cd75-6fb6-4f22-a0e9-40df895068c3.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 32516806
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/9528cd75-6fb6-4f22-a0e9-40df895068c3.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 32516806
+    }
+   ], 
+   "title": "Brian Rolapp, NFL Media Czar", 
+   "published": 1449723600
+  }, 
+  {
+   "total_time": 3300, 
+   "subtitle": "Former Twitter CEO Dick Costolo sits down with Kara Swisher to talk about what he's doing next, what he thinks of Twitter's future under Jack Dorsey and why men often fail to \"do diversity.\" Later, Lauren Goode wheels in to Kara's desk to answer readers'", 
+   "description": "Former Twitter CEO Dick Costolo sits down with Kara Swisher to talk about what he's doing next, what he thinks of Twitter's future under Jack Dorsey and why men often fail to \"do diversity.\" Later, Lauren Goode wheels in to Kara's desk to answer readers' questions about \"hoverboards.\"", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2626920/2626920_2015-12-04-182120.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/60d6f22e-18cf-49b8-b7aa-d8a7d6c774bb.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 52807471
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/60d6f22e-18cf-49b8-b7aa-d8a7d6c774bb.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 52807471
+    }
+   ], 
+   "title": "Dick Costolo, Former Twitter CEO; Hoverboards", 
+   "published": 1449464460
+  }, 
+  {
+   "total_time": 1969, 
+   "subtitle": "In this first episode of Peter Kafka's new weekly \"Re/code Decode\" interviews, CollegeHumor co-founder Ricky Van Veen sits down with Peter to talk about monetizing content on the Internet and why it's so hard. Plus: Why is a lot of that content moving to", 
+   "description": "In this first episode of Peter Kafka's new weekly \"Re/code Decode\" interviews, CollegeHumor co-founder Ricky Van Veen sits down with Peter to talk about monetizing content on the Internet and why it's so hard. Plus: Why is a lot of that content moving to \"old\" platforms like TV, and who's more powerful, Rupert Murdoch or Mark Zuckerberg?", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2623506/2623506_2015-11-30-185106.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/fef3e6f9-3949-4714-9b18-94c037df61dc.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 31519973
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/fef3e6f9-3949-4714-9b18-94c037df61dc.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 31519973
+    }
+   ], 
+   "title": "Ricky Van Veen, CollegeHumor Co-Founder", 
+   "published": 1449136800
+  }, 
+  {
+   "total_time": 3201, 
+   "subtitle": "Airbnb CEO Brian Chesky talks with Kara Swisher about being in Paris during the city's recent terror attacks, and what the hospitality company is doing after a major political win in San Francisco. Later, Lauren Goode gets a new job as Kara's personal sh", 
+   "description": "Airbnb CEO Brian Chesky talks with Kara Swisher about being in Paris during the city's recent terror attacks, and what the hospitality company is doing after a major political win in San Francisco. Later, Lauren Goode gets a new job as Kara's personal shopper, with some help from The Verge's holiday gift guide.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2621143/2621143_2015-11-25-140843.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/33f7187e-98af-4620-af0f-f94cb8a389e7.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 51230929
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/33f7187e-98af-4620-af0f-f94cb8a389e7.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 51230929
+    }
+   ], 
+   "title": "Brian Chesky, Airbnb CEO; Holiday Gift Guide", 
+   "published": 1448877600
+  }, 
+  {
+   "total_time": 3055, 
+   "subtitle": "The List App co-founders B.J. Novak and Dev Flaherty talk about their new mobile-social app for making lists and how tech is changing the entertainment world. Later, Lauren Goode joins Kara to talk about Apple's new iPad Pro and whether it's worth the up", 
+   "description": "The List App co-founders B.J. Novak and Dev Flaherty talk about their new mobile-social app for making lists and how tech is changing the entertainment world. Later, Lauren Goode joins Kara to talk about Apple's new iPad Pro and whether it's worth the upgrade.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2620617/2620617_2015-11-24-194717.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/4b7697ae-d3b9-48b3-ba64-6df8c694f6f1.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 48887431
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/4b7697ae-d3b9-48b3-ba64-6df8c694f6f1.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 48887431
+    }
+   ], 
+   "title": "B.J. Novak and Dev Flaherty, The List App Co-Founders; iPad Pro", 
+   "published": 1448442000
+  }, 
+  {
+   "total_time": 2651, 
+   "subtitle": "Two Bit Circus CEO Brent Bushnell and CTO Eric Gradman talk with Kara Swisher about their high-tech circus, STEAM Carnival; fixing education; and why playing games will break down kids' aversion to the sciences. Later, Lauren Goode finds out if the new B", 
+   "description": "Two Bit Circus CEO Brent Bushnell and CTO Eric Gradman talk with Kara Swisher about their high-tech circus, STEAM Carnival; fixing education; and why playing games will break down kids' aversion to the sciences. Later, Lauren Goode finds out if the new BlackBerry Priv is good enough to challenge Kara's iPhone.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2616272/2616272_2015-11-17-184212.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/00ca4f32-8df7-44ef-9a41-671cc4cd9fd3.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 42427036
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/00ca4f32-8df7-44ef-9a41-671cc4cd9fd3.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 42427036
+    }
+   ], 
+   "title": "Brent Bushnell and Eric Gradman, Two Bit Circus Co-Founders; New BlackBerries", 
+   "published": 1447822800
+  }, 
+  {
+   "total_time": 3131, 
+   "subtitle": "Box CEO Aaron Levie talks with Kara Swisher about the next wave of enterprise companies and why having $80,000 is better than having $10 million. Later on: How could switching between iOS and Android be easier?", 
+   "description": "Box CEO Aaron Levie talks with Kara Swisher about the next wave of enterprise companies and why having $80,000 is better than having $10 million. Later on: How could switching between iOS and Android be easier?", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2611682/2611682_2015-11-10-160622.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/55a30a72-57cc-42c1-9d9a-d96363a34bf4.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 50109962
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/55a30a72-57cc-42c1-9d9a-d96363a34bf4.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 50109962
+    }
+   ], 
+   "title": "Aaron Levie, Box CEO; Android vs. iOS", 
+   "published": 1447218000
+  }, 
+  {
+   "total_time": 3371, 
+   "subtitle": "Venture capitalist and co-author of \"Leading\" Michael Mortiz talks with Kara Swisher about the history and future of investing and leadership. Later on: Do food delivery services have a place outside of San Francisco?", 
+   "description": "Venture capitalist and co-author of \"Leading\" Michael Mortiz talks with Kara Swisher about the history and future of investing and leadership. Later on: Do food delivery services have a place outside of San Francisco?", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2606573/2606573_2015-11-02-233013.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/555bf167-1163-4f7a-9333-f292526624bf.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 53946409
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/555bf167-1163-4f7a-9333-f292526624bf.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 53946409
+    }
+   ], 
+   "title": "Sequoia Capital Chairman Sir Michael Moritz, Food Delivery Services", 
+   "published": 1446613200
+  }, 
+  {
+   "total_time": 2266, 
+   "subtitle": "Huffington Post editor-in-chief Arianna Huffington talks with Kara Swisher about why journalism is going mobile, but she won?t take her phone to bed. Later on: is 4K TV the future, or just hype?", 
+   "description": "Huffington Post editor-in-chief Arianna Huffington talks with Kara Swisher about why journalism is going mobile, but she won?t take her phone to bed. Later on: is 4K TV the future, or just hype?", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2603004/2603004_2015-10-27-171404.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/44342167-edb7-4120-9e6e-d7801d00149e.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 36270497
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/44342167-edb7-4120-9e6e-d7801d00149e.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 36270497
+    }
+   ], 
+   "title": "Huffington Post Editor in Chief Arianna Huffington, 4K TVs", 
+   "published": 1446008400
+  }, 
+  {
+   "total_time": 3189, 
+   "subtitle": "John Borthwick, CEO of the \"startup studio\" Betaworks, tells Peter Kafka why mobile apps still rule, why he's still bullish on Twitter user growth and more. Later, Lauren Goode and Kara Swisher talk TV streaming, and Kurt Wagner unpacks the daily fantasy", 
+   "description": "John Borthwick, CEO of the \"startup studio\" Betaworks, tells Peter Kafka why mobile apps still rule, why he's still bullish on Twitter user growth and more. Later, Lauren Goode and Kara Swisher talk TV streaming, and Kurt Wagner unpacks the daily fantasy controversy.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2598690/2598690_2015-10-20-154730.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/2d5898e9-8aba-48fa-b9c2-4f75ca45b330.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 51034488
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/2d5898e9-8aba-48fa-b9c2-4f75ca45b330.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 51034488
+    }
+   ], 
+   "title": "Betaworks CEO and co-founder John Borthwick, TV streaming boxes and daily fantasy", 
+   "published": 1445403600
+  }, 
+  {
+   "total_time": 3013, 
+   "subtitle": "Ericsson is maybe the largest communications technology company on the planet. This week, CEO Hans Vestberg tells Kara Swisher about the view from the top, and why he's excited about connectivity in the developing world and in cars. Later on, The Verge's", 
+   "description": "Ericsson is maybe the largest communications technology company on the planet. This week, CEO Hans Vestberg tells Kara Swisher about the view from the top, and why he's excited about connectivity in the developing world and in cars. Later on, The Verge's Lauren Goode talks about our Code/Mobile conference and wearables, and Mark Bergen discusses Google search.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2580131/2580131_2015-10-13-174831.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/23696ea9-4782-493f-8c48-20eae55909e3.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 48217025
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/23696ea9-4782-493f-8c48-20eae55909e3.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 48217025
+    }
+   ], 
+   "title": "Ericsson CEO Hans Vestberg, Code/Mobile and Google search", 
+   "published": 1444798800
+  }, 
+  {
+   "total_time": 3419, 
+   "subtitle": "Valerie Jarrett is one of President Obama's most trusted confidants, and by extension one of the most powerful people in Washington. She talks with Kara Swisher about the tech industry, gun control, Congress and more. Later, Walt Mossberg talks about TV", 
+   "description": "Valerie Jarrett is one of President Obama's most trusted confidants, and by extension one of the most powerful people in Washington. She talks with Kara Swisher about the tech industry, gun control, Congress and more. Later, Walt Mossberg talks about TV and the Internet, and Kurt Wagner discusses the executive turnover at Twitter.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2560440/2560440_2015-10-06-122040.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/5a9d32c8-bfe6-4e4b-85fc-7dac515eab82.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 54706259
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/5a9d32c8-bfe6-4e4b-85fc-7dac515eab82.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 54706259
+    }
+   ], 
+   "title": "White House Senior Advisor Valerie Jarrett, TV streaming and Twitter", 
+   "published": 1444194000
+  }, 
+  {
+   "total_time": 3086, 
+   "subtitle": "In a special hour-long interview with Kara Swisher, Lena Dunham and Jenni Konner talk about their new newsletter publication, Lenny. The duo behind HBO's \"Girls\" offer their thoughts on feminism, online harassment and more.", 
+   "description": "In a special hour-long interview with Kara Swisher, Lena Dunham and Jenni Konner talk about their new newsletter publication, Lenny. The duo behind HBO's \"Girls\" offer their thoughts on feminism, online harassment and more.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2554846/2554846_2015-09-28-081846.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/03061fca-dc1d-4db6-8e67-ca3901cee9d5.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 49383549
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/03061fca-dc1d-4db6-8e67-ca3901cee9d5.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 49383549
+    }
+   ], 
+   "title": "Lenny newsletter co-founders Lena Dunham and Jenni Konner", 
+   "published": 1443445500
+  }, 
+  {
+   "total_time": 3472, 
+   "subtitle": "Kara Swisher discusses the shiny, new startup-friendly Microsoft with its partnerships chief, Peggy Johnson. Plus, Lauren Goode on Internet publishing and Mark Bergen on advanced car tech.", 
+   "description": "Kara Swisher discusses the shiny, new startup-friendly Microsoft with its partnerships chief, Peggy Johnson. Plus, Lauren Goode on Internet publishing and Mark Bergen on advanced car tech.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2550290/2550290_2015-09-19-164530.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/1536817c-4835-401c-acf4-e8b913873f59.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 55561822
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/1536817c-4835-401c-acf4-e8b913873f59.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 55561822
+    }
+   ], 
+   "title": "Microsoft EVP Peggy Johnson, digital media and car tech", 
+   "published": 1442984400
+  }, 
+  {
+   "total_time": 3671, 
+   "subtitle": "BuzzFeed is one of the most important and successful new media companies, tying together deeply reported impact journalism with content optimized for the digital age. Peter Kafka talks with founder and CEO Jonah Peretti, and later on, The Verge's Lauren", 
+   "description": "BuzzFeed is one of the most important and successful new media companies, tying together deeply reported impact journalism with content optimized for the digital age. Peter Kafka talks with founder and CEO Jonah Peretti, and later on, The Verge's Lauren Goode discusses the Apple event and Jason Del Rey dishes about mobile payments.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2547961/2547961_2015-09-15-200801.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/6b8cf437-76b0-4510-9fe2-8dd3b10d508b.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 58747924
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/6b8cf437-76b0-4510-9fe2-8dd3b10d508b.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 58747924
+    }
+   ], 
+   "title": "Buzzfeed founder Jonah Peretti, Apple announcements and e-payments", 
+   "published": 1442365200
+  }, 
+  {
+   "total_time": 3368, 
+   "subtitle": "Like rivals Facebook and Twitter, LinkedIn is no longer just a social network, it's a content platform, a recruiting tool, a resume builder and much, much more. In the Red Chair this week, CEO Jeff Weiner explains how the company has grown and evolved. P", 
+   "description": "Like rivals Facebook and Twitter, LinkedIn is no longer just a social network, it's a content platform, a recruiting tool, a resume builder and much, much more. In the Red Chair this week, CEO Jeff Weiner explains how the company has grown and evolved. Plus, Walt Mossberg talks about apps for work and Ina Fried dives into the business of wearables.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2543779/2543779_2015-09-07-194819.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/e1a5ef68-8cb2-4e17-b2d6-71512a9cbe49.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 53891239
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/e1a5ef68-8cb2-4e17-b2d6-71512a9cbe49.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 53891239
+    }
+   ], 
+   "title": "LinkedIn CEO Jeff Weiner, productivity apps and wearables", 
+   "published": 1441672740
+  }, 
+  {
+   "total_time": 3575, 
+   "subtitle": "Since founding Netscape more than 20 years ago, Marc Andreessen has been one of Silicon Valley's most influential figures. The entrepreneur-turned-venture capitalist talks with Kara Swisher about bubbles, politics, parenting and more, in an extended inte", 
+   "description": "Since founding Netscape more than 20 years ago, Marc Andreessen has been one of Silicon Valley's most influential figures. The entrepreneur-turned-venture capitalist talks with Kara Swisher about bubbles, politics, parenting and more, in an extended interview on this week's show.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2540449/2540449_2015-08-31-202049.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/1dc8d750-f2ca-4c0d-a0e0-cb4d96285c5d.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 57208999
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/1dc8d750-f2ca-4c0d-a0e0-cb4d96285c5d.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 57208999
+    }
+   ], 
+   "title": "Marc Andreessen, investor and entrepreneur", 
+   "published": 1441069800
+  }, 
+  {
+   "total_time": 3373, 
+   "subtitle": "Google salary spreadsheet creator Erica Baker talks diversity in tech with Kara Swisher, Lauren Goode debriefs drones and Ina Fried discusses car tech.", 
+   "description": "Google salary spreadsheet creator Erica Baker talks diversity in tech with Kara Swisher, Lauren Goode debriefs drones and Ina Fried discusses car tech.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2537555/2537555_2015-08-25-200355.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/6a134954-e185-45fd-8051-eee8e177bd2b.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 53979010
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/6a134954-e185-45fd-8051-eee8e177bd2b.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 53979010
+    }
+   ], 
+   "title": "Ex-Googler Erica Baker, drone do's and don'ts and car tech", 
+   "published": 1440550200
+  }, 
+  {
+   "total_time": 2644, 
+   "subtitle": "Twitter general counsel Vijaya Gadde talks about social media and the law, Walt Mossberg and Kara go back and forth on Apple's fall lineup and Kara gives the ABCs of aging in Silicon Valley.", 
+   "description": "Twitter general counsel Vijaya Gadde talks about social media and the law, Walt Mossberg and Kara go back and forth on Apple's fall lineup and Kara gives the ABCs of aging in Silicon Valley.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2534128/2534128_2015-08-18-200428.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/26bf3780-a120-44aa-8c14-699a9bde9096.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 42312515
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/26bf3780-a120-44aa-8c14-699a9bde9096.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 42312515
+    }
+   ], 
+   "title": "Twitter legal boss Vijaya Gadde, Apple's fall lineup and tech industry aging", 
+   "published": 1439945520
+  }, 
+  {
+   "total_time": 3104, 
+   "subtitle": "Investor Chris Sacca shares his thoughts on who might get the Twitter CEO job, Walt Mossberg dives into the weird world of wireless carriers and Jason Del Rey explains the rise of \"buy\" buttons.", 
+   "description": "Investor Chris Sacca shares his thoughts on who might get the Twitter CEO job, Walt Mossberg dives into the weird world of wireless carriers and Jason Del Rey explains the rise of \"buy\" buttons.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2530752/2530752_2015-08-11-184652.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/4d6e22b5-28d3-4539-b0e2-0a1e1f38fdca.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 49679882
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/4d6e22b5-28d3-4539-b0e2-0a1e1f38fdca.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 49679882
+    }
+   ], 
+   "title": "Investor Chris Sacca, smartphone prices and \"buy\" buttons", 
+   "published": 1439335800
+  }, 
+  {
+   "total_time": 2877, 
+   "subtitle": "Kara talks with Roh Habibi, star of reality show \"Million Dollar Listing San Francisco,\" and guest Amina Sow speaks about her experience as a black woman in tech.", 
+   "description": "Kara talks with Roh Habibi, star of reality show \"Million Dollar Listing San Francisco,\" and guest Amina Sow speaks about her experience as a black woman in tech.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2527748/2527748_2015-08-04-200948.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/411d7e97-0378-47ac-a3ae-851937356ce4.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 46046563
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/411d7e97-0378-47ac-a3ae-851937356ce4.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 46046563
+    }
+   ], 
+   "title": "\"Million Dollar Listing\" star Roh Habibi, Snapchat and race in tech", 
+   "published": 1438736220
+  }, 
+  {
+   "total_time": 3062, 
+   "subtitle": "Kara Swisher talks with Andreessen Horowitz general partner and entrepreneur and investor Chris Dixon about the landscape of venture capital and virtual reality. Walt Mossberg shares his perspective on Windows 10 and fields questions from his followers o", 
+   "description": "Kara Swisher talks with Andreessen Horowitz general partner and entrepreneur and investor Chris Dixon about the landscape of venture capital and virtual reality. Walt Mossberg shares his perspective on Windows 10 and fields questions from his followers on Twitter.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2524163/2524163_2015-07-27-212903.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/d13f8d3d-83da-4cec-a42f-09421c8f572f.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 49005296
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/d13f8d3d-83da-4cec-a42f-09421c8f572f.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 49005296
+    }
+   ], 
+   "title": "Andreessen Horowitz GP Chris Dixon, Windows 10 and hacking cars", 
+   "published": 1438050060
+  }, 
+  {
+   "total_time": 2993, 
+   "subtitle": "Kara Swisher talks with Y Combinator president and Reddit board member Sam Altman about the social news site and the challenges of entrepreneurship. Lauren Goode fields questions on the \"Internet of Things.\"", 
+   "description": "Kara Swisher talks with Y Combinator president and Reddit board member Sam Altman about the social news site and the challenges of entrepreneurship. Lauren Goode fields questions on the \"Internet of Things.\"", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2521432/2521432_2015-07-21-175032.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/5da05079-19a6-489f-b4fc-37999c2c125f.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 47893942
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/5da05079-19a6-489f-b4fc-37999c2c125f.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 47893942
+    }
+   ], 
+   "title": "Y Combinator's Sam Altman, the Internet of Things and Google", 
+   "published": 1437530700
+  }, 
+  {
+   "total_time": 2856, 
+   "subtitle": "Kara Swisher talks with journalist Ashlee Vance about his new book on Elon Musk. They discuss Musk's \"Tony Stark\" image, the future of Tesla and whether Musk is mellowing out. Also on the show: photo apps and Reddit.", 
+   "description": "Kara Swisher talks with journalist Ashlee Vance about his new book on Elon Musk. They discuss Musk's \"Tony Stark\" image, the future of Tesla and whether Musk is mellowing out. Also on the show: photo apps and Reddit.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2518631/2518631_2015-07-15-024831.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/dbff860e-69ad-499e-a4f3-767d132aea45.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 45700075
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/dbff860e-69ad-499e-a4f3-767d132aea45.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 45700075
+    }
+   ], 
+   "title": "Elon Musk biographer Ashlee Vance, photo apps and Reddit", 
+   "published": 1436945880
+  }, 
+  {
+   "total_time": 3175, 
+   "subtitle": "Kara Swisher interviews Slack CEO Stewart Butterfield, Lauren Goode talks about Apple Music and more.", 
+   "description": "Kara Swisher interviews Slack CEO Stewart Butterfield, Lauren Goode talks about Apple Music and more.", 
+   "payment_url": null, 
+   "link": "", 
+   "guid": "http://serve.castfire.com/audio/2516012/2516012_2015-07-07-221812.mp3", 
+   "enclosures": [
+    {
+     "url": "http://rss.art19.com/episodes/ffd4707a-04d7-4bdd-ada7-7bc0903f3063.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 50805446
+    }, 
+    {
+     "url": "http://rss.art19.com/episodes/ffd4707a-04d7-4bdd-ada7-7bc0903f3063.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 50805446
+    }
+   ], 
+   "title": "Slack CEO Stewart Butterfield, Apple Music", 
+   "published": 1436360400
+  }
+ ], 
+ "link": "http://recode.net/podcast/recode-decode-hosted-by-kara-swisher/", 
+ "description": "One of tech's most prominent journalists, Kara Swisher is known for her insightful reporting and straight-shooting style. Listen in as she hosts hard-hitting interviews about the week in tech with influential business leaders and outspoken personalities from media, politics and more.", 
+ "cover_url": "https://art19-production.s3-us-west-1.amazonaws.com/images/6f/0f/8e/31/6f0f8e31-8397-4905-9caf-9bd9bee2eef2/26a92756493536c87b8d257e65d9a2c223bc7394cc61fd863fa3123eb5d9adbea69b2bce7b8fff60eaa6f330f82eab4e74b5558d860712cc56969d7cbbd489c0.png", 
+ "title": "Re/code Decode, hosted by Kara Swisher"
+}

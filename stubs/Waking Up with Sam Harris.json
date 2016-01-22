@@ -1,0 +1,502 @@
+{
+ "paged_feed_next": "http://feeds.soundcloud.com/users/soundcloud:users:59753170/sounds.rss?before=112643452", 
+ "description": "Join neuroscientist, philosopher, and best-selling author Sam Harris as he explores important and controversial questions about the human mind, society, and current events. Sam Harris is the author of The End of Faith, Letter to a Christian Nation, The Moral Landscape, Free Will, Lying, Waking Up, and Islam and the Future of Tolerance (with Maajid Nawaz). The End of Faith won the 2005 PEN Award for Nonfiction. His writing has been published in more than 20 languages. Mr. Harris and his work have been discussed in The New York Times, Time, Scientific American, Nature, Newsweek, Rolling Stone, and many other journals. His writing has appeared in The New York Times, The Los Angeles Times, The Economist, Newsweek, The Times (London), The Boston Globe, The Atlantic, The Annals of Neurology, and elsewhere. Mr. Harris received a degree in philosophy from Stanford University and a Ph.D. in neuroscience from UCLA.", 
+ "title": "Waking Up with Sam Harris", 
+ "cover_url": "http://i1.sndcdn.com/avatars-000133036173-moxmo8-original.jpg", 
+ "episodes": [
+  {
+   "total_time": 6358, 
+   "subtitle": "In this episode of the Waking Up podcast, Sam Har\u2026", 
+   "description": "In this episode of the Waking Up podcast, Sam Harris speaks with retired Navy SEAL and author, Jocko Willink. They discuss U.S. foreign policy, war, human evil, and other topics.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/the-logic-of-violence-a-conversation-with-jocko-willink", 
+   "guid": "tag:soundcloud,2010:tracks/242782849", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/242782849-samharrisorg-the-logic-of-violence-a-conversation-with-jocko-willink.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 101485322
+    }
+   ], 
+   "title": "The Logic of Violence: A Conversation with Jocko Willink", 
+   "published": 1453235454
+  }, 
+  {
+   "total_time": 6253, 
+   "subtitle": "In this episode of the Waking Up podcast, Sam Har\u2026", 
+   "description": "In this episode of the Waking Up podcast, Sam Harris speaks with former SWAT operator and lead weapons and tactics instructor for the LAPD Metro Division, Scott Reitz. They discuss guns, gun control, police violence, and related topics.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/behind-the-gun-a-conversation-with-scott-reitz", 
+   "guid": "tag:soundcloud,2010:tracks/241947903", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/241947903-samharrisorg-behind-the-gun-a-conversation-with-scott-reitz.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 99814820
+    }
+   ], 
+   "title": "Behind the Gun: A Conversation with Scott Reitz", 
+   "published": 1452791827
+  }, 
+  {
+   "total_time": 5591, 
+   "subtitle": "In this episode of the Waking Up podcast, Sam Har\u2026", 
+   "description": "In this episode of the Waking Up podcast, Sam Harris answers questions from listeners about Islamism, free will, honesty, vegetarianism, why he doesn\u2019t publish more in academic journals, and other topics.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/ama2-01", 
+   "guid": "tag:soundcloud,2010:tracks/240298000", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/240298000-samharrisorg-ama2-01.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 89253300
+    }
+   ], 
+   "title": "Ask Me Anything #2", 
+   "published": 1451879506
+  }, 
+  {
+   "total_time": 4335, 
+   "subtitle": "In this episode of the Waking Up podcast, Sam Har\u2026", 
+   "description": "In this episode of the Waking Up podcast, Sam Harris introduces the audio edition of his book with Maajid Nawaz, \"Islam and the Future of Tolerance: A Dialogue.\"", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/islam-and-the-future-of-tolerance-audiobook-excerpts", 
+   "guid": "tag:soundcloud,2010:tracks/238576383", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/238576383-samharrisorg-islam-and-the-future-of-tolerance-audiobook-excerpts.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 69213130
+    }
+   ], 
+   "title": "Islam and the Future of Tolerance (Audiobook Excerpts)", 
+   "published": 1450737094
+  }, 
+  {
+   "total_time": 6819, 
+   "subtitle": "In this episode of the Waking Up podcast, Sam Har\u2026", 
+   "description": "In this episode of the Waking Up podcast, Sam Harris talks to physicist David Deutsch about the reach and power of human knowledge, the future of artificial intelligence, and the survival of civilization.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/surviving-the-cosmos", 
+   "guid": "tag:soundcloud,2010:tracks/237831202", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/237831202-samharrisorg-surviving-the-cosmos.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 108854963
+    }
+   ], 
+   "title": "Surviving the Cosmos", 
+   "published": 1450280467
+  }, 
+  {
+   "total_time": 7932, 
+   "subtitle": "In this episode of the Waking Up podcast, Sam Har\u2026", 
+   "description": "In this episode of the Waking Up podcast, Sam Harris speaks with author Douglas Murray about Islamism, liberalism, civil society, and the migrant crisis in Europe.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/on-the-maintenance-of-civilization", 
+   "guid": "tag:soundcloud,2010:tracks/234254404", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/234254404-samharrisorg-on-the-maintenance-of-civilization.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 126620093
+    }
+   ], 
+   "title": "On the Maintenance of Civilization", 
+   "published": 1448229635
+  }, 
+  {
+   "total_time": 1423, 
+   "subtitle": "In this episode of the Waking Up podcast, Sam Har\u2026", 
+   "description": "In this episode of the Waking Up podcast, Sam Harris reflects on the recent terrorist attacks in Paris.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/still-sleepwalking-01", 
+   "guid": "tag:soundcloud,2010:tracks/233230393", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/233230393-samharrisorg-still-sleepwalking-01.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 34097626
+    }
+   ], 
+   "title": "Still Sleepwalking Toward Armageddon", 
+   "published": 1447631678
+  }, 
+  {
+   "total_time": 5767, 
+   "subtitle": "In this episode of the Waking Up Podcast, Sam Har\u2026", 
+   "description": "In this episode of the Waking Up Podcast, Sam Harris discusses his views about guns and gun control in light of a recent mass shooting.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/the-riddle-of-the-gun-revisited", 
+   "guid": "tag:soundcloud,2010:tracks/227525689", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/227525689-samharrisorg-the-riddle-of-the-gun-revisited.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 92060288
+    }
+   ], 
+   "title": "The Riddle Of The Gun (Revisited)", 
+   "published": 1444329657
+  }, 
+  {
+   "total_time": 5202, 
+   "subtitle": "In this episode of the Waking Up podcast, Sam Har\u2026", 
+   "description": "In this episode of the Waking Up podcast, Sam Harris speaks with MIT cosmologist Max Tegmark about the foundations of science, our current understanding of the universe, and the risks of future breakthroughs in artificial intelligence.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/the-multiverse-you-you-you-you", 
+   "guid": "tag:soundcloud,2010:tracks/225256034", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/225256034-samharrisorg-the-multiverse-you-you-you-you.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 83039423
+    }
+   ], 
+   "title": "The Multiverse & You (& You & You & You...)", 
+   "published": 1443037291
+  }, 
+  {
+   "total_time": 793, 
+   "subtitle": "In this episode of the Waking Up podcast, Sam Har\u2026", 
+   "description": "In this episode of the Waking Up podcast, Sam Harris responds to misrepresentations of his views (again).", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/what-i-really-think-about-profiling", 
+   "guid": "tag:soundcloud,2010:tracks/224208569", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/224208569-samharrisorg-what-i-really-think-about-profiling.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 12669839
+    }
+   ], 
+   "title": "What I Really Think About Profiling", 
+   "published": 1442447225
+  }, 
+  {
+   "total_time": 5910, 
+   "subtitle": "In this episode of the Waking Up podcast, Sam Har\u2026", 
+   "description": "In this episode of the Waking Up podcast, Sam Harris and Paul Bloom talk about Donald Trump, torture, trophy hunting, and other terrors.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/the-dark-side", 
+   "guid": "tag:soundcloud,2010:tracks/220927578", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/220927578-samharrisorg-the-dark-side.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 94337204
+    }
+   ], 
+   "title": "The Dark Side", 
+   "published": 1440561744
+  }, 
+  {
+   "total_time": 5986, 
+   "subtitle": "In this episode of the Waking Up podcast, Sam Har\u2026", 
+   "description": "In this episode of the Waking Up podcast, Sam Harris and Joseph Goldstein discuss the practice of meditation and answer questions that came from listeners in response to their first conversation, \"The Path and the Goal.\"", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/joseph_sam_2", 
+   "guid": "tag:soundcloud,2010:tracks/218805353", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/218805353-samharrisorg-joseph_sam_2.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 95559848
+    }
+   ], 
+   "title": "Questions Along the Path", 
+   "published": 1439324881
+  }, 
+  {
+   "total_time": 5442, 
+   "subtitle": "In this episode of the Waking Up podcast, Sam Har\u2026", 
+   "description": "In this episode of the Waking Up podcast, Sam Harris speaks with psychologist Paul Bloom about the limitations of empathy as a guide to moral reasoning.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/the-virtues-of-cold-blood-a-conversation-with-paul-bloom", 
+   "guid": "tag:soundcloud,2010:tracks/216946096", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/216946096-samharrisorg-the-virtues-of-cold-blood-a-conversation-with-paul-bloom.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 86864981
+    }
+   ], 
+   "title": "The Virtues of Cold Blood: A Conversation with Paul Bloom", 
+   "published": 1438208893
+  }, 
+  {
+   "total_time": 4267, 
+   "subtitle": "In this episode of the Waking Up podcast, Sam Har\u2026", 
+   "description": "In this episode of the Waking Up podcast, Sam Harris speaks with the filmmaker Joshua Oppenheimer about his remarkable documentaries, \"The Act of Killing\" and \"The Look of Silence.\"", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/the-moral-gaze-a-conversation-with-joshua-oppenheimer", 
+   "guid": "tag:soundcloud,2010:tracks/215645725", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/215645725-samharrisorg-the-moral-gaze-a-conversation-with-joshua-oppenheimer.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 68142075
+    }
+   ], 
+   "title": "The Moral Gaze: A Conversation with Joshua Oppenheimer", 
+   "published": 1437458968
+  }, 
+  {
+   "total_time": 4472, 
+   "subtitle": "In this episode, Sam Harris speaks with Megan Phe\u2026", 
+   "description": "In this episode, Sam Harris speaks with Megan Phelps-Roper, granddaughter of Fred Phelps of the infamous Westboro Baptist Church.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/leaving-the-church-a-conversation-with-megan-phelps-roper", 
+   "guid": "tag:soundcloud,2010:tracks/213152011", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/213152011-samharrisorg-leaving-the-church-a-conversation-with-megan-phelps-roper.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 178738148
+    }
+   ], 
+   "title": "Leaving the Church: A Conversation with Megan Phelps-Roper", 
+   "published": 1435958295
+  }, 
+  {
+   "total_time": 7673, 
+   "subtitle": "In this episode, Sam Harris and Dan Carlin (host \u2026", 
+   "description": "In this episode, Sam Harris and Dan Carlin (host of the Hardcore History and Common Sense podcasts) discuss American interventionism, the war on terror, and related topics.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/shouldering-the-burden-of-history-with-dan-carlin", 
+   "guid": "tag:soundcloud,2010:tracks/212195254", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/212195254-samharrisorg-shouldering-the-burden-of-history-with-dan-carlin.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 306654248
+    }
+   ], 
+   "title": "Shouldering the Burden of History With Dan Carlin", 
+   "published": 1435392715
+  }, 
+  {
+   "total_time": 3997, 
+   "subtitle": "In this episode, Sam Harris interviews biologist \u2026", 
+   "description": "In this episode, Sam Harris interviews biologist Jerry Coyne about his new book, \"Faith vs. Fact: Why Science and Religion are Incompatible.\"", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/faith-vs-fact-an-interview-with-jerry-coyne", 
+   "guid": "tag:soundcloud,2010:tracks/206269759", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/206269759-samharrisorg-faith-vs-fact-an-interview-with-jerry-coyne.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 95800052
+    }
+   ], 
+   "title": "Faith vs. Fact: An Interview with Jerry Coyne", 
+   "published": 1432071334
+  }, 
+  {
+   "total_time": 647, 
+   "subtitle": "Sam Harris reflects on his failure to have a prod\u2026", 
+   "description": "Sam Harris reflects on his failure to have a productive conversation with Noam Chomsky.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/final-thoughts-on-chomsky", 
+   "guid": "tag:soundcloud,2010:tracks/205547726", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/205547726-samharrisorg-final-thoughts-on-chomsky.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15532707
+    }
+   ], 
+   "title": "Final Thoughts On Chomsky", 
+   "published": 1431660886
+  }, 
+  {
+   "total_time": 4187, 
+   "subtitle": "In this episode of the Waking Up Podcast, Sam Har\u2026", 
+   "description": "In this episode of the Waking Up Podcast, Sam Harris talks about atheism, artificial intelligence, rape, public speaking, meditation, consciousness, free will, intellectual honesty, and other topics.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/ask-me-anything-2", 
+   "guid": "tag:soundcloud,2010:tracks/202412833", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/202412833-samharrisorg-ask-me-anything-2.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 133971066
+    }
+   ], 
+   "title": "Ask Me Anything #1", 
+   "published": 1429914948
+  }, 
+  {
+   "total_time": 1848, 
+   "subtitle": "In this episode of the Waking Up podcast, Sam Har\u2026", 
+   "description": "In this episode of the Waking Up podcast, Sam Harris discusses the Heaven's Gate suicide cult and argues that we all have something important to learn from them about the power of belief.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/through-the-eyes-of-a-cult", 
+   "guid": "tag:soundcloud,2010:tracks/197559541", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/197559541-samharrisorg-through-the-eyes-of-a-cult.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 44298984
+    }
+   ], 
+   "title": "Through the Eyes of a Cult", 
+   "published": 1427255244
+  }, 
+  {
+   "total_time": 1486, 
+   "subtitle": "Sam Harris responds to the charge that \"militant\"\u2026", 
+   "description": "Sam Harris responds to the charge that \"militant\" atheism is responsible for the murder of three Muslim students in North Carolina.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/chapel-hill-murders", 
+   "guid": "tag:soundcloud,2010:tracks/191683121", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/191683121-samharrisorg-chapel-hill-murders.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 47562185
+    }
+   ], 
+   "title": "The Chapel Hill Murders and 'Militant' Atheism", 
+   "published": 1424220780
+  }, 
+  {
+   "total_time": 2375, 
+   "subtitle": "Sam Harris answers reader questions in the wake o\u2026", 
+   "description": "Sam Harris answers reader questions in the wake of the terrorist attacks in Paris.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/ask-me-anything-1", 
+   "guid": "tag:soundcloud,2010:tracks/187263854", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/187263854-samharrisorg-ask-me-anything-1.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 57001899
+    }
+   ], 
+   "title": "After Charlie Hebdo and Other Thoughts", 
+   "published": 1421901769
+  }, 
+  {
+   "total_time": 7487, 
+   "subtitle": "A conversation between Sam Harris and Joseph Gold\u2026", 
+   "description": "A conversation between Sam Harris and Joseph Goldstein about the practice of meditation.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/joseph-goldstein", 
+   "guid": "tag:soundcloud,2010:tracks/174257754", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/174257754-samharrisorg-joseph-goldstein.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 179423994
+    }
+   ], 
+   "title": "The Path and the Goal", 
+   "published": 1414517014
+  }, 
+  {
+   "total_time": 5197, 
+   "subtitle": "This is the complete first chapter of Waking Up: \u2026", 
+   "description": "This is the complete first chapter of Waking Up: A Guide to Spirituality Without Religion by Sam Harris. To purchase the audiobook: http://amzn.to/1v1NEIK To purchase the print edition: http://amzn.to/1mqiAKL", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/waking-up-chapter-one", 
+   "guid": "tag:soundcloud,2010:tracks/164147947", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/164147947-samharrisorg-waking-up-chapter-one.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "WAKING UP - Chapter One", 
+   "published": 1408640810
+  }, 
+  {
+   "total_time": 1003, 
+   "subtitle": "In the wake of the recent war in Gaza, many reade\u2026", 
+   "description": "In the wake of the recent war in Gaza, many readers have asked \"Why don't you criticize Israel?\" Here is my response. You can read an annotated transcript of this podcast at: http://www.samharris.org/blog/item/why-dont-i-criticize-israel", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/why-dont-i-criticize-israel", 
+   "guid": "tag:soundcloud,2010:tracks/160522369", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/160522369-samharrisorg-why-dont-i-criticize-israel.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 32099367
+    }
+   ], 
+   "title": "Why Don't I Criticize Israel?", 
+   "published": 1406478660
+  }, 
+  {
+   "total_time": 1246, 
+   "subtitle": "The full text of this essay can be read here: htt\u2026", 
+   "description": "The full text of this essay can be read here: http://www.samharris.org/blog/item/drugs-and-the-meaning-of-life", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/drugs-and-the-meaning-of-life", 
+   "guid": "tag:soundcloud,2010:tracks/152908198", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/152908198-samharrisorg-drugs-and-the-meaning-of-life.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 29865708
+    }
+   ], 
+   "title": "Drugs And The Meaning Of Life", 
+   "published": 1401949122
+  }, 
+  {
+   "total_time": 469, 
+   "subtitle": "This is an edited excerpt from remarks that Sam H\u2026", 
+   "description": "This is an edited excerpt from remarks that Sam Harris made in a debate with a Christian apologist at Notre Dame University in 2011. The full debate can be viewed here: https://www.youtube.com/watch?v=yqaHXKLRKzg", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/how-to-talk-to-a-christian", 
+   "guid": "tag:soundcloud,2010:tracks/119722601", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/119722601-samharrisorg-how-to-talk-to-a-christian.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 15026540
+    }
+   ], 
+   "title": "How to talk to a Christian", 
+   "published": 1384231109
+  }, 
+  {
+   "total_time": 1573, 
+   "subtitle": "This is a 26-minute mindfulness meditation, led b\u2026", 
+   "description": "This is a 26-minute mindfulness meditation, led by Sam Harris. For more information visit www.samharris.org.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/mindfulness-meditation-26", 
+   "guid": "tag:soundcloud,2010:tracks/112643459", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/112643459-samharrisorg-mindfulness-meditation-26.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 50359138
+    }
+   ], 
+   "title": "Looking for the Self (26 Minutes)", 
+   "published": 1380224782
+  }, 
+  {
+   "total_time": 533, 
+   "subtitle": "This is a 9-minute mindfulness meditation, led by\u2026", 
+   "description": "This is a 9-minute mindfulness meditation, led by Sam Harris. For more information visit www.samharris.org.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/samharrisorg/mindfulness-meditation-9", 
+   "guid": "tag:soundcloud,2010:tracks/112643452", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/112643452-samharrisorg-mindfulness-meditation-9.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 17071196
+    }
+   ], 
+   "title": "Mindfulness Meditation (9 Minutes)", 
+   "published": 1380224780
+  }
+ ], 
+ "link": "http://www.samharris.org"
+}

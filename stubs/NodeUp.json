@@ -1,0 +1,2142 @@
+{
+ "episodes": [
+  {
+   "total_time": 2746, 
+   "subtitle": "Rich Trott is joined by Kate Hudson and Ashley Williams to talk about using npm for front-end!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/dO-YOdZIGkg\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/dO-YOdZIGkg/NodeUp97.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp97/NodeUp97.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/dO-YOdZIGkg/NodeUp97.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/dO-YOdZIGkg/NodeUp97.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "97 - A Front-end npm Show.", 
+   "published": 1452790800
+  }, 
+  {
+   "total_time": 2313, 
+   "subtitle": "Rich Trott is joined by Rebecca Turner and Rod Vagg to talk about Node v5.0!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/WSf3-u5CWqQ\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/WSf3-u5CWqQ/NodeUp96.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp96/NodeUp96.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/WSf3-u5CWqQ/NodeUp96.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/WSf3-u5CWqQ/NodeUp96.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "96 - A Node v5.0 Show.", 
+   "published": 1448470800
+  }, 
+  {
+   "total_time": 3019, 
+   "subtitle": "Rod Vagg is joined by Alexis Campailla, Jo\u00e3o Reis and Hans Kristian Flaatten to talk about Node\\'s build and CI infrastructure!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/bA4dSWxHjc8\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/bA4dSWxHjc8/NodeUp95.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp95/NodeUp95.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/bA4dSWxHjc8/NodeUp95.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/bA4dSWxHjc8/NodeUp95.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "95 - A Build/CI Show.", 
+   "published": 1447779600
+  }, 
+  {
+   "total_time": 2134, 
+   "subtitle": "Dan Shaw is joined by Mikeal Rogers and Kassandra Perch to talk about Node.js Interactive!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/8Vv3fqFuwWY\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/8Vv3fqFuwWY/NodeUp94.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp94/NodeUp94.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/8Vv3fqFuwWY/NodeUp94.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/8Vv3fqFuwWY/NodeUp94.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "94 - A Node.js Interactive Show.", 
+   "published": 1446742800
+  }, 
+  {
+   "total_time": 2579, 
+   "subtitle": "Rich Trott is joined by James Snell and Kat March\u00e1n to talk about long-term support!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/VqaG6YjDyHU\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/VqaG6YjDyHU/NodeUp93.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp93/NodeUp93.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/VqaG6YjDyHU/NodeUp93.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/VqaG6YjDyHU/NodeUp93.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "93 - An LTS Show.", 
+   "published": 1446310800
+  }, 
+  {
+   "total_time": 3395, 
+   "subtitle": "Rod Vagg is joined by Rich Trott and Evan Lucas to talk about Node 4.0!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/VZDSqlFumVQ\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/VZDSqlFumVQ/NodeUp92.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp92/NodeUp92.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/VZDSqlFumVQ/NodeUp92.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/VZDSqlFumVQ/NodeUp92.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "92 - A Node 4.0 Show.", 
+   "published": 1445360400
+  }, 
+  {
+   "total_time": 2163, 
+   "subtitle": "Dan Shaw is joined by Rich Trott and Jeremiah Senkpiel to talk about Node\u2019s onboarding process!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/mEQgElN1LPw\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/mEQgElN1LPw/NodeUp91%20-%20Final%202.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp91/NodeUp91%20-%20Final%202.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/mEQgElN1LPw/NodeUp91%20-%20Final%202.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/mEQgElN1LPw/NodeUp91%20-%20Final%202.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "91 - An Onboarding Show.", 
+   "published": 1442595600
+  }, 
+  {
+   "total_time": 3687, 
+   "subtitle": "Tim Oxley is joined by Matt Podwysocki to talk about reactive programming!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/pHlHK74SBEE\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/pHlHK74SBEE/NodeUp90.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp90/NodeUp90.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/pHlHK74SBEE/NodeUp90.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/pHlHK74SBEE/NodeUp90.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "90 - A Reactive Show.", 
+   "published": 1437930000
+  }, 
+  {
+   "total_time": 2752, 
+   "subtitle": "Tim Oxley is joined by Kat March\u00e1n, Rebecca Turner and Forrest Norvell to talk about npm 3!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/d_r5MQaCeF8\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/d_r5MQaCeF8/NodeUp89.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp89/NodeUp89.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/d_r5MQaCeF8/NodeUp89.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/d_r5MQaCeF8/NodeUp89.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "89 - An npm 3 Show.", 
+   "published": 1436893200
+  }, 
+  {
+   "total_time": 4541, 
+   "subtitle": "Rod Vagg is joined by Colin Ihrig, Jeremiah Senkpiel and James Snell to talk about the convergence of node.js and io.js!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/MejmQXcoV-k\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/MejmQXcoV-k/NodeUp88Final.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp88Final/NodeUp88Final.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/MejmQXcoV-k/NodeUp88Final.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/MejmQXcoV-k/NodeUp88Final.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "88 - A Convergence Show.", 
+   "published": 1436115600
+  }, 
+  {
+   "total_time": 3359, 
+   "subtitle": "Tim Oxley is joined by Zeke Sikelianos, Aria Stewart and Yoshua Wuyts to talk about packages and modules!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/wKyhJa3_Iw8\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/wKyhJa3_Iw8/NodeUp87_01.L.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp87/NodeUp87_01.L.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/wKyhJa3_Iw8/NodeUp87_01.L.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/wKyhJa3_Iw8/NodeUp87_01.L.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "87 - A Packages and Modules Show.", 
+   "published": 1431882000
+  }, 
+  {
+   "total_time": 3057, 
+   "subtitle": "Rod Vagg and Tim Oxley are joined by Sarah Hui, Alex Gibson, George Will, Dominic Tarr in New Zealand!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/G3QOQ6Hs2Pw\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/G3QOQ6Hs2Pw/NodeUp86.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp86_201504/NodeUp86.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/G3QOQ6Hs2Pw/NodeUp86.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/G3QOQ6Hs2Pw/NodeUp86.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "86 - A New Zealand Show.", 
+   "published": 1429376400
+  }, 
+  {
+   "total_time": 4052, 
+   "subtitle": "Tim Oxley is joined by Kelsey Breseman, Jon McKay, Tim Ryan and Nicholas Vandewalle to talk about the Tessel 2.", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/bzknr61ooNc\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/bzknr61ooNc/NodeUp%2085_01.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp85/NodeUp%2085_01.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/bzknr61ooNc/NodeUp%2085_01.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/bzknr61ooNc/NodeUp%2085_01.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "85 - A Tessel 2 Show.", 
+   "published": 1427475600
+  }, 
+  {
+   "total_time": 1921, 
+   "subtitle": "This is the first of an io.js update series hosted by Mikeal Rogers. Today we\u2019re joined by Trevor Norris and Bradley Meck!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/u0eQ691olwA\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/u0eQ691olwA/NodeUp84_iojs_update_1.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp84IojsUpdate1/NodeUp84_iojs_update_1.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/u0eQ691olwA/NodeUp84_iojs_update_1.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/u0eQ691olwA/NodeUp84_iojs_update_1.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "84 - io.js Update #1.", 
+   "published": 1425488400
+  }, 
+  {
+   "total_time": 4018, 
+   "subtitle": "Rod Vagg is joined by Bert Belder, Sa\u00fal Ibarra Corretg\u00e9, Tim Caswell and Trevor Norris to discuss libuv!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/8MppE-1XdH0\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/8MppE-1XdH0/NodeUp83.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp83/NodeUp83.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/8MppE-1XdH0/NodeUp83.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/8MppE-1XdH0/NodeUp83.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "83 - A libuv Show.", 
+   "published": 1424106000
+  }, 
+  {
+   "total_time": 3469, 
+   "subtitle": "Tim Oxley is joined by Sebastian McKenzie and Denis Pushkarev to talk about 6to5!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/yHkcXe2Vmc4\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/yHkcXe2Vmc4/NodeUp82.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp82/NodeUp82.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/yHkcXe2Vmc4/NodeUp82.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/yHkcXe2Vmc4/NodeUp82.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "82 - A 6to5 Show.", 
+   "published": 1422637200
+  }, 
+  {
+   "total_time": 2360, 
+   "subtitle": "Mikeal Rogers is joined by Isaac Schlueter and Chris Dickinson to bring everyone up to speed on io.js!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/OuuKT110nIA\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/OuuKT110nIA/NodeUp81.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp81/NodeUp81.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/OuuKT110nIA/NodeUp81.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/OuuKT110nIA/NodeUp81.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "81 - An io.js Show.", 
+   "published": 1421168400
+  }, 
+  {
+   "total_time": 2420, 
+   "subtitle": "Rod Vagg is joined by Aria Stewart, Ed Finkler and Greg Baugues get together to discuss developer mental health.", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/DKc6k6nxvc8\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/DKc6k6nxvc8/NodeUp80.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp80/NodeUp80.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/DKc6k6nxvc8/NodeUp80.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/DKc6k6nxvc8/NodeUp80.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "80 - A Developer Mental Health Show.", 
+   "published": 1419267600
+  }, 
+  {
+   "total_time": 5825, 
+   "subtitle": "Rod Vagg is joined by Hannah Wolfe, David Kaneda, Jed Watson and Benjamin Lupton to talk about content platforms built with Node!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/0FnTnjJlaEQ\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/0FnTnjJlaEQ/NodeUp79.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp79/NodeUp79.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/0FnTnjJlaEQ/NodeUp79.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/0FnTnjJlaEQ/NodeUp79.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "79 - A Content Platform Show.", 
+   "published": 1418749200
+  }, 
+  {
+   "total_time": 2614, 
+   "subtitle": "Daniel Shaw is joined by Will Golden, Kevin Old, Jason Meyers, Nicholas Young and Rodney Norris live at Nodevember!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/zm4V6s-Vn7Y\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/zm4V6s-Vn7Y/NodeUp78%20-%20FINAL%20%281%29.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp78FINAL1/NodeUp78%20-%20FINAL%20%281%29.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/zm4V6s-Vn7Y/NodeUp78%20-%20FINAL%20%281%29.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/zm4V6s-Vn7Y/NodeUp78%20-%20FINAL%20%281%29.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "78 - A Nodevember Show.", 
+   "published": 1417712400
+  }, 
+  {
+   "total_time": 5034, 
+   "subtitle": "Rod Vagg and Tim Oxley are joined by Damon Oehlman, Thorsten Lorenz and Keith Pitt live at CampJS to talk about testing!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/kyMwY4DRPyY\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/kyMwY4DRPyY/NodeUp77%20-%20FINAL.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp77FINAL/NodeUp77%20-%20FINAL.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/kyMwY4DRPyY/NodeUp77%20-%20FINAL.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/kyMwY4DRPyY/NodeUp77%20-%20FINAL.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "77 - A Testing Show at CampJS.", 
+   "published": 1417107600
+  }, 
+  {
+   "total_time": 4739, 
+   "subtitle": "Tim Oxley is joined by Aria Stewart, Dustin Diaz and Jake Verbaten to discuss structuring node application!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/94jgGhEQmgc\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/94jgGhEQmgc/NodeUp76.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp76/NodeUp76.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/94jgGhEQmgc/NodeUp76.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/94jgGhEQmgc/NodeUp76.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "76 - A Structuring Applications Show.", 
+   "published": 1415984400
+  }, 
+  {
+   "total_time": 3115, 
+   "subtitle": "Mikeal Rogers is joined by Forrest Norvell and Rod Vagg to talk about NodeForward!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/sswItq_2cJU\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/sswItq_2cJU/NodeUp75.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp75/NodeUp75.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/sswItq_2cJU/NodeUp75.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/sswItq_2cJU/NodeUp75.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "75 - A NodeForward Show.", 
+   "published": 1415120400
+  }, 
+  {
+   "total_time": 2834, 
+   "subtitle": "Daniel Shaw is joined by Isaac Schlueter, Rebecca Turner, CJ Silverio and Zeke Sikelianos to talk about the future of npm!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/xNL-SIgGTo0\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/xNL-SIgGTo0/NodeUp74.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp74/NodeUp74.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/xNL-SIgGTo0/NodeUp74.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/xNL-SIgGTo0/NodeUp74.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "74 - A Future of npm Show.", 
+   "published": 1413306000
+  }, 
+  {
+   "total_time": 5314, 
+   "subtitle": "Tim Oxley is joined by Tim Park, Tim Ryan and Matteo Collina to discuss the internet of things!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/rHzCihBy25A\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/rHzCihBy25A/NodeUp73.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp73/NodeUp73.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/rHzCihBy25A/NodeUp73.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/rHzCihBy25A/NodeUp73.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "73 - An Internet of Things Show.", 
+   "published": 1412874000
+  }, 
+  {
+   "total_time": 5744, 
+   "subtitle": "Tim Oxley is joined by Hugh Kennedy, Mikola Lysenko, Chris Dickinson and Elijah Insua to talk WebGL!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/NTdNln7zSys\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/NTdNln7zSys/NodeUp72.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp72/NodeUp72.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/NTdNln7zSys/NodeUp72.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/NTdNln7zSys/NodeUp72.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "72 - A WebGL Show.", 
+   "published": 1410800400
+  }, 
+  {
+   "total_time": 4772, 
+   "subtitle": "Dan Shaw is joined by Chris Saint-Amant, Alex Liu and Micah Ransdell to talk about how Netflix uses Node!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/4-Bg7NJfbk4\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/4-Bg7NJfbk4/NodeUp71.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp71/NodeUp71.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/4-Bg7NJfbk4/NodeUp71.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/4-Bg7NJfbk4/NodeUp71.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "71 - A Team Netflix Show.", 
+   "published": 1409936400
+  }, 
+  {
+   "total_time": 7569, 
+   "subtitle": "Rod Vagg and Tim Oxley are joined by Domenic Denicola and Forrest Norvell to discuss everything you\u2019ve ever wanted to know about the npm client!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/2qJjpyUjdmg\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/2qJjpyUjdmg/NodeUp70.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp70/NodeUp70.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/2qJjpyUjdmg/NodeUp70.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/2qJjpyUjdmg/NodeUp70.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "70 - An npm Client Show.", 
+   "published": 1407603600
+  }, 
+  {
+   "total_time": 6098, 
+   "subtitle": "Rod Vagg and Tim Oxley are joined by Dominic Tarr, Feross Aboukhadijeh and Mathias Buus to talk about peer-to-peer!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/nGpyfa0MkSw\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/nGpyfa0MkSw/NodeUp69.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp69/NodeUp69.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/nGpyfa0MkSw/NodeUp69.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/nGpyfa0MkSw/NodeUp69.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "69 - A Peer-to-peer Show.", 
+   "published": 1406998800
+  }, 
+  {
+   "total_time": 2998, 
+   "subtitle": "Daniel Shaw is joined by Zeke Sikelianos, Benjamin Coe, Forrest Norvell and Jacob Groundwater to discuss service descriptions!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/BfdmT8bYA54\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/BfdmT8bYA54/NodeUp68.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp68/NodeUp68.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/BfdmT8bYA54/NodeUp68.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/BfdmT8bYA54/NodeUp68.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "68 - A Service Descriptions Show.", 
+   "published": 1406480400
+  }, 
+  {
+   "total_time": 3294, 
+   "subtitle": "Daniel Shaw is joined by Stanislas Polu, Alejandro Vizio and Forrest Norvell to talk about Breach!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/jWGhNBjk1U4\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/jWGhNBjk1U4/NodeUp67.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp67/NodeUp67.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/jWGhNBjk1U4/NodeUp67.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/jWGhNBjk1U4/NodeUp67.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "67 - A Breach Show.", 
+   "published": 1405702800
+  }, 
+  {
+   "total_time": 3714, 
+   "subtitle": "Daniel Shaw is joined by Rod Vagg and Tim Oxley to talk about the Node community in and around Australia!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/s3cglM6VrpQ\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/s3cglM6VrpQ/NodeUp66.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp66/NodeUp66.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/s3cglM6VrpQ/NodeUp66.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/s3cglM6VrpQ/NodeUp66.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "66 - A NodeDown Show.", 
+   "published": 1403888400
+  }, 
+  {
+   "total_time": 3310, 
+   "subtitle": "A live NodeUp recorded at CampJS in May!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/NqEWVASv2Tg\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/NqEWVASv2Tg/NodeUp65.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp65/NodeUp65.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/NqEWVASv2Tg/NodeUp65.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/NqEWVASv2Tg/NodeUp65.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "65 - A CampJS Show.", 
+   "published": 1403283600
+  }, 
+  {
+   "total_time": 4726, 
+   "subtitle": "Daniel Shaw is joined by Guillermo Rauch and Tim Oxley to talk about Socket.io v1.0!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/Xqu4x1NfRRE\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/Xqu4x1NfRRE/NodeUp64.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp64/NodeUp64.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/Xqu4x1NfRRE/NodeUp64.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/Xqu4x1NfRRE/NodeUp64.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "64 - A Socket.io v1.0 Show.", 
+   "published": 1402419600
+  }, 
+  {
+   "total_time": 7378, 
+   "subtitle": "A live NodeUp recorded at LNUG in March with Tim Ruffles, Nuno Job, Remy Sharp, Geoff Wagstaff, Forbes Lindesay and Tancredi Trugenberger!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/p1oA6fY6ZnY\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/p1oA6fY6ZnY/NodeUp63.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp63/NodeUp63.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/p1oA6fY6ZnY/NodeUp63.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/p1oA6fY6ZnY/NodeUp63.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "63 - A Live LNUG Show.", 
+   "published": 1399654800
+  }, 
+  {
+   "total_time": 3712, 
+   "subtitle": "Daniel Shaw is joined by Mikeal Rogers, Lyle Troxell and Rod Vagg to talk NodeConf 2014!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/S925_7Vovks\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/S925_7Vovks/NodeUp62.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp62/NodeUp62.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/S925_7Vovks/NodeUp62.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/S925_7Vovks/NodeUp62.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "62 - A NodeConf 2014 Show.", 
+   "published": 1398704400
+  }, 
+  {
+   "total_time": 5196, 
+   "subtitle": "Daniel Shaw is joined by Forrest Norvell, Trevor Norris, Fred Schott and Dan Peddle to talk about Continuation-Local Storage!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/Ks3kg2XAHdY\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/Ks3kg2XAHdY/NodeUp61.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp61/NodeUp61.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/Ks3kg2XAHdY/NodeUp61.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/Ks3kg2XAHdY/NodeUp61.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "61 - A CLS Show.", 
+   "published": 1396458000
+  }, 
+  {
+   "total_time": 6182, 
+   "subtitle": "Daniel Shaw is joined by Spike Brehm, David Guttman, Sean McCullough and Brett Kiefer to talk CoffeeScript!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/AMpu1ScDzsc\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/AMpu1ScDzsc/NodeUp60.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp60/NodeUp60.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/AMpu1ScDzsc/NodeUp60.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/AMpu1ScDzsc/NodeUp60.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "60 - A CoffeeScript Show.", 
+   "published": 1392656400
+  }, 
+  {
+   "total_time": 5036, 
+   "subtitle": "Daniel Shaw is joined by Isaac Schlueter, Timothy J. Fontaine and Mikeal Rogers to talk about the next phase of Node.js!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/NWIiJMZ7Ij4\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/NWIiJMZ7Ij4/59%20NodeUp59.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/59NodeUp59/59%20NodeUp59.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/NWIiJMZ7Ij4/59%20NodeUp59.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/NWIiJMZ7Ij4/59%20NodeUp59.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "59 - A New Project Lead Show.", 
+   "published": 1390928400
+  }, 
+  {
+   "total_time": 5166, 
+   "subtitle": "Daniel Shaw is joined by Team Groupon: Sean Massa, Sean McCullough, Adam Geitgey and Laura Roman!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/78h_LRE5sGg\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/78h_LRE5sGg/58%20NodeUp58.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/58NodeUp58/58%20NodeUp58.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/78h_LRE5sGg/58%20NodeUp58.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/78h_LRE5sGg/58%20NodeUp58.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "58 - A Team Groupon Show.", 
+   "published": 1390237200
+  }, 
+  {
+   "total_time": 4898, 
+   "subtitle": "Daniel Shaw is joined by Nuno Job, Mike Brevoort, Niall O'Higgins and Jacob Groundwater to discuss Docker!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/HKBotGmjtyg\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/HKBotGmjtyg/NodeUp57.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp57/NodeUp57.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/HKBotGmjtyg/NodeUp57.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/HKBotGmjtyg/NodeUp57.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "57 - A Docker Show.", 
+   "published": 1389632400
+  }, 
+  {
+   "total_time": 4964, 
+   "subtitle": "Daniel Shaw is joined by Eran Hammer, Wyatt Preul, Kevin Decker and Ben Acker to discuss Walmart Labs and Node Black Friday!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/kyJoOHV2kp8\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/kyJoOHV2kp8/NodeUp56.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp56/NodeUp56.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/kyJoOHV2kp8/NodeUp56.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/kyJoOHV2kp8/NodeUp56.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "56 - A Team Walmart Show. #nodebf", 
+   "published": 1386435600
+  }, 
+  {
+   "total_time": 4856, 
+   "subtitle": "Mikeal Rogers, Max Ogden, Jessica Lord and Rod Vagg discuss NodeSchool!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/A7EqQSIAzTo\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/A7EqQSIAzTo/NodeUp55.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp55/NodeUp55.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/A7EqQSIAzTo/NodeUp55.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/A7EqQSIAzTo/NodeUp55.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "55 - A NodeSchool Show.", 
+   "published": 1385917200
+  }, 
+  {
+   "total_time": 5060, 
+   "subtitle": "Daniel Shaw, Brett Kiefer, Daniel Lecheminant, Doug Patti and Sven Henderson discuss how team Trello uses node!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/tmXLNTq2GME\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/tmXLNTq2GME/NodeUp54.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp54_20131107/NodeUp54.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/tmXLNTq2GME/NodeUp54.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/tmXLNTq2GME/NodeUp54.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "54 - A Team Trello Show.", 
+   "published": 1383843600
+  }, 
+  {
+   "total_time": 5254, 
+   "subtitle": "Daniel Shaw, Nizar Khalife, Erik Isaksen, Cliffano Subagio and Matt Creager discuss... NodeUp!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/yMdc1GC4Vsk\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/yMdc1GC4Vsk/NodeUp53.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp53/NodeUp53.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/yMdc1GC4Vsk/NodeUp53.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/yMdc1GC4Vsk/NodeUp53.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "53 - A Very Meta Show.", 
+   "published": 1382720400
+  }, 
+  {
+   "total_time": 4698, 
+   "subtitle": "Daniel Shaw, Rod Vagg, Trevor Norris, Timothy J Fontaine discuss binary compatibility!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/QUnuYiF-g3A\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/QUnuYiF-g3A/52%20NodeUp52.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/52NodeUp52/52%20NodeUp52.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/QUnuYiF-g3A/52%20NodeUp52.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/QUnuYiF-g3A/52%20NodeUp52.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "52 - A Binary Compatibility Show.", 
+   "published": 1379523600
+  }, 
+  {
+   "total_time": 4218, 
+   "subtitle": "Daniel Shaw, Chris Williams, Raquel Velez, Adam Ulvi, Oli Evans, Julian Duque and Juan Pablo Buritica discuss NodeBots Day!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/YFw2IF7JIUQ\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/YFw2IF7JIUQ/51%20NodeUp_51.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/51NodeUp51/51%20NodeUp_51.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/YFw2IF7JIUQ/51%20NodeUp_51.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/YFw2IF7JIUQ/51%20NodeUp_51.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "51 - An International NodeBots show.", 
+   "published": 1376672400
+  }, 
+  {
+   "total_time": 6079, 
+   "subtitle": "Daniel Shaw, Isaac Schlueter, Bert Belder, Trevor Norris and Timothy Fontaine discuss the changes in Node v0.11!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/T-IK_caxkCM\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/T-IK_caxkCM/NodeUp50.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp50/NodeUp50.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/T-IK_caxkCM/NodeUp50.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/T-IK_caxkCM/NodeUp50.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "50 - A node v0.11 show.", 
+   "published": 1375462800
+  }, 
+  {
+   "total_time": 4930, 
+   "subtitle": "Daniel Shaw, Andrew Sliwinski, Derek Reynolds, Zach Bruggeman and Kael Barton discuss using node for diy.org!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/LPgP0RQ15ks\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/LPgP0RQ15ks/49%20NodeUp49.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/49NodeUp49/49%20NodeUp49.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/LPgP0RQ15ks/49%20NodeUp49.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/LPgP0RQ15ks/49%20NodeUp49.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "49 - A team DIY.org show.", 
+   "published": 1374512400
+  }, 
+  {
+   "total_time": 3346, 
+   "subtitle": "Mikeal Rogers, Paolo Fragomeni, Jake Verbaten, Dominic Tarr, and Rod Vagg discuss node databases!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/ngWdV4tfelQ\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/ngWdV4tfelQ/48%20NodeUp48.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/48NodeUp48/48%20NodeUp48.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/ngWdV4tfelQ/48%20NodeUp48.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/ngWdV4tfelQ/48%20NodeUp48.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "48 - The first NodeBase show.", 
+   "published": 1374166800
+  }, 
+  {
+   "total_time": 6386, 
+   "subtitle": "Daniel Shaw, Forrest Norvell, Eran Hammer, Raquel Velez, Rod Vagg, Glenn Block, Ken Perkins and Mikeal Rogers racap NodeConf!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/ejbsb7U-VJk\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/ejbsb7U-VJk/NodeUp47.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp47/NodeUp47.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/ejbsb7U-VJk/NodeUp47.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/ejbsb7U-VJk/NodeUp47.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "47 - A NodeConf recap show.", 
+   "published": 1373475600
+  }, 
+  {
+   "total_time": 4836, 
+   "subtitle": "Daniel Shaw, Domenic Denicola, Jeremy Stanley and Andy Wingo discuss using promises in practice!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/2pgjZ39sZzc\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/2pgjZ39sZzc/NodeUp46.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp46/NodeUp46.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/2pgjZ39sZzc/NodeUp46.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/2pgjZ39sZzc/NodeUp46.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "46 - A promises by promisers show.", 
+   "published": 1370710800
+  }, 
+  {
+   "total_time": 6872, 
+   "subtitle": "Daniel Shaw, Isaac Z. Schlueter, Matt Ranney and Vyacheslav Egorov discuss Node and V8 Performance!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/n5D-zxIuFgA\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/n5D-zxIuFgA/NodeUp45.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp45/NodeUp45.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/n5D-zxIuFgA/NodeUp45.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/n5D-zxIuFgA/NodeUp45.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "45 - A performance show.", 
+   "published": 1369501200
+  }, 
+  {
+   "total_time": 5780, 
+   "subtitle": "Daniel Shaw, James Halliday, Mark Cavage, Andrew Sliwinski discuss creating APIs!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/TutYSyIvFi4\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/TutYSyIvFi4/NodeUp44.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp44/NodeUp44.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/TutYSyIvFi4/NodeUp44.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/TutYSyIvFi4/NodeUp44.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "44 - A creating APIs show.", 
+   "published": 1368118800
+  }, 
+  {
+   "total_time": 5880, 
+   "subtitle": "Daniel Shaw, Isaac Z. Schlueter, Mikeal Rogers and Adam Baldwin talk the tolerance of maturity, unix philosophy and node.js, node security and much more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/98nl54B_mGQ\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/98nl54B_mGQ/NodeUp43.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp43/NodeUp43.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/98nl54B_mGQ/NodeUp43.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/98nl54B_mGQ/NodeUp43.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "43 - A promise we'll get to security show.", 
+   "published": 1366909200
+  }, 
+  {
+   "total_time": 4204, 
+   "subtitle": "Daniel Shaw, Arnout Kazemier, Mike Brevoort and Brett Kiefer discuss scaling websockets!.", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/ugtPRZiAJb4\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/ugtPRZiAJb4/42%20NodeUp42.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/42NodeUp42/42%20NodeUp42.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/ugtPRZiAJb4/42%20NodeUp42.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/ugtPRZiAJb4/42%20NodeUp42.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "42 - A scaling websockets show.", 
+   "published": 1366131600
+  }, 
+  {
+   "total_time": 3850, 
+   "subtitle": "Max Ogden, Paolo Fragomeni and Rod Vagg discuss module LevelDB.", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/8fReiOjyFfQ\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/8fReiOjyFfQ/NodeUp41.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp41/NodeUp41.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/8fReiOjyFfQ/NodeUp41.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/8fReiOjyFfQ/NodeUp41.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "41 - A LevelDB show.", 
+   "published": 1363712400
+  }, 
+  {
+   "total_time": 4204, 
+   "subtitle": "Daniel Shaw, Mikeal Rogers, Isaac Schlueter and James Halliday discuss module authoring.", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/z4KDfCTvMQA\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/z4KDfCTvMQA/NodeUp40.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp40/NodeUp40.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/z4KDfCTvMQA/NodeUp40.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/z4KDfCTvMQA/NodeUp40.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "40 - A module authoring show.", 
+   "published": 1362502800
+  }, 
+  {
+   "total_time": 3044, 
+   "subtitle": "Daniel Shaw, Mikeal Rogers and Sara Chipps discuss hardware.", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/Qj6hC84KJiw\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/Qj6hC84KJiw/NodeUp39.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp39/NodeUp39.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/Qj6hC84KJiw/NodeUp39.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/Qj6hC84KJiw/NodeUp39.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "39 - A hardware show.", 
+   "published": 1361898000
+  }, 
+  {
+   "total_time": 4040, 
+   "subtitle": "Daniel Shaw, Mikeal Rogers and Isaac Schlueter discuss node.js...we\\'re back!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/SVYFvgyarX4\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/SVYFvgyarX4/NodeUp38.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup38/NodeUp38.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/SVYFvgyarX4/NodeUp38.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/SVYFvgyarX4/NodeUp38.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "38 - A we're back show.", 
+   "published": 1360515600
+  }, 
+  {
+   "total_time": 7450, 
+   "subtitle": "Daniel Shaw, Nuno Job, Mike Brevoort, and Jason Smith discuss using npm in production!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/kZUmWli2Hkc\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/kZUmWli2Hkc/37Nodeup37.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup37/37Nodeup37.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/kZUmWli2Hkc/37Nodeup37.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/kZUmWli2Hkc/37Nodeup37.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "37 - A production npm show.", 
+   "published": 1354698000
+  }, 
+  {
+   "total_time": 3778, 
+   "subtitle": "Daniel Shaw, Visnu Pitiyanuvath, Gerad Suyderhoud, Arnout Kazemier and Tim Caswell discuss the inner workings of NodeKnockout and how past winners went about preparing for the event!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/ylABo7PTxOw\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/ylABo7PTxOw/NodeUp36.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp36/NodeUp36.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/ylABo7PTxOw/NodeUp36.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/ylABo7PTxOw/NodeUp36.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "36 - A prepare for NKO show.", 
+   "published": 1352041200
+  }, 
+  {
+   "total_time": 3728, 
+   "subtitle": "Mikeal Rogers, Daniel Shaw, Owen Barnes and the organizers of RealtimeConf recap everything that happened there!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/yJyNWeuGN8k\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/yJyNWeuGN8k/NodeUp35.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp35/NodeUp35.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/yJyNWeuGN8k/NodeUp35.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/yJyNWeuGN8k/NodeUp35.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "35 - A RealtimeConf show.", 
+   "published": 1351666800
+  }, 
+  {
+   "total_time": 5570, 
+   "subtitle": "Mikeal Rogers, Max Ogden, and Felix Geisend\u00f6rfer recap all the topics discussed at JSConf EU!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/z2wyaXD3Dzo\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/z2wyaXD3Dzo/NodeUp34.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp34/NodeUp34.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/z2wyaXD3Dzo/NodeUp34.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/z2wyaXD3Dzo/NodeUp34.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "34 - A JSConf EU show.", 
+   "published": 1350712800
+  }, 
+  {
+   "total_time": 5452, 
+   "subtitle": "Daniel Shaw, Paul Serby, Owen Barnes, and Dominic Tarr recap all the topics discussed at LXJS and much more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/XtQhWsIwQ70\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/XtQhWsIwQ70/NodeUp33.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp33/NodeUp33.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/XtQhWsIwQ70/NodeUp33.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/XtQhWsIwQ70/NodeUp33.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "33 - An LXJS show.", 
+   "published": 1349848800
+  }, 
+  {
+   "total_time": 6010, 
+   "subtitle": "Isaac Schlueter and Visnu Pitiyanuvath talk npm-www, templar, stylus, nib, emcee, cluster, domains, ios6 maps, timeline of the far future, boltzmann brains, diffie-hellman-merkle, endeavour in transit, how long they want to live, tilemill, nodeknockout and much much more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/AtWhjxvq8y0\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/AtWhjxvq8y0/32Nodeup32.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp32/32Nodeup32.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/AtWhjxvq8y0/32Nodeup32.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/AtWhjxvq8y0/32Nodeup32.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "32 - An npm in the stars show.", 
+   "published": 1348660800
+  }, 
+  {
+   "total_time": 4240, 
+   "subtitle": "Daniel Shaw, Adam Brault, Henrik Joreteg and Nathan Fritz talk about building real-time software, database pub/sub, Thoonk.js, templatizer, hot loading code, Keeping it Realtime, RedisConf and much more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/i-ehK6RaIjU\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/i-ehK6RaIjU/31Nodeup31.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp31/31Nodeup31.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/i-ehK6RaIjU/31Nodeup31.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/i-ehK6RaIjU/31Nodeup31.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "31 - An enchanted butter show.", 
+   "published": 1348138800
+  }, 
+  {
+   "total_time": 4122, 
+   "subtitle": "Isaac Schlueter, Daniel Shaw, Mikeal Rogers and Visnu Pitiyanuvath recap all the discussions from SummerCamp, we talk to Cian \u00d3 Maid\u00edn about the upcoming Node Dublin, and much more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/a2Y96pJDJXw\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/a2Y96pJDJXw/NodeUp30.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp30/NodeUp30.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/a2Y96pJDJXw/NodeUp30.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/a2Y96pJDJXw/NodeUp30.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Thirty: a summercamp recap show", 
+   "published": 1347462000
+  }, 
+  {
+   "total_time": 4332, 
+   "subtitle": "Daniel Shaw, Max Ogden, James Halliday and Visnu Pitiyanuvath talk summercamp topics past and present, take your calls and much more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/ah1-8bZKl2A\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/ah1-8bZKl2A/NodeUp29.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp29/NodeUp29.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/ah1-8bZKl2A/NodeUp29.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/ah1-8bZKl2A/NodeUp29.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Twenty Nine: An experimental summercamp call-in show", 
+   "published": 1346673600
+  }, 
+  {
+   "total_time": 5688, 
+   "subtitle": "Daniel Shaw, Nuno Job, James Halliday, Domenic Denicola, and Adam Christian take a deep dive into testing and talk about Domains, TAP, Mocha, ChaiJS, node-tap, Node Unit, Specify, Flatiron Nock, Flatiron API Easy, Supertest, Sinon.JS, Gleak, Sandbox Module, Travis CI, Testling, Browserling, SauceLabs, and much more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/9WU4lc-YgFM\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/9WU4lc-YgFM/NodeUp28.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp28/NodeUp28.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/9WU4lc-YgFM/NodeUp28.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/9WU4lc-YgFM/NodeUp28.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Twenty Eight: A testing deep dive show", 
+   "published": 1346412600
+  }, 
+  {
+   "total_time": 4750, 
+   "subtitle": "Mikeal Rogers, Daniel Shaw, Chris Williams, Rick Waldron and Elijah Insua talk robots, node-serialport, nodebots, the internet of things, cortex m3, electricimp, alibaba, tmpad, johnny-five, firmata and much more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/kdzOmmLz5IE\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/kdzOmmLz5IE/Nodeup27n.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup27_717/Nodeup27n.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/kdzOmmLz5IE/Nodeup27n.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/kdzOmmLz5IE/Nodeup27n.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Twenty Seven: A robotics deep dive show", 
+   "published": 1344857400
+  }, 
+  {
+   "total_time": 5716, 
+   "subtitle": "Mikeal Rogers, Daniel Shaw, Chris Williams, and Nuno Job talk community, open source, github, conferences and much more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/OeOV6ETrR_k\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/OeOV6ETrR_k/NodeUp26.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup26/NodeUp26.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/OeOV6ETrR_k/NodeUp26.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/OeOV6ETrR_k/NodeUp26.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Twenty Six: A community show", 
+   "published": 1344499200
+  }, 
+  {
+   "total_time": 4180, 
+   "subtitle": "Mikeal Rogers, Isaac Schlueter and Dominic Tarr talk streams, components and much more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/JZYBlAiabug\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/JZYBlAiabug/NodeUp_25.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupTwentyFive/NodeUp_25.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/JZYBlAiabug/NodeUp_25.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/JZYBlAiabug/NodeUp_25.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Twenty Five: A streaming show", 
+   "published": 1343718000
+  }, 
+  {
+   "total_time": 4620, 
+   "subtitle": "Mikeal Rogers, Daniel Shaw, Matt Ranney, and Charlie Robbins talk node updates, secure transports, SPDY, HTTP 2.0, robots, NodeConf Summer Camp, hacking, NodeUp, Gather, Voxer, Empire.js, and more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/77569EVJHcg\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/77569EVJHcg/Nodeup24.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup24/Nodeup24.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/77569EVJHcg/Nodeup24.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/77569EVJHcg/Nodeup24.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Twenty Four: A secure show", 
+   "published": 1343109600
+  }, 
+  {
+   "total_time": 6566, 
+   "subtitle": "Isaac Z. Schlueter, Visnu Pitiyanuvath, Daniel Shaw, James Halliday and Mikeal Rogers, recap NodeConf!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/n4XUXgxjoc4\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/n4XUXgxjoc4/Nodeup23.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupTwentyThree/Nodeup23.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/n4XUXgxjoc4/Nodeup23.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/n4XUXgxjoc4/Nodeup23.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Twenty Three: A massive NodeConf special", 
+   "published": 1341831600
+  }, 
+  {
+   "total_time": 2408, 
+   "subtitle": "Daniel Shaw, Nuno Job, Visnu Pitiyanuvath, Mikeal Rogers, Charlie Robbins, Ana Hevesi talk about HackNodeConf, You Laugh, You Lose, Futon Client, Timezones, Upcoming Events, Node 0.8, Badass Proxy, Empire.js, nko3, trackyourhappiness.org, node_riak, Summer of Node.js, LXJS, and more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/Rnbdm_bTMwg\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/Rnbdm_bTMwg/Nodeup22.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup22/Nodeup22.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/Rnbdm_bTMwg/Nodeup22.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/Rnbdm_bTMwg/Nodeup22.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Twenty Two: A hack NodeConf show", 
+   "published": 1340125200
+  }, 
+  {
+   "total_time": 5318, 
+   "subtitle": "Isaac Schlueter and Matt Ranney on all things debugging, V8 Postmortem Debugging, node-panic, node-inspector, node-webkit-agent, V8 Profiler, REPL, Flame Graphs, Instrumenting the Real-time Web, Debugging Node.js Memory Leaks, node-weak and more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/oGW_pS3kZdI\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/oGW_pS3kZdI/NodeUp21.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup21/NodeUp21.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/oGW_pS3kZdI/NodeUp21.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/oGW_pS3kZdI/NodeUp21.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Twenty One: A debugging show", 
+   "published": 1339520400
+  }, 
+  {
+   "total_time": 2748, 
+   "subtitle": "Mikeal Rogers, James Halliday, Daniel Shaw, Pedro Teixeira on process.nextTick semantics, EventEmitter: Listen to all events, node install [package], TypedArray performance, node-mkdirp/issues/17, JSDay, TacoConf, JSConf.ar, NDC, trumpet, yarnify, poolee, node_riak, mad, nd, nodedoc, npmdoc, LXJS, Browserling, Voxer, NodeConf and more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/ut2M8vAF4ug\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/ut2M8vAF4ug/NodeUp20.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupTwenty/NodeUp20.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/ut2M8vAF4ug/NodeUp20.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/ut2M8vAF4ug/NodeUp20.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Twenty: A twentieth show", 
+   "published": 1338228000
+  }, 
+  {
+   "total_time": 5552, 
+   "subtitle": "Mikeal Rogers, Isaac Schlueter, Daniel Shaw, and Max Ogden talk about their favorite node modules request, jsontool, mocha, stream, txn, follow, browserify, fleet, seaport, underscore, node_redis, node-gyp, cookies, routes, negotiator, marked, event-stream, tap, jsonstream and more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/skCvwCtBbsQ\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/skCvwCtBbsQ/NodeupNineteen.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupNineteen/NodeupNineteen.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/skCvwCtBbsQ/NodeupNineteen.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/skCvwCtBbsQ/NodeupNineteen.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Nineteen: An our favorite modules show", 
+   "published": 1336755600
+  }, 
+  {
+   "total_time": 5644, 
+   "subtitle": "Mikeal Rogers, Isaac Schlueter, Nuno Job, James Halliday, and Paolo Fragomeni talk about Node Philly, dominode, browser-stream, cdir, crypto-browserify, Stream vs. Callback vs. EventEmitter, node-disorder, OAuth with Request vs Passport vs EveryAuth, Mikeal\\'s TC39 Post, npm-www, node.js 0.8, NodeConf, TacoConf, node-falafel, LXJS and more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/R4AJiKFyk-w\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/R4AJiKFyk-w/NodeupEighteen.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupEighteen/NodeupEighteen.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/R4AJiKFyk-w/NodeupEighteen.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/R4AJiKFyk-w/NodeupEighteen.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Eighteen: A toy language show", 
+   "published": 1335765600
+  }, 
+  {
+   "total_time": 6418, 
+   "subtitle": "Mikeal Rogers, Paolo Fragomeni, Owen Barnes, and Matt Eernisse talk about Express, Geddy, Tako, Flatiron, SocketStream and much more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/WodOcFLHE0s\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/WodOcFLHE0s/NodeupSeventeen.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupSeventeen/NodeupSeventeen.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/WodOcFLHE0s/NodeupSeventeen.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/WodOcFLHE0s/NodeupSeventeen.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Seventeen: A framework author throwdown show", 
+   "published": 1334556000
+  }, 
+  {
+   "total_time": 4136, 
+   "subtitle": "Isaac Z. Schlueter, James Halliday, Mikeal Rodgers, and Dan Shaw on JSConf, B2G, Grunt, V8, Mechanical Bull Riding, JS on the GPU, Douchebag, Bikeshed, JSPP, Coder Dojo, JSConf EU, JSConf AR, JSConf AUS, and more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/7xjeSDl3m9o\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/7xjeSDl3m9o/NodeupSixteen.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupSixteen/NodeupSixteen.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/7xjeSDl3m9o/NodeupSixteen.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/7xjeSDl3m9o/NodeupSixteen.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Sixteen: A JSConf recap show", 
+   "published": 1334001600
+  }, 
+  {
+   "total_time": 5128, 
+   "subtitle": "Isaac Z. Schlueter, James Halliday, Mikeal Rodgers, Nuno Job, and Dan Shaw on Classes, Node.js Core, New Core Team Member, HTTPS, Domains, Streaming HTML Parsers, JSConf, Node Philly, JSConf Argentina, TacoConf, NodeConf, and Dinosaurs!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/O7bAqU15wwg\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/O7bAqU15wwg/Nodeup_Fifteen.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupFifteen/Nodeup_Fifteen.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/O7bAqU15wwg/Nodeup_Fifteen.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/O7bAqU15wwg/Nodeup_Fifteen.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Fifteen: A bears, wolves, and poppins show", 
+   "published": 1332183600
+  }, 
+  {
+   "total_time": 5484, 
+   "subtitle": "Daniel Shaw, Max Ogden, Joshua Holbrook, Daniel Erickson, and Mike Brevoort [on] Express, Connect, Flatiron, Middleware, Streams, Geddy, Tako, Socket.io, Code Reuse and more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/z_ACVBZ3t5k\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/z_ACVBZ3t5k/Nodeup_Fourteen.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupFourteen/Nodeup_Fourteen.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/z_ACVBZ3t5k/Nodeup_Fourteen.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/z_ACVBZ3t5k/Nodeup_Fourteen.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Fourteen: A framework user deep dive show", 
+   "published": 1330988400
+  }, 
+  {
+   "total_time": 5338, 
+   "subtitle": "Isaac Z. Schlueter, James Halliday, Felix Geisend\u00f6rfer, and Maciej Ma\u0142ecki on New ECMAScript Features, What's Next Up for Node, Stability, Domains, HTTP Parsers, Difflet, Tests, Give, Listener Questions and More!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/J8aawbHCeDk\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/J8aawbHCeDk/NodeUpThirteen.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupThirteen_710/NodeUpThirteen.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/J8aawbHCeDk/NodeUpThirteen.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/J8aawbHCeDk/NodeUpThirteen.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Thirteen: A beautiful tomato show", 
+   "published": 1329696000
+  }, 
+  {
+   "total_time": 5296, 
+   "subtitle": "Isaac Z. Schlueter, Daniel Shaw, Nuno Job and James Halliday on Node Summit, NodeUp:Live, NodeJam, JSConf, Ryan Steps Down, Isaac Steps Up, What\u2019s Next, Domains, Service Registry, Cluster Management, Shim, GimmeSomeBeta, Up and Distribute, Editors, Plugins, a Call for Tooling and More!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/3FYFdruvj1g\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/3FYFdruvj1g/Nodeup_Twelve.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupTwelve/Nodeup_Twelve.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/3FYFdruvj1g/Nodeup_Twelve.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/3FYFdruvj1g/Nodeup_Twelve.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Twelve: A superb owl show", 
+   "published": 1328554800
+  }, 
+  {
+   "total_time": 6576, 
+   "subtitle": "Isaac Z. Schlueter, Mikeal Rogers, Daniel Shaw, Nuno Job and Matt Ranney on Traditional Database Support in Node.js, NoSQL vs. SQL, MongoDB, Redis, Couch, Riak, Databases in Javascript, View Questions and NodeUp Live!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/WrF1mtNH578\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/WrF1mtNH578/NodeupEleven.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupEleven/NodeupEleven.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/WrF1mtNH578/NodeupEleven.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/WrF1mtNH578/NodeupEleven.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Eleven: A database deep dive show", 
+   "published": 1326744000
+  }, 
+  {
+   "total_time": 4028, 
+   "subtitle": "James Halliday, Mikeal Rogers, Chris Williams and Daniel Shaw on node summit, socket pooling, node_modules in git, fixing bugs by releasing modules, replicant, tmpad, nubstep, silly libraries for a vector game, coffeescript port of node.js, roma node.js, dreadnot and more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/eIL9wvZw9aM\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/eIL9wvZw9aM/Nodeup_Ten.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUpTen/Nodeup_Ten.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/eIL9wvZw9aM/Nodeup_Ten.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/eIL9wvZw9aM/Nodeup_Ten.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Ten: A safe raging show", 
+   "published": 1326067200
+  }, 
+  {
+   "total_time": 4748, 
+   "subtitle": "Isaac Z. Schlueter, Matt Ranney, Dominic Tarr, and James Halliday [on] Voxer, JSON over HTTP, Scaling + Deployment at Scale, Network/App Architecture of Voxer, Erlang, npm Rebuild, Hosting, Upgrading to Node 0.6, Continuous Git-Based Deployment, and More!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/GjubSl2aAL4\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/GjubSl2aAL4/Nodeup_Nine.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/Nodeup9/Nodeup_Nine.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/GjubSl2aAL4/Nodeup_Nine.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/GjubSl2aAL4/Nodeup_Nine.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Nine: A Voxer show", 
+   "published": 1323806400
+  }, 
+  {
+   "total_time": 5560, 
+   "subtitle": "Hosted this week by Maciej Ma\u0142ecki, Isaac Z. Schlueter, Mikeal Rogers, and Charlie Robbins.", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/P8tRtldWefU\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/P8tRtldWefU/Nodeup_Eight.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp8_184/Nodeup_Eight.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/P8tRtldWefU/Nodeup_Eight.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/P8tRtldWefU/Nodeup_Eight.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Eight: An npm deep dive show", 
+   "published": 1323118800
+  }, 
+  {
+   "total_time": 4704, 
+   "subtitle": "Hosted this week by creators of dnode, &!, transloadit, and flatiron!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/9o19yFwX7wU\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/9o19yFwX7wU/NodeUp7.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeUp7/NodeUp7.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/9o19yFwX7wU/NodeUp7.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/9o19yFwX7wU/NodeUp7.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Seven: A foot rubs are the new high five show", 
+   "published": 1321925400
+  }, 
+  {
+   "total_time": 5306, 
+   "subtitle": "A this isn't like parenting show", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/GVd5CtF-O6M\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/GVd5CtF-O6M/NodeUp6.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupSix/NodeUp6.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/GVd5CtF-O6M/NodeUp6.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/GVd5CtF-O6M/NodeUp6.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Six: A this isn't like parenting show", 
+   "published": 1320112800
+  }, 
+  {
+   "total_time": 6254, 
+   "subtitle": "a lamppost under the freeway show", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/83dbwQUDCpQ\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/83dbwQUDCpQ/Nodeup_Five.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupFive/Nodeup_Five.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/83dbwQUDCpQ/Nodeup_Five.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/83dbwQUDCpQ/Nodeup_Five.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Five: A lamppost under the freeway show", 
+   "published": 1318878000
+  }, 
+  {
+   "total_time": 3744, 
+   "subtitle": "a post nko show", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/fTPmUkKHbKE\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/fTPmUkKHbKE/NodeUp4.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupFour/NodeUp4.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/fTPmUkKHbKE/NodeUp4.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/fTPmUkKHbKE/NodeUp4.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Four: A post NKO show", 
+   "published": 1315933200
+  }, 
+  {
+   "total_time": 6938, 
+   "subtitle": "patterns, practices, exceptions, long running connections, fast-or-slow, tamejs, coffeescript, kaffiene, npm, node knockout, event emitter patch, live questions and more with Isaac Schlueter, Felix Geisendoerfer, and Paolo Fragomeni", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/8byHkb3FH0M\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/8byHkb3FH0M/NodeUpThree.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupThree/NodeUpThree.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/8byHkb3FH0M/NodeUpThree.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/8byHkb3FH0M/NodeUpThree.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Three: A javascript party show", 
+   "published": 1312786800
+  }, 
+  {
+   "total_time": 4170, 
+   "subtitle": "James Halliday, Isaac Schlueter and Mikeal Rogers: New Node Logo, Browserify Plugins, Node on Windows, NPM on Windows, HTTP Client Rewrite, Node Knockout, and NodeConf SummerCamp", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/HOFCcG291FQ\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/HOFCcG291FQ/nodeup2.mp3", 
+   "guid": "http://ia600505.us.archive.org/26/items/nodeup2/nodeup2.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/HOFCcG291FQ/nodeup2.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/HOFCcG291FQ/nodeup2.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "Two: A second show", 
+   "published": 1310972400
+  }, 
+  {
+   "total_time": 5936, 
+   "subtitle": "Felix Geisendoerfer, James Halliday, and Isaac Schlueter talk about node 0.5, burrito, npm, browserify, testling, sandboxed-module, CoffeeScript, no.de and more!", 
+   "description": "<img src=\"http://feeds.feedburner.com/~r/NodeUp/~4/q5bgC-_YY5Q\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/NodeUp/~3/q5bgC-_YY5Q/Nodeup-Episodeone.mp3", 
+   "guid": "http://www.podtrac.com/pts/redirect.mp3/www.archive.org/download/NodeupEp1/Nodeup-Episodeone.mp3", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/q5bgC-_YY5Q/Nodeup-Episodeone.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }, 
+    {
+     "url": "http://feedproxy.google.com/~r/NodeUp/~5/q5bgC-_YY5Q/Nodeup-Episodeone.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": -1
+    }
+   ], 
+   "title": "One: A first show", 
+   "published": 1309424400
+  }
+ ], 
+ "link": "http://nodeup.com", 
+ "description": "NodeUp is a podcast about Node.js", 
+ "cover_url": "http://nodeup.com/logo2.jpg", 
+ "title": "NodeUp"
+}

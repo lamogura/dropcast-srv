@@ -1,0 +1,47 @@
+{
+  "name": "dropcast-srv",
+  "description": "Dropcast Node Backend",
+  "author": "Justin Kovalchuk",
+  "version": "0.1.0",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "NODE_ENV=test nodemon spec/main.js -e js,coffee -w api -w config -w helpers -w models -w spec",
+    "coverage": "NODE_ENV=test istanbul cover --config=istanbul.config.json spec/main.js&&istanbul report&&open coverage/lcov-report/index.html",
+    "dev": "NODE_ENV=development nodemon main.js -e js,coffee -w api -w config -w helpers -w models -w main.js -w app.coffee"
+  },
+  "dependencies": {
+    "bcrypt": "^0.8.5",
+    "bluebird": "^2.9.34",
+    "body-parser": "^1.9.2",
+    "coffee-script": "~1.9",
+    "colors": "^1.1.2",
+    "config": "^1.15.0",
+    "errorhandler": "^1.2.2",
+    "express": "^4.13.3",
+    "express-winston": "^0.4.1",
+    "jsonwebtoken": "^5.0.5",
+    "lodash": "^3.10.1",
+    "method-override": "^2.3.0",
+    "pg": "^4.4.1",
+    "pg-hstore": "^2.3.2",
+    "request": "^2.61.0",
+    "sequelize": "^3.6.0",
+    "sequelize-cli": "^1.7.4",
+    "winston": "^1.0.1"
+  },
+  "devDependencies": {
+    "factory-girl": "^2.0.0",
+    "factory-girl-sequelize": "^1.0.0",
+    "faker": "^3.0.1",
+    "istanbul": "^0.3.19",
+    "jasmine": "^2.3.2",
+    "jasmine-spec-reporter": "^2.4.0",
+    "nodemon": "^1.4.1",
+    "supertest-as-promised": "^2.0.2"
+  },
+  "engines": {
+    "node": "0.12.x"
+  }
+}

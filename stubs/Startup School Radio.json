@@ -1,0 +1,553 @@
+{
+ "paged_feed_next": "http://feeds.soundcloud.com/users/soundcloud:users:150759713/sounds.rss?before=203474893", 
+ "description": "Startup School Radio is a weekly broadcast where you'll hear Aaron Harris, a partner at Y Combinator, get stories and practical advice from founders and investors. Learn how they got started, what went wrong, what surprised them, and what happened as their companies grew. Originally broadcast on Sirius XM's Business Radio powered by the Wharton school on Sirius 111.", 
+ "title": "Startup School Radio", 
+ "cover_url": "http://i1.sndcdn.com/avatars-000144347080-l2i24h-original.png", 
+ "episodes": [
+  {
+   "total_time": 3222, 
+   "subtitle": "In Episode 32 of Y Combinator's Startup School Ra\u2026", 
+   "description": "In Episode 32 of Y Combinator's Startup School Radio, host Aaron Harris interviews SketchDeck founder Chris Finneral and BlueSmart founder Diego Saez Bil", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/episode-32-chris-finneral-of-sketchdeck-diego-saez-gil-of-bluesmart", 
+   "guid": "tag:soundcloud,2010:tracks/242922888", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/242922888-akharris-episode-32-chris-finneral-of-sketchdeck-diego-saez-gil-of-bluesmart.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 51451065
+    }
+   ], 
+   "title": "Episode 32: Chris Finneral of SketchDeck, Diego Saez Gil of BlueSmart", 
+   "published": 1453312040
+  }, 
+  {
+   "total_time": 3229, 
+   "subtitle": "Episode 31 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 31 of Startup School Radio: Host Aaron Harris interviews Aptible co-founder Chas Ballew and Checkr co-founder Daniel Yanisse", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/episode-31-aptibles-chas-ballew-checkrs-daniel-yanisse", 
+   "guid": "tag:soundcloud,2010:tracks/237124122", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/237124122-akharris-episode-31-aptibles-chas-ballew-checkrs-daniel-yanisse.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 51549324
+    }
+   ], 
+   "title": "Episode 31: Aptible's Chas Ballew, Checkr's Daniel Yanisse", 
+   "published": 1449859261
+  }, 
+  {
+   "total_time": 3228, 
+   "subtitle": "Episode 30 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 30 of Startup School Radio: Host Aaron Harris interviews Aaron Glazer, the CEO of Taplytics, and Yur Sagalov, a partner at Y Combinator", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/episode-30-taplytics-aaron-glazer-y-combinators-yuri-sagalov", 
+   "guid": "tag:soundcloud,2010:tracks/237123875", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/237123875-akharris-episode-30-taplytics-aaron-glazer-y-combinators-yuri-sagalov.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 51536397
+    }
+   ], 
+   "title": "Episode 30: Taplytics' Aaron Glazer, Y Combinator's Yuri Sagalov", 
+   "published": 1449859137
+  }, 
+  {
+   "total_time": 3227, 
+   "subtitle": "Episode 29 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 29 of Startup School Radio: Host Aaron Harris interviews Sofia Pessanha and Vasco Pedro the co-founders of Unbabel, and AJ Forsythe, the CEO of iCracked", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/episode-29-unbabels-sofia-pessanha-and-vasco-pedro-icrackeds-aj-forsythe", 
+   "guid": "tag:soundcloud,2010:tracks/237123228", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/237123228-akharris-episode-29-unbabels-sofia-pessanha-and-vasco-pedro-icrackeds-aj-forsythe.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 77347966
+    }
+   ], 
+   "title": "Episode 29: Unbabel's Sofia Pessanha and Vasco Pedro, iCracked's AJ Forsythe", 
+   "published": 1449858856
+  }, 
+  {
+   "total_time": 3226, 
+   "subtitle": "Episode 27 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 27 of Startup School Radio: Host Aaron Harris interviews Jeff Byun, the co-founder of OrderAhead, and Mitch Wainer, the co-founder of Digital Ocean", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-ep-27-sketchdecks-chris-finneral-bluesmarts-diego-saez-gil", 
+   "guid": "tag:soundcloud,2010:tracks/237121323", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/237121323-akharris-startup-school-ep-27-sketchdecks-chris-finneral-bluesmarts-diego-saez-gil.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 51506122
+    }
+   ], 
+   "title": "Startup School Ep. 27: OrderAhead's Jeff Byun, Digital Ocean's Mitch Wainer", 
+   "published": 1449857961
+  }, 
+  {
+   "total_time": 3233, 
+   "subtitle": "Episode 28 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 28 of Startup School Radio: Host Aaron Harris interviews Jacob Rosenberg, the co-founder of LendUp, and Harjeet Taggar, the co-founder of Triplebyte", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-ep-27-lendups-jacob-rosenberg-triplebytes-harj-taggar", 
+   "guid": "tag:soundcloud,2010:tracks/236836041", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/236836041-akharris-startup-school-ep-27-lendups-jacob-rosenberg-triplebytes-harj-taggar.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 51617712
+    }
+   ], 
+   "title": "Startup School Ep. 28: LendUp's Jacob Rosenberg, Triplebyte's Harj Taggar", 
+   "published": 1449693989
+  }, 
+  {
+   "total_time": 3227, 
+   "subtitle": "Episode 26 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 26 of Startup School Radio: Host Aaron Harris interviews Henrik Werdelin, Carly Strife, and Matt Meeker, the founders of Bark & Co.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-ep-26-bark-co-with-henrik-werdelin-carly-strife-and-matt-meeker", 
+   "guid": "tag:soundcloud,2010:tracks/235762970", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/235762970-akharris-startup-school-ep-26-bark-co-with-henrik-werdelin-carly-strife-and-matt-meeker.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 51528045
+    }
+   ], 
+   "title": "Startup School Ep. 26: Bark & Co with Henrik Werdelin, Carly Strife, and Matt Meeker", 
+   "published": 1449077198
+  }, 
+  {
+   "total_time": 3196, 
+   "subtitle": "Episode 25 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 25 of Startup School Radio: Host Aaron Harris interviews Elad Gil, the founder of Color Genomics. They talk about Elad's path from academia to startups, the early days of mobile, and starting a companies in widely disparate fields.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-25-elad-gil", 
+   "guid": "tag:soundcloud,2010:tracks/233714200", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/233714200-akharris-startup-school-radio-ep-25-elad-gil.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 76596784
+    }
+   ], 
+   "title": "Startup School Radio Ep. 25: Elad Gil", 
+   "published": 1447900027
+  }, 
+  {
+   "total_time": 3196, 
+   "subtitle": "Episode 24 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 24 of Startup School Radio: Host Aaron Harris interviews Sam Altman, President of Y Combinator. Also on the show: Aarjav Trivedi, founder of ridecell", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-24-sam-altman-and-aarjav-trivedi", 
+   "guid": "tag:soundcloud,2010:tracks/232765677", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/232765677-akharris-startup-school-radio-ep-24-sam-altman-and-aarjav-trivedi.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 76597057
+    }
+   ], 
+   "title": "Startup School Radio Ep. 24: Sam Altman And Aarjav Trivedi", 
+   "published": 1447348805
+  }, 
+  {
+   "total_time": 3226, 
+   "subtitle": "Episode 23 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 23 of Startup School Radio: Host Aaron Harris interviews Jessica Livingston, cofounder of and Partner at Y Combinator. Also on the show: Nick Damiano and Shreya Mehta from Zenflow.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-23-jessica-livingston-zenflow", 
+   "guid": "tag:soundcloud,2010:tracks/231573368", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/231573368-akharris-startup-school-radio-ep-23-jessica-livingston-zenflow.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 77317891
+    }
+   ], 
+   "title": "Startup School Radio Ep. 23: Jessica Livingston & Zenflow", 
+   "published": 1446671647
+  }, 
+  {
+   "total_time": 3229, 
+   "subtitle": "Episode 22 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 22 of Startup School Radio: Host Aaron Harris interviews Rick Morrison, cofounder of Comprehend. Also on the show: Jake Klamka, founder of Insight Data Science.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-22-rick-morrison-jake-klamka", 
+   "guid": "tag:soundcloud,2010:tracks/230646216", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/230646216-akharris-startup-school-radio-ep-22-rick-morrison-jake-klamka.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 51548746
+    }
+   ], 
+   "title": "Startup School Radio Ep. 22: Rick Morrison & Jake Klamka", 
+   "published": 1446135258
+  }, 
+  {
+   "total_time": 3208, 
+   "subtitle": "Episode 21 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 21 of Startup School Radio: Host Aaron Harris interviews Ryan Petersen, founder of Flexport. Also on the show: Ooshma Garg, founder of Gobble.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-21-ryan-petersen-ooshma-garg", 
+   "guid": "tag:soundcloud,2010:tracks/229592795", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/229592795-akharris-startup-school-radio-ep-21-ryan-petersen-ooshma-garg.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 51225280
+    }
+   ], 
+   "title": "Startup School Radio Ep. 21: Ryan Petersen & Ooshma Garg", 
+   "published": 1445531827
+  }, 
+  {
+   "total_time": 3228, 
+   "subtitle": "Episode 20 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 20 of Startup School Radio: Host Aaron Harris interviews Prayag Narula, cofounder of LeadGenius. Also on the show: Jason Tan, cofounder and CEO of Sift Science.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-20-prayag-narula-jason-tan", 
+   "guid": "tag:soundcloud,2010:tracks/228439717", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/228439717-akharris-startup-school-radio-ep-20-prayag-narula-jason-tan.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 77361578
+    }
+   ], 
+   "title": "Startup School Radio Ep. 20: Prayag Narula & Jason Tan", 
+   "published": 1444865252
+  }, 
+  {
+   "total_time": 3233, 
+   "subtitle": "Episode 19 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 19 of Startup School Radio: Host Aaron Harris interviews Tyler Bosmenay, cofounder of Clever. Also on the show: Jason Freedman, founder and CEO of 42floors.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-19-tyler-bosmany-jason-freedman", 
+   "guid": "tag:soundcloud,2010:tracks/226323384", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/226323384-akharris-startup-school-radio-ep-19-tyler-bosmany-jason-freedman.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 77474884
+    }
+   ], 
+   "title": "Startup School Radio Ep. 19: Tyler Bosmany & Jason Freedman", 
+   "published": 1443645422
+  }, 
+  {
+   "total_time": 3219, 
+   "subtitle": "Episode 18 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 18 of Startup School Radio: Host Aaron Harris interviews Bill Clerico, cofounder of WePay. Also on the show: Taro Fukuyama, founder and CEO of Anyperk.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-18-bill-clerico-taro-fukuyama", 
+   "guid": "tag:soundcloud,2010:tracks/225441824", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/225441824-akharris-startup-school-radio-ep-18-bill-clerico-taro-fukuyama.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 77161872
+    }
+   ], 
+   "title": "Startup School Radio Ep. 18: Bill Clerico & Taro Fukuyama", 
+   "published": 1443134986
+  }, 
+  {
+   "total_time": 3194, 
+   "subtitle": "Episode 17 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 17 of Startup School Radio: Host Aaron Harris interviews YC partner Michael Seibel. Also on the show: Wade Foster, cofounder and CEO of Zapier.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-17-michael-seibel-wade-foster", 
+   "guid": "tag:soundcloud,2010:tracks/224146075", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/224146075-akharris-startup-school-radio-ep-17-michael-seibel-wade-foster.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 76557060
+    }
+   ], 
+   "title": "Startup School Radio Ep. 17: Michael Seibel & Wade Foster", 
+   "published": 1442420080
+  }, 
+  {
+   "total_time": 3196, 
+   "subtitle": "Episode 16 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 16 of Startup School Radio: Host Aaron Harris interviews YC partner Qasar Younis. Also on the show: Frederick Hutson, founder and CEO of Pigeon.ly.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-16-qasar-younis-frederick-hutson", 
+   "guid": "tag:soundcloud,2010:tracks/223103719", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/223103719-akharris-startup-school-radio-ep-16-qasar-younis-frederick-hutson.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 76607007
+    }
+   ], 
+   "title": "Startup School Radio Ep. 16: Qasar Younis & Frederick Hutson", 
+   "published": 1441823588
+  }, 
+  {
+   "total_time": 3228, 
+   "subtitle": "Episode 15 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 15 of Startup School Radio: Host Aaron Harris interviews Ryan Hoover, the founder and CEO of Product Hunt. Also on the show: Harry Zhang, Cofounder and CEO of Lob.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-15-ryan-hoover-harry-zhang", 
+   "guid": "tag:soundcloud,2010:tracks/222095609", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/222095609-akharris-startup-school-radio-ep-15-ryan-hoover-harry-zhang.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 51545410
+    }
+   ], 
+   "title": "Startup School Radio Ep. 15: Ryan Hoover & Harry Zhang", 
+   "published": 1441237340
+  }, 
+  {
+   "total_time": 3224, 
+   "subtitle": "Episode 14 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 14 of Startup School Radio: Host Aaron Harris interviews James Beshara, founder of Tilt. Also on the show: Alex Chang, the founder of Boostable.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-14-james-beshara-alex-chang", 
+   "guid": "tag:soundcloud,2010:tracks/219963336", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/219963336-akharris-startup-school-radio-ep-14-james-beshara-alex-chang.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 77274564
+    }
+   ], 
+   "title": "Startup School Radio Ep. 14: James Beshara & Alex Chang", 
+   "published": 1440003143
+  }, 
+  {
+   "total_time": 3219, 
+   "subtitle": "Episode 13 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 13 of Startup School Radio: Host Aaron Harris interviews Farmlogs CEO and cofounder, Jesse Volmar. Also on the show: Nick Carson & Phillip Akhzar from Pakible.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-13-jesse-volmar-nick-carson-phillip-akhzar", 
+   "guid": "tag:soundcloud,2010:tracks/219102335", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/219102335-akharris-startup-school-radio-ep-13-jesse-volmar-nick-carson-phillip-akhzar.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 77160490
+    }
+   ], 
+   "title": "Startup School Radio Ep. 13: Jesse Vollmar, Nick Carson & Phillip Akhzar", 
+   "published": 1439490958
+  }, 
+  {
+   "total_time": 2950, 
+   "subtitle": "Episode 12 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 12 of Startup School Radio: Host Aaron Harris interviews Y Combinator partner Dalton Caldwell. Also on the show: Brandon Rodman, cofounder and CEO of Weave Communications.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-12-dalton-caldwell-brandon-rodman", 
+   "guid": "tag:soundcloud,2010:tracks/217918143", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/217918143-akharris-startup-school-radio-ep-12-dalton-caldwell-brandon-rodman.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 47104219
+    }
+   ], 
+   "title": "Startup School Radio Ep. 12: Dalton Caldwell & Brandon Rodman", 
+   "published": 1438792584
+  }, 
+  {
+   "total_time": 3226, 
+   "subtitle": "Episode 11 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 11 of Startup School Radio: Host Aaron Harris interviews Y Combinator partner Paul Bucheit. Also on the show: Miles Penn and Rafi Witten, co-founders of mTailor.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-11-paul-bucheit-and-mtailor", 
+   "guid": "tag:soundcloud,2010:tracks/216958270", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/216958270-akharris-startup-school-radio-ep-11-paul-bucheit-and-mtailor.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 77312508
+    }
+   ], 
+   "title": "Startup School Radio Ep. 11: Paul Buchheit & mTailor", 
+   "published": 1438214625
+  }, 
+  {
+   "total_time": 3228, 
+   "subtitle": "Episode 10 of Startup School Radio: Host Aaron Ha\u2026", 
+   "description": "Episode 10 of Startup School Radio: Host Aaron Harris interviews Elizabeth Iorns, co founder and CEO of Science Exchange and Brian Merritt, co founder and CEO of SEED.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-10-elizabeth-iorns-and-brian-merritt", 
+   "guid": "tag:soundcloud,2010:tracks/215915651", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/215915651-akharris-startup-school-radio-ep-10-elizabeth-iorns-and-brian-merritt.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 77363932
+    }
+   ], 
+   "title": "Startup School Radio Ep 10: Elizabeth Iorns & Brian Merritt", 
+   "published": 1437605031
+  }, 
+  {
+   "total_time": 3226, 
+   "subtitle": "Episode 9 of Startup School Radio: Host Aaron Har\u2026", 
+   "description": "Episode 9 of Startup School Radio: Host Aaron Harris interviews Geoff Ralston, Partner at Y Combinator and founder of Imagine K12. Also on the show: David Bladow, co-founder Bloomthat.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-ep-9-geoff-ralston-david-bladow", 
+   "guid": "tag:soundcloud,2010:tracks/214851959", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/214851959-akharris-startup-school-ep-9-geoff-ralston-david-bladow.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 77314863
+    }
+   ], 
+   "title": "Startup School Radio Ep. 9: Geoff Ralston & David Bladow", 
+   "published": 1436978773
+  }, 
+  {
+   "total_time": 3228, 
+   "subtitle": "Episode 8 of Startup School Radio: Host Aaron Har\u2026", 
+   "description": "Episode 8 of Startup School Radio: Host Aaron Harris interviews Kat Manalac, Partner at Y Combinator. Also on the show: Urska Srsen, co-founder and CEO of Bellabeat", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-ep-8-kat-manalac-and-urska-srsen", 
+   "guid": "tag:soundcloud,2010:tracks/212856006", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/212856006-akharris-startup-school-ep-8-kat-manalac-and-urska-srsen.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 51535703
+    }
+   ], 
+   "title": "Startup School Radio Ep. 8: Kat Manalac & Urska Srsen", 
+   "published": 1435786415
+  }, 
+  {
+   "total_time": 3226, 
+   "subtitle": "Episode 7 of Startup School Radio: Host Aaron Har\u2026", 
+   "description": "Episode 7 of Startup School Radio: Host Aaron Harris interviews Kevin Hale, Co-founder of Wufoo and Partner at Y Combinator. Also on the show: Johnny Chin, Co-founder and CEO of Bannerman.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-ep-7-kevin-hale-johnny-chin", 
+   "guid": "tag:soundcloud,2010:tracks/211851165", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/211851165-akharris-startup-school-ep-7-kevin-hale-johnny-chin.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 77316039
+    }
+   ], 
+   "title": "Startup School Radio Ep. 7: Kevin Hale & Johnny Chin", 
+   "published": 1435188128
+  }, 
+  {
+   "total_time": 3226, 
+   "subtitle": "Episode 6 of Startup School Radio: Host Aaron Har\u2026", 
+   "description": "Episode 6 of Startup School Radio: Host Aaron Harris interviews Marco Zappacosta, Co-founder and CEO of Thumbtack. Also on the show: Sanjay Dastoor, Co-founder and CEO of Boosted.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-ep-6-marco-zappacosta-sanjay-dastoor", 
+   "guid": "tag:soundcloud,2010:tracks/210805112", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/210805112-akharris-startup-school-ep-6-marco-zappacosta-sanjay-dastoor.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 77316265
+    }
+   ], 
+   "title": "Startup School Radio Ep. 6: Marco Zappacosta & Sanjay Dastoor", 
+   "published": 1434576023
+  }, 
+  {
+   "total_time": 3229, 
+   "subtitle": "Episode 5 of Startup School Radio: Host Aaron Har\u2026", 
+   "description": "Episode 5 of Startup School Radio: Host Aaron Harris interviews Alan and David Tisch, the founders of Spring. Also on the show: Olga Vidisheva, Founder and CEO of Shoptiques.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-5-spring-shoptiques", 
+   "guid": "tag:soundcloud,2010:tracks/209754407", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/209754407-akharris-startup-school-radio-ep-5-spring-shoptiques.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 77397859
+    }
+   ], 
+   "title": "Startup School Radio Ep. 5: Alan Tisch, David Tisch, & Olga Vidisheva", 
+   "published": 1433971057
+  }, 
+  {
+   "total_time": 3228, 
+   "subtitle": "Episode 4 of Startup School Radio: Host Aaron Har\u2026", 
+   "description": "Episode 4 of Startup School Radio: Host Aaron Harris interviews Tracy Young, Ryan Sutton-Gee, and Ralph Gootee, the founders of PlanGrid. Also on the show: Liz Wessel and JJ Fliegelman, the founders of Campus Job.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-4-plangrid-campus-job", 
+   "guid": "tag:soundcloud,2010:tracks/208803408", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/208803408-akharris-startup-school-radio-ep-4-plangrid-campus-job.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 77362177
+    }
+   ], 
+   "title": "Startup School Radio Ep. 4: PlanGrid & Campus Job", 
+   "published": 1433439765
+  }, 
+  {
+   "total_time": 3229, 
+   "subtitle": "Episode 3 of Startup School Radio: Host Aaron Har\u2026", 
+   "description": "Episode 3 of Startup School Radio: Host Aaron Harris interviews Pete Koomen, founder and CTO of Optimizely and Jeremy Yamaguchi, founder and CEO of Lawn Love", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-3-pete-koomen-jeremy-yamaguchi", 
+   "guid": "tag:soundcloud,2010:tracks/207374191", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/207374191-akharris-startup-school-radio-ep-3-pete-koomen-jeremy-yamaguchi.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 77385342
+    }
+   ], 
+   "title": "Startup School Radio Ep. 3: Pete Koomen & Jeremy Yamaguchi", 
+   "published": 1432680625
+  }, 
+  {
+   "total_time": 3188, 
+   "subtitle": "Episode 2 of Startup School Radio: Host Aaron Har\u2026", 
+   "description": "Episode 2 of Startup School Radio: Host Aaron Harris interviews Justin Kan, cofounder of Justin.tv, Exec, and Twitch. Also on the show, Mathilde Collin, Founder and CEO of Front.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-2-justin-kan-mathilde-collin", 
+   "guid": "tag:soundcloud,2010:tracks/205471163", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/205471163-akharris-startup-school-radio-ep-2-justin-kan-mathilde-collin.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 76399335
+    }
+   ], 
+   "title": "Startup School Radio Ep. 2: Justin Kan & Mathilde Collin", 
+   "published": 1431624321
+  }, 
+  {
+   "total_time": 3227, 
+   "subtitle": "Episode 1 of Startup School Radio: Host Aaron Har\u2026", 
+   "description": "Episode 1 of Startup School Radio: Host Aaron Harris interviews Alexis Ohanian, the Founder and Executive Chairman of Reddit. Also on the show, Kaz Nejatian, Founder and CEO of Kash.", 
+   "payment_url": null, 
+   "link": "https://soundcloud.com/akharris/startup-school-radio-ep-1-alexis-ohanian-kaz-nejatian", 
+   "guid": "tag:soundcloud,2010:tracks/203474893", 
+   "enclosures": [
+    {
+     "url": "http://feeds.soundcloud.com/stream/203474893-akharris-startup-school-radio-ep-1-alexis-ohanian-kaz-nejatian.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 77354042
+    }
+   ], 
+   "title": "Startup School Radio Ep. 1: Alexis Ohanian & Kaz Nejatian", 
+   "published": 1430506003
+  }
+ ], 
+ "link": "http://www.aaronkharris.com"
+}

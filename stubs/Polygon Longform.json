@@ -1,0 +1,332 @@
+{
+ "paged_feed_next": "http://feeds.soundcloud.com/users/soundcloud:users:120585767/sounds.rss?before=174595402", 
+ "description": "Polygon Longform is a podcast containing spoken word versions of our in-depth features and monthly covers. If you like stories about not only games but the artists who make them, the fans who love them and the culture surrounding them, then this is the show for you.", 
+ "title": "Polygon Longform", 
+ "cover_url": "http://i1.sndcdn.com/avatars-000170955959-w4bvca-original.jpg", 
+ "episodes": [
+  {
+   "total_time": 2314, 
+   "subtitle": "How economic sanctions and piracy shape how peopl\u2026", 
+   "description": "How economic sanctions and piracy shape how people in Iran make and play games. Read the full feature here: http://is.gd/nZps3R Subscribe to Polygon Longform to get every episode as soon as it's released: - iTunes: itunes.com/polygonlongform - RSS for your podcast player for choice: feed://feeds.feedburner.com/PolygonLongform - SoundCloud: @polygon-longform - Download the MP3: polygon.com/longform<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/7ci1GfVsyPY\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/7ci1GfVsyPY/the-game-industry-of-iran", 
+   "guid": "tag:soundcloud,2010:tracks/242142080", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/DHXUYoxEmyo/242142080-polygon-longform-the-game-industry-of-iran.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 27778816
+    }
+   ], 
+   "title": "The game industry of Iran", 
+   "published": 1452887523
+  }, 
+  {
+   "total_time": 1133, 
+   "subtitle": "In January 2010, Donald Mustard was sitting on hi\u2026", 
+   "description": "In January 2010, Donald Mustard was sitting on his couch when he made a decision that would change his life, the course of his company and send him on a collision course with Star Wars: The Force Awakens director J.J. Abrams. And it was kind of an accident. Read the full feature here: http://is.gd/Wkgx4W Subscribe to Polygon Longform to get every episode as soon as it's released: - iTunes: http://itunes.com/polygonlongform - RSS for your podcast player for choice: feed://feeds.feedburner.com/PolygonLongform - SoundCloud: https://soundcloud.com/polygon-longform - Download the MP3: http://polygon.com/longform<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/d0pJgacSvqs\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/d0pJgacSvqs/how-shadow-complex-led-chair-to-infinity-blade-to-star-wars-to-jj-abrams-and-back-again", 
+   "guid": "tag:soundcloud,2010:tracks/240599448", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/Xa02AL1UNow/240599448-polygon-longform-how-shadow-complex-led-chair-to-infinity-blade-to-star-wars-to-jj-abrams-and-back-again.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 13599136
+    }
+   ], 
+   "title": "How Shadow Complex led Chair to Infinity Blade, to Star Wars, to J.J. Abrams and back again", 
+   "published": 1452048576
+  }, 
+  {
+   "total_time": 1600, 
+   "subtitle": "With remasters in vogue and ports in the spotligh\u2026", 
+   "description": "With remasters in vogue and ports in the spotlight, we look at the art of transferring games to new hardware. Read the feature here: http://www.polygon.com/e/9554069<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/jNWb443QiFc\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/jNWb443QiFc/bridging-the-generation-gap-porting-games-to-new-platforms", 
+   "guid": "tag:soundcloud,2010:tracks/235349849", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/e6sGIt9BM6o/235349849-polygon-longform-bridging-the-generation-gap-porting-games-to-new-platforms.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 19206784
+    }
+   ], 
+   "title": "Bridging the generation gap: Porting games to new platforms", 
+   "published": 1448859288
+  }, 
+  {
+   "total_time": 1936, 
+   "subtitle": "Blizzard wraps up StarCraft 2 on Nov. 10. But tha\u2026", 
+   "description": "Blizzard wraps up StarCraft 2 on Nov. 10. But that isn't the end for the franchise. In Polygon's latest cover story, we speak with those behind the real-time strategy series, who look back on the past and forward to the future. Read the feature here: http://www.polygon.com/e/9434217<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/Q07eD0UrEhQ\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/Q07eD0UrEhQ/starcraft-the-past-present-and-future", 
+   "guid": "tag:soundcloud,2010:tracks/231862357", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/KMyamg_7mCk/231862357-polygon-longform-starcraft-the-past-present-and-future.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 23242240
+    }
+   ], 
+   "title": "StarCraft: The past, present and future", 
+   "published": 1446832544
+  }, 
+  {
+   "total_time": 1561, 
+   "subtitle": "The story of how Trion World is creating Atlas Re\u2026", 
+   "description": "The story of how Trion World is creating Atlas Reactor \u2014 and the things its developers are learning along the way. It started with a pitch jotted down in stream-of-consciousness on a piece of paper. It wasn't a very good pitch. Read the feature and see the game in action here: http://www.polygon.com/features/2015/10/28/9629428/trion-labs-atlas-reactor-feature-gameplay-video-mmo-studio-behind-the-scenes<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/RP7EV3up4zA\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/RP7EV3up4zA/atlas-reactor-how-an-mmo-studio-set-out-to-create-the-next-great-competitive-game", 
+   "guid": "tag:soundcloud,2010:tracks/230830108", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/q4GnWAtY5NY/230830108-polygon-longform-atlas-reactor-how-an-mmo-studio-set-out-to-create-the-next-great-competitive-game.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18739848
+    }
+   ], 
+   "title": "Atlas Reactor: How an MMO studio set out to create the next great competitive game", 
+   "published": 1446233038
+  }, 
+  {
+   "total_time": 1714, 
+   "subtitle": "How Shahid Ahmad breathed new life into the PlayS\u2026", 
+   "description": "How Shahid Ahmad breathed new life into the PlayStation Vita and prepared the company for the PlayStation 4. Read the full feature here: http://www.polygon.com/e/9173738<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/aoJS-Q2524w\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/aoJS-Q2524w/playstation-vita-may-die-childless-but-it-changed-sony-in-time-for-ps4", 
+   "guid": "tag:soundcloud,2010:tracks/230496432", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/aH59LWh0M9w/230496432-polygon-longform-playstation-vita-may-die-childless-but-it-changed-sony-in-time-for-ps4.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 20574208
+    }
+   ], 
+   "title": "PlayStation Vita may die childless, but it changed Sony in time for the PS4", 
+   "published": 1446052387
+  }, 
+  {
+   "total_time": 2192, 
+   "subtitle": "We explore the fascinating technology behind Appl\u2026", 
+   "description": "We explore the fascinating technology behind Apple TV's apps. Read the full feature here: http://www.polygon.com/features/2015/10/26/9604068/apple-tv-app-size-limit-technology-slicing-tags-200-mb<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/ZO_hGPdNYCc\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/ZO_hGPdNYCc/apple-tv-is-a-radical-rethinking-of-your-relationship-with-the-hardware-and-games-you-own", 
+   "guid": "tag:soundcloud,2010:tracks/230388114", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/7ie5oGQzDF8/230388114-polygon-longform-apple-tv-is-a-radical-rethinking-of-your-relationship-with-the-hardware-and-games-you-own.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 26306059
+    }
+   ], 
+   "title": "Apple TV is a radical rethinking of your relationship with the hardware and games you own", 
+   "published": 1445987093
+  }, 
+  {
+   "total_time": 1126, 
+   "subtitle": "With a hit under their belts, the makers of Gone \u2026", 
+   "description": "With a hit under their belts, the makers of Gone Home are setting up a different kind of studio. Read the full feature here: http://www.polygon.com/features/2015/10/1/9416219/tacoma-and-the-new-world-of-making-games<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/J8Not7qC0Ro\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/J8Not7qC0Ro/tacoma-and-the-new-world-of-making-games", 
+   "guid": "tag:soundcloud,2010:tracks/226858450", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/81jauUCtmSw/226858450-polygon-longform-tacoma-and-the-new-world-of-making-games.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 18020992
+    }
+   ], 
+   "title": "Tacoma, Fullbright and the new world of making games", 
+   "published": 1443967516
+  }, 
+  {
+   "total_time": 1636, 
+   "subtitle": "When someone at some point in the chain doesn\u2019t w\u2026", 
+   "description": "When someone at some point in the chain doesn\u2019t want you to know who made a game, and why. Check out the full feature here: http://www.polygon.com/e/9158396<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/XUJPN5Y4YXU\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/XUJPN5Y4YXU/the-secret-developers-of-the-video-game-industry", 
+   "guid": "tag:soundcloud,2010:tracks/225959069", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/9d-EBoB4Nz8/225959069-polygon-longform-the-secret-developers-of-the-video-game-industry.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 26190592
+    }
+   ], 
+   "title": "The secret developers of the video game industry", 
+   "published": 1443455852
+  }, 
+  {
+   "total_time": 1271, 
+   "subtitle": "Jonathan Blow speaks about designing near-impossi\u2026", 
+   "description": "Jonathan Blow speaks about designing near-impossible puzzles, his shift away from Microsoft and embracing open-world games. Read the full article and see The Witness on Polygon here: http://bit.ly/1gyBKBc<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/qrZEUSUlI4U\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/qrZEUSUlI4U/the-witness-the-creator-of-braid-talks-about-his-fiendishly-difficult-new-game", 
+   "guid": "tag:soundcloud,2010:tracks/224474236", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/35blSvnfqlQ/224474236-polygon-longform-the-witness-the-creator-of-braid-talks-about-his-fiendishly-difficult-new-game.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 20339200
+    }
+   ], 
+   "title": "The Witness: The creator of Braid talks about his fiendishly difficult new game", 
+   "published": 1442597789
+  }, 
+  {
+   "total_time": 2249, 
+   "subtitle": "The story of a game with the soul of a comic. R\u2026", 
+   "description": "The story of a game with the soul of a comic. Read and see more here: http://bit.ly/1Upukxw<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/PaHE-LnC0uE\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/PaHE-LnC0uE/battle-chasers-cover", 
+   "guid": "tag:soundcloud,2010:tracks/221779476", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/7o2Ji-wwVeQ/221779476-polygon-longform-battle-chasers-cover.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 35990801
+    }
+   ], 
+   "title": "After Darksiders, Joe Madureira channels Final Fantasy", 
+   "published": 1441066177
+  }, 
+  {
+   "total_time": 2944, 
+   "subtitle": "The story of how Black Tusk became The Coalition \u2026", 
+   "description": "The story of how Black Tusk became The Coalition and started making the future of Gears of War. View the full feature here: http://www.polygon.com/e/8769738<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/HnS-ZqPqX-U\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/HnS-ZqPqX-U/beauty-deconstructed-the-present-and-future-of-gears-of-war", 
+   "guid": "tag:soundcloud,2010:tracks/216729129", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/LHx-RtOL8_E/216729129-polygon-longform-beauty-deconstructed-the-present-and-future-of-gears-of-war.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 47116457
+    }
+   ], 
+   "title": "Beauty deconstructed: The present and future of Gears of War", 
+   "published": 1438097816
+  }, 
+  {
+   "total_time": 3944, 
+   "subtitle": "In 2015, Electronic Arts is one of the largest vi\u2026", 
+   "description": "In 2015, Electronic Arts is one of the largest video game publishers, with studios around the world and thousands of employees working on some of the industry's biggest games. When the company started more than 30 years earlier, things were quite different.<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/j4_6rL29bLI\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/j4_6rL29bLI/how-electronic-arts-lost-its-soul", 
+   "guid": "tag:soundcloud,2010:tracks/213961849", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/d2YeWq8KVL8/213961849-polygon-longform-how-electronic-arts-lost-its-soul.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 63115517
+    }
+   ], 
+   "title": "How Electronic Arts Lost Its Soul", 
+   "published": 1436449764
+  }, 
+  {
+   "total_time": 4218, 
+   "subtitle": "http://www.polygon.com/e/8049570", 
+   "description": "http://www.polygon.com/e/8049570<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/0iWYJpsKBfI\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/0iWYJpsKBfI/cover-5-april-2015-looking-glass", 
+   "guid": "tag:soundcloud,2010:tracks/199054031", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/wPSeRremdX4/199054031-polygon-longform-cover-5-april-2015-looking-glass.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 67493222
+    }
+   ], 
+   "title": "Ahead of its time: The history of Looking Glass", 
+   "published": 1428063997
+  }, 
+  {
+   "total_time": 4568, 
+   "subtitle": "How Microsoft turned an experiment into a global \u2026", 
+   "description": "How Microsoft turned an experiment into a global entertainment service.<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/4LFfgSMHDt0\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/4LFfgSMHDt0/the-second-generation-of-xbox-live", 
+   "guid": "tag:soundcloud,2010:tracks/192913007", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/ScZzAaE-aWQ/192913007-polygon-longform-the-second-generation-of-xbox-live.m4a", 
+     "mime_type": "audio/x-m4a", 
+     "file_size": 73974599
+    }
+   ], 
+   "title": "The Second Generation of Xbox Live", 
+   "published": 1424841750
+  }, 
+  {
+   "total_time": 4399, 
+   "subtitle": "How Microsoft's engineers created the world's fir\u2026", 
+   "description": "How Microsoft's engineers created the world's first broadband-connected game console, based on interviews with the people who made it. Read the feature here: http://www.polygon.com/features/2013/11/11/4849940/xbox-live-millennium-e<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/n7SGEXtH9h4\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/n7SGEXtH9h4/the-birth-of-xbox-live", 
+   "guid": "tag:soundcloud,2010:tracks/192905596", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/nGeeCdBZmJU/192905596-polygon-longform-the-birth-of-xbox-live.m4a", 
+     "mime_type": "audio/x-m4a", 
+     "file_size": 71233110
+    }
+   ], 
+   "title": "The Birth Of Xbox Live", 
+   "published": 1424837557
+  }, 
+  {
+   "total_time": 1770, 
+   "subtitle": "The story of how four companies and several fans \u2026", 
+   "description": "The story of how four companies and several fans brought the Land of the Dead back to life.<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/nMpu3xRFGBw\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/nMpu3xRFGBw/digital-archeology-how-double-fine-disney-lucasarts-and-sony-resurrected-grim-fandango", 
+   "guid": "tag:soundcloud,2010:tracks/188460429", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/CxYUJd1vljg/188460429-polygon-longform-digital-archeology-how-double-fine-disney-lucasarts-and-sony-resurrected-grim-fandango.m4a", 
+     "mime_type": "audio/x-m4a", 
+     "file_size": 58641945
+    }
+   ], 
+   "title": "Digital archeology: How Double Fine, Disney, LucasArts and Sony resurrected Grim Fandango", 
+   "published": 1422537249
+  }, 
+  {
+   "total_time": 2236, 
+   "subtitle": "The Fall of THQ by Polygon Longform", 
+   "description": "The Fall of THQ by Polygon Longform<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/2zV3m8g2dG4\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/2zV3m8g2dG4/the-fall-of-thq", 
+   "guid": "tag:soundcloud,2010:tracks/180720076", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/UwTr89KdquE/180720076-polygon-longform-the-fall-of-thq.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 35975590
+    }
+   ], 
+   "title": "The Fall of THQ", 
+   "published": 1418142627
+  }, 
+  {
+   "total_time": 1613, 
+   "subtitle": "Original story by Matt Leone, read by Dave Tach. \u2026", 
+   "description": "Original story by Matt Leone, read by Dave Tach. http://www.polygon.com/a/call-of-duty-cover<img src=\"http://feeds.feedburner.com/~r/PolygonLongform/~4/3WEHRnAo8U8\" height=\"1\" width=\"1\" alt=\"\"/>", 
+   "payment_url": null, 
+   "link": "http://feedproxy.google.com/~r/PolygonLongform/~3/3WEHRnAo8U8/the-plan-to-reinvent-call-of-duty", 
+   "guid": "tag:soundcloud,2010:tracks/174595402", 
+   "enclosures": [
+    {
+     "url": "http://feedproxy.google.com/~r/PolygonLongform/~5/P61A-3XdsYI/174595402-polygon-longform-the-plan-to-reinvent-call-of-duty.mp3", 
+     "mime_type": "audio/mpeg", 
+     "file_size": 25839494
+    }
+   ], 
+   "title": "The Plan to Reinvent Call of Duty", 
+   "published": 1414696308
+  }
+ ], 
+ "link": "http://www.polygon.com"
+}
