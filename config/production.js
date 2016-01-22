@@ -20,7 +20,6 @@ var winstonLogger = new winston.Logger({
 });
 
 module.exports = {
-  aws: {},
   db: {
     name: match[5],
     username: match[1],
