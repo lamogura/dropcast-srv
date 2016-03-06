@@ -1,6 +1,7 @@
 'use strict';
 
 var fs      = require('fs');
+var path    = require('path');
 var router  = require('express').Router();
 var Helpers = require('./helpers');
 
@@ -32,6 +33,13 @@ router.get('/podcasts/:id/episodes', function (req, res) {
 // Podcasts
 router.get('/podcasts', Helpers.fetchAll.bind(null, Podcast));
 
+router.get('/discovery', function (req, res) {
+  var discoveryFile = fs.readFileSync(path.join(__dirname, '../stubs/discovery.json'));
+  var discoveryInfo = JSON.parse(discoveryFile);
+
+  log.info(require('util').inspect(discoveryInfo));
+  res.json(discoveryInfo);
+});
 
 router.delete('/podcasts', Helpers.destroyAll.bind(null, Podcast));
 
